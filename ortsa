@@ -1327,6 +1327,41 @@ https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
 https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
 
 
+
+############################   FRANCE   #######################################
+
+
+
+#EXTINF:-1 tvg-id="" group-title="France" ch-number="" tvg-logo="",TF1
+https://raw.githubusercontent.com/Ortsa8/stream/main/france/tf1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="France" ch-number="" tvg-logo="",France 2
+https://raw.githubusercontent.com/Ortsa8/stream/main/france/f2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="France" ch-number="" tvg-logo="",France 3
+https://raw.githubusercontent.com/Ortsa8/stream/main/france/f3.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="France" ch-number="" tvg-logo="",Canal+
+https://raw.githubusercontent.com/Ortsa8/stream/main/france/c+.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="France" ch-number="" tvg-logo="",France 5
+https://raw.githubusercontent.com/Ortsa8/stream/main/france/f5.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="France" ch-number="" tvg-logo="",M6
+https://raw.githubusercontent.com/Ortsa8/stream/main/france/m6.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="France" ch-number="" tvg-logo="",W9
+https://raw.githubusercontent.com/Ortsa8/stream/main/france/w9.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="France" ch-number="" tvg-logo="",TF1 Séries Films
+https://raw.githubusercontent.com/Ortsa8/stream/main/france/tf1s.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="France" ch-number="" tvg-logo="",6ter
+https://raw.githubusercontent.com/Ortsa8/stream/main/france/6ter.m3u8
+
+
+
+
 #######################  China  ################################
 
 
