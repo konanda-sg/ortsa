@@ -315,6 +315,11 @@ https://linear07-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
+#EXTINF:-1 tvg-id="K-Plus" ch-number="396" group-title="Korean" tvg-logo="http://www.kplus-asia.com/img/title/logo.png",396 KPlus SK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
+https://linear08-playback.sooka.my/CH5/masterCH5.mpd
+
 
 
 
@@ -554,6 +559,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
+
+#EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",416 tvN Movies SK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0806e179465b42b6b004b491d0f4172e": "566595dba85af569c2ab7ee734e356df"}
+https://linear07-playback.sooka.my/CH1/masterCH1.mpd
 
 
 
