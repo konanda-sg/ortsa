@@ -199,7 +199,7 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/ortsa/aec.m3u8
 #EXTINF:-1 ch-number="307" tvg-id="AstroShuangXing" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"33566705d63f56f1d31c45f69568ed10":"d13bcf0ca6e62d71b6c4dd70d5ffeab2"}
-https://linears-playback.astro.com.my/vsg/41xB7dZWbLRQsJT2UOKSy-jekcrrlSvDd6mAznUHH9ZQM=UnNC/dash-wv/jitp-linearwm/2403/default.mpd
+https://linears-playback.astro.com.my/vsg/41xB7dZWbLRQsJT2UOKSy-jU89wIZj1iIezGqkKALBnoI=UI0_/dash-wv/jitp-linearwm/2403/default.mpd
 
 #EXTINF:-1 ch-number="308" tvg-id="AstroQuanJiaHD" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
