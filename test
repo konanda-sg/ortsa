@@ -69,3 +69,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/705/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/809
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png" group-title="Malaysia",UNIFI SPORTS 4
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
+
+#EXTINF:-1 ch-number="300" tvg-id="iQIYI" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7ef7e913ce85a1131b27036069169a10":"77d98ed71db7524c27875a09a975f9e6"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
