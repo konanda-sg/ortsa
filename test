@@ -49,22 +49,23 @@ https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94c
 
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/707
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png" group-title="Malaysia",UNIFI SPORTS 1
-https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/911
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png" group-title="Malaysia",UNIFI SPORTS 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/911/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tZ1I5dpeNKHRe8tujMNiZw", "kid":"6Ks1BJHgUSgjWFnxJyJbEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/705
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png" group-title="Malaysia",UNIFI SPORTS 3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/705/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/122
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/809
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png" group-title="Malaysia",UNIFI SPORTS 4
-https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
