@@ -6,16 +6,6 @@
 
 ############################## Malay  ########################################
 
-#EXTINF:-1 ch-number="124" tvg-id="TVBMagic" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Magic.png", 5104
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5104
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5104/default.mpd
-
-#EXTINF:-1 ch-number="124" tvg-id="TVBMagic" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Magic.png", 5105
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5105
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5105/default.mpd
-
 #EXTINF:-1 tvg-id="TV1" group-title="Malay" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
