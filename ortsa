@@ -859,7 +859,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MjE1MzYzMSwiaWF0IjoxNjkxNTQ5NjMxfQ.Uef_LXtXzfMjzt6-TkAxydg8KSGFFkyS9h8Ds4skCAA"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7gz8x+pMpxXBuwCiJVBTqQ", "kid":"m5mIlPGIT2SYHvY3RMvvsQ" } ], "type":"temporary" }
-https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+#https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 ch-number="802" tvg-id="AstroArena2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",802 Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
