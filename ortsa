@@ -292,7 +292,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #EXTINF:-1 tvg-id="KBSWorld" ch-number="392" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",392 KBS World SK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e5584cffd615491397b8cded5e679c19": "9031cefad853c78a65c2020821532f3d"}
+#KODIPROP:inputstream.adaptive.license_key={"e5584cffd615491397b8cded5e679c19":"9031cefad853c78a65c2020821532f3d"}
 https://linear03-playback.sooka.my/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="ONE" ch-number="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE 
