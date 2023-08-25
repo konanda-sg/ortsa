@@ -308,7 +308,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 #EXTINF:-1 tvg-id="tvN" ch-number="395" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",395 tvN SK
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MjE1MzYzMSwiaWF0IjoxNjkxNTQ5NjMxfQ.Uef_LXtXzfMjzt6-TkAxydg8KSGFFkyS9h8Ds4skCAA"}
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=9b998894f1884f64981ef63744cbefb1:ee0cfcc7ea4ca715c1bb00a2255053a9
+#KODIPROP:inputstream.adaptive.license_key={"9b998894f1884f64981ef63744cbefb1":"ee0cfcc7ea4ca715c1bb00a2255053a9"}
 https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="K-Plus" ch-number="396" group-title="Korean" tvg-logo="http://www.kplus-asia.com/img/title/logo.png",396 KPlus
@@ -860,7 +860,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #EXTINF:-1 ch-number="801" tvg-id="AstroArena" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Arena S
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzUyMzk3NSwiaWF0IjoxNjkyOTE5OTc1fQ.VAU50wCYobXQtP5zLSPqB93fm5pNzZkQNSbHhr9ToFI"}
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=24ae86774df0428fb46f153e81664662:09a6cf0424f10e76da4ac307b7e7ff04
+#KODIPROP:inputstream.adaptive.license_key={"24ae86774df0428fb46f153e81664662":"09a6cf0424f10e76da4ac307b7e7ff04"}
 https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 ch-number="802" tvg-id="AstroArena2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",802 Arena 2
