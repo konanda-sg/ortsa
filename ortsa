@@ -130,7 +130,7 @@ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 #EXTINF:-1 tvg-id="Pesona.my" tvg-name="Degup" group-title="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615",UNIFI DEGUP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
-https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
 
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" group-title="Malay" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",UNIFI DUNIA SINEMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
