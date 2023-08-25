@@ -87,6 +87,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5021
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
+#EXTINF:-1 tvg-id="AwesomeTV.my" tvg-name="Awesome TV" group-title="Malay" tvg-logo="https://iili.io/1NqAMl.png",123 AWESOME TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+
+#EXTINF:-1 ch-number="124" tvg-id="TVBMagic" group-title="Malay" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Magic.png", 124 TVB Magic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5107
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default.mpd
+
 #EXTINF:-1 tvg-id="146" tvg-name="TV Okey" ch-number="146" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" group-title="Malay",146 Okey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
