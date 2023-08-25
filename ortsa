@@ -2249,3 +2249,139 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="日本",スターチャンネル3
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+
+
+************************************RADIO*********************************************************
+
+
+
+#EXTINF:-1 tvg-id="HITZ" tvg-name="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="radio",852 HITZ FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/121
+https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
+
+#EXTINF:-1 tvg-id="MY" tvg-name="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="radio",853 MY FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/119
+https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
+
+#EXTINF:-1 tvg-id="LITE" tvg-name="LITE" ch-number="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" group-title="radio",854 LITE FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/123
+https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd
+
+#EXTINF:-1 tvg-id="MIX" tvg-name="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="radio",855 MIX FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/122
+https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ERA" tvg-name="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="radio",856 ERA FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/118
+https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
+
+#EXTINF:-1 tvg-id="SINAR" tvg-name="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="radio",857 SINAR FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/130
+https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
+
+#EXTINF:-1 tvg-id="MELODY" tvg-name="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png" group-title="radio",858 MELODY FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/132
+https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd
+
+#EXTINF:-1 tvg-id="RAAGA" tvg-name="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="radio",859 RAAGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/134
+https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ROCK" tvg-name="ROCK" ch-number="860" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" group-title="radio",860 CLASSIC ROCK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/124
+https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GOLD" tvg-name="GOLD" ch-number="861" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" group-title="radio",861 GOLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/125
+https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd
+
+#EXTINF:-1 tvg-id="OPUS" tvg-name="OPUS" ch-number="862" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" group-title="radio",862 OPUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/120
+https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GEGAR" tvg-name="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="radio",863 GEGAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/126
+https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
+
+#EXTINF:-1 tvg-id="INDIA" tvg-name="INDIA" ch-number="864" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="radio",864 INDIA BEAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/127
+https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
+
+#EXTINF:-1 tvg-id="JAZZ" tvg-name="JAZZ" ch-number="865" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" group-title="radio",865 JAZZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/128
+https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
+
+#EXTINF:-1 tvg-id="OSAI" tvg-name="OSAI" ch-number="866" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" group-title="radio",866 OSAI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/131
+https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_primary.mpd
+
+#EXTINF:-1 tvg-id="BAYU" tvg-name="BAYU" ch-number="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="radio",867 BAYU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/135
+https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
+
+#EXTINF:-1 tvg-id="KENYALANG" tvg-name="KENYALANG" ch-number="868" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png" group-title="radio",868 KENYALANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/136
+https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
+
+#EXTINF:-1 tvg-id="NASFM" tvg-name="NASFM" ch-number="869" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png" group-title="radio",869 NAS FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/129
+https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_primary.mpd
+
+#EXTINF:-1 tvg-id="VFM" tvg-name="VFM" ch-number="870" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png" group-title="radio",870 V FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/133
+https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd
+
+#EXTINF:-1 tvg-id="WAIFM" tvg-name="WAIFM" ch-number="871" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/145_144.png" group-title="radio",871 WAI FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/137
+https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_primary.mpd
+
+#EXTINF:-1 tvg-id="TRAXXFM" tvg-name="TRAXXFM" ch-number="872" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="radio",872 TRAXX FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/138
+https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
+
+#EXTINF:-1 tvg-id="MINNALFM" tvg-name="MINNALFM" ch-number="873" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="radio",873 MINNAL FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/139
+https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AIFM" tvg-name="AIFM" ch-number="874" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png" group-title="radio",874 AI FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/140
+https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ASYIKFM" tvg-name="ASYIKFM" ch-number="875" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/310_144.png" group-title="radio",875 ASYIK FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/141
+https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ZAYAN" tvg-name="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" group-title="radio",876 ZAYAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/142
+https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GOXUAN" tvg-name="GOXUAN" ch-number="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" group-title="radio",877 GO XUAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/143
+https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
