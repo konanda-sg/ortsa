@@ -342,11 +342,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2306
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
-#EXTINF:-1 tvg-id="KBSWorld" ch-number="392" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",392 KBS World SK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5584cffd615491397b8cded5e679c19:9031cefad853c78a65c2020821532f3d
-https://linear03-playback.sooka.my/CH1/masterCH1.mpd
-
 #EXTINF:-1 tvg-id="ONE" ch-number="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
@@ -357,22 +352,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#EXTINF:-1 tvg-id="tvN" ch-number="395" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",395 tvN SK
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzUyMzk3NSwiaWF0IjoxNjkyOTE5OTc1fQ.VAU50wCYobXQtP5zLSPqB93fm5pNzZkQNSbHhr9ToFI"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee0cfcc7ea4ca715c1bb00a2255053a9:9b998894f1884f64981ef63744cbefb1
-https://linear03-playback.sooka.my/CH4/masterCH4.mpd
-
 #EXTINF:-1 tvg-id="K-Plus" ch-number="396" group-title="Korean" tvg-logo="http://www.kplus-asia.com/img/title/logo.png",396 KPlus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
-#EXTINF:-1 tvg-id="K-Plus" ch-number="396" group-title="Korean" tvg-logo="http://www.kplus-asia.com/img/title/logo.png",396 KPlus SK
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MjE1MzYzMSwiaWF0IjoxNjkxNTQ5NjMxfQ.Uef_LXtXzfMjzt6-TkAxydg8KSGFFkyS9h8Ds4skCAA"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YemYwRTdjd3hVLXJmN3ZMU19jZTQ3dk5JTzR2WFEwNXN1c0l1U0RYTU9NbTktZ29IbmE0bWg3Qy1Ca3pOYU5mdVB4M1lrRnlwNExQRS1ndGJVZ1NEc3JXMEFCNV93SXZxMlJ4RUFfOFpzUU03V0VORWljZmJYNVY5d3pTTGctdklZOXgxcHJIZGYyQVVET3lsYWlvRTE3YmlUNlRuVXgwZXRZZzlTcHRhem1MOEFNWlI3ZUhrWGtTcENpQm84QW9qbHdkSlhSOU14a29CVldWLVZKejlPLUZ2bVdfR1hLZGxvbkFPNlNlVU1mMHlNc0RzWWoyZkFsVDBOZUFfdXhZSnpHZktUb2pmVDBScUY1aTQyVFQ1WWFlY2F3YzluVjhhZ09mekk0SXdralpickxpcjhPRmxpbHRfQWd2cmJKQXJ3bGV2WVd1VEQ1SmNSM210alZBZ2s1SDRFaVNQSmdIQzRGN1BKeVdLZDdaUHlNNHd3eVpDdTBQMVAxUllrakt0VndSQkFVd0dMc0gzRjhKR1VNOEs5cVhqSEV3N0tvYWdlLU90VE1TZnBOY21DX0xjVmJDT0IyWmxTTWt0X0VaSkVkRHhDWldja2xsZTh4NERqQTJUVTgmY29udGV4dFR5cGU9bm9uZSZpZD0xODc4NTEyOSIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiI1NDg2NGVkOWYyNmI0ZjA3YWQxNDYzZWE0ODdjYjNjNSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h6ZjBFN2N3eFUtcmY3dkxTX2NlNDd2TklPNHZYUTA1c3VzSXVTRFhNT01tOS1nb0huYTRtaDdDLUJrek5hTmZ1UHgzWWtGeXA0TFBFLWd0YlVnU0RzclcwQUI1X3dJdnEyUnhFQV84WnNRTTdXRU5FaWNmYlg1Vjl3elNMZy12SVk5eDFwckhkZjJBVURPeWxhaW9FMTdiaVQ2VG5VeDBldFlnOVNwdGF6bUw4QU1aUjdlSGtYa1NwQ2lCbzhBb2psd2RKWFI5TXhrb0JWV1YtVkp6OU8tRnZtV19HWEtkbG9uQU82U2VVTWYweU1zRHNZajJmQWxUME5lQV91eFlKekdmS1RvamZUMFJxRjVpNDJUVDVZYWVjYXdjOW5WOGFnT2Z6STRJd2tqWmJyTGlyOE9GbGlsdF9BZ3ZyYkpBcndsZXZZV3VURDVKY1IzbXRqVkFnazVINEVpU1BKZ0hDNEY3UEp5V0tkN1pQeU00d3d5WkN1MFAxUDFSWWtqS3RWd1JCQVV3R0xzSDNGOEpHVU04SzlxWGpIRXc3S29hZ2UtT3RUTVNmcE5jbUNfTGNWYkNPQjJabFNNa3RfRVpKRWREeENaV2NrbGxlOHg0RGpBMlRVOCIsInVkaWQiOiJhYmEwZTI1MC1lM2M3LTQxZjctYWU5Ni04NWI2ZWY5MzA1YzRfV0VCLWJmZmU5MzY5LWJkYjAtMjQwYS01MDNkLWE3NTI1ZGRjNDE1OSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=tMHJh7zC%2b1l0GnVwMAn6RFkyGAw%3d
-https://linear08-playback.sooka.my/CH5/masterCH5.mpd
 
 
 #######https://github.com/Televison/LeanbackLauncher/blob/123193ae274e1569fbdf393795bba2196c435a26/.idea/S-Korea.m3u
@@ -879,6 +863,77 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"0806e179465b42b6b004b491d0f4172e": "566595dba85af569c2ab7ee734e356df"}
 https://linear07-playback.sooka.my/CH1/masterCH1.mpd
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/1bnnKTL/20220926-161758.png" tvg-id="hbosignatureasia.sg", HBO Signature HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemachihd.id" group-title="Movies" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi.png",Cinemachi HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://punya.mammothtv.my.id/vision/cinemachi.mpd
+
+#EXTINF:-1 tvg-id="cinemachiaction.id" group-title="Movies" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-action.png",Cinemachi Action HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://punya.mammothtv.my.id/vision/cinemachi-action.mpd
+
+#EXTINF:-1 tvg-id="cinemachixtra.id" group-title="Movies" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-xtra.png",Cinemachi Xtra HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://punya.mammothtv.my.id/vision/cinemachi-xtra.mpd
+
+#EXTINF:-1 tvg-id="cinemachikids.id" group-title="Movies" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-kids.png",Cinemachi Kids HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://punya.mammothtv.my.id/vision/cinemachi-kids.mpd
+
+#EXTINF:-1 tvg-id="cinemachimax.id" group-title="Movies" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-max.png",Cinemachi Max HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://punya.mammothtv.my.id/vision/cinemachi-max.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://nxanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://nxanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 tvg-id="MyCinema" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" ch-number="16" tvg-logo="https://aqfadtv.xyz/logos/MyCinema.png",My Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MyCinema
+https://anevia114.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#EXTINF:-1 tvg-id="MyCinemaAsia" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" ch-number="17" tvg-logo="https://aqfadtv.xyz/logos/MyCinemaAsia.png",My Cinema Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MyCinema-Asia
+https://anevia114.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#EXTINF:-1 tvg-id="MyFamilyChannel" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" ch-number="15" tvg-logo="https://aqfadtv.xyz/logos/MyFamilyChannel.png",My Family Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MyFamily
+https://anevia114.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd 
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://nxanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",SONY PIX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 
 ####################################################  news   ########################################
