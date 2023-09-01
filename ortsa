@@ -358,6 +358,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 group-title="Korean" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/cjenm.png", CJ ENM
+https://tinyurl.com/TiviMe-CJENM
 
 #######https://github.com/Televison/LeanbackLauncher/blob/123193ae274e1569fbdf393795bba2196c435a26/.idea/S-Korea.m3u
 
