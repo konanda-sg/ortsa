@@ -2197,3 +2197,50 @@ https://edge-live16-hr.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Play
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434 
 https://edge-live16-hr.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
+
+
+
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm_dash/manifest_wuseetv_qRFZS.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem_dash/manifest_wuseetv_qRFZS.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks_dash/manifest_wuseetv_qRFZS.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_wuseetv_qRFZS.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/lingua_dash/manifest_wuseetv_qRFZS.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv_dash/manifest_wuseetv_qRFZS.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco_dash/manifest_wuseetv_qRFZS.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indihome",test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks_dash/manifest_wuseetv_qRFZS.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indihome",test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm_dash/manifest_wuseetv_qRFZS.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indihome",test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem_dash/manifest_wuseetv_qRFZS.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indihome",test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_wuseetv_qRFZS.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indihome",test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/lingua_dash/manifest_wuseetv_qRFZS.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indihome",test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv_dash/manifest_wuseetv_qRFZS.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indihome",test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco_dash/manifest_wuseetv_qRFZS.mpd
