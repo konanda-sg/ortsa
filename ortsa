@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml"
 #EXTM3U url-tvg="https://epg.ra1n.lol/jpkansai.xml"
-#EXTM3U url-tvg="http://gg.gg/S-Korea-xml"
+##EXTM3U url-tvg="http://gg.gg/S-Korea-xml"
 ##"https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 ##"https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml"
 
