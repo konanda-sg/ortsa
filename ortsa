@@ -1,9 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml"
+#EXTM3U url-tvg="https://epg.ra1n.lol/jpkansai.xml"
+#EXTM3U url-tvg="http://gg.gg/S-Korea-xml"
 ##"https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 ##"https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml"
-##"http://epg.ra1n.lol/jp.xml"
-##"https://epg.ra1n.lol/jpkansai.xml"
-##"http://gg.gg/S-Korea-xml"
+
 
 ############################## Malay  ########################################
 
@@ -1709,27 +1710,27 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/abn/nbarp17.m3u8
 ############################  Singapore  #####################################
 
 
-#EXTINF:-1  tvg-id="Channel 5 HD"" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Channel5_v1.png",Channel 5 
+#EXTINF:-1  tvg-id="Ch 5"" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Channel5_v1.png",Channel 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
 https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
-#EXTINF:-1 tvg-id="Channel 8 HD"" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Channel8_v1.png",Channel 8 
+#EXTINF:-1 tvg-id="Ch 8"" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Channel8_v1.png",Channel 8 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
 https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
 
-#EXTINF:-1 tvg-id="Channel U HD"" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/ChannelU_v1.png",Channel U 
+#EXTINF:-1 tvg-id="Ch U"" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/ChannelU_v1.png",Channel U 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
 https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
 
-#EXTINF:-1 tvg-id="Animax HD" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD
+#EXTINF:-1 tvg-id="Animax" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/animax
 https://aqfadtv.xyz/live/mewatch/animax/index.mpd
 
-#EXTINF:-1 tvg-id="GEM HD" group-title="Singapore"  ch-number="471" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",GEM
+#EXTINF:-1 tvg-id="SGEM.id" group-title="Singapore"  ch-number="471" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/gem
 https://aqfadtv.xyz/live/mewatch/gem/index.mpd
