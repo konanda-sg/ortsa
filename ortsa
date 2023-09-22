@@ -236,7 +236,7 @@ https://malay.yurendtv.biz.id/dash-wv/linear/5103/default_primary.mpd
 
 #EXTINF:-1 ch-number="306" tvg-id="AstroAEC" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 AEC S
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59ad205a58514039abe940fe1bd2bc95:aada2cb8208b85b271adc9b24f83125a
+#KODIPROP:inputstream.adaptive.license_key={"59ad205a58514039abe940fe1bd2bc95":"aada2cb8208b85b271adc9b24f83125a"}
 https://linear05-playback.sooka.my/CH4/masterCH4.mpd
 ##https://raw.githubusercontent.com/Ortsa8/stream/main/ortsa/aec.m3u8
 
