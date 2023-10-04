@@ -1,1 +1,11 @@
-you've been caught by MCMC for using illegal IPTV streams
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+##"https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+##"https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml"
+
+
+############################## Malay  ########################################
+
+#EXTINF:-1 tvg-id="TV1" group-title="Malay" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
