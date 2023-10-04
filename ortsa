@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://e.com/e/e/e/e.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/epg/main/epg.xml"
 
-#EXTINF:-1 tvg-id="" group-title="" ch-number="" tvg-logo="",
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-https://test.com/test.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://xyz.xyz/xyz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",a
+http://iptv12k.com:35461/123/123/123
