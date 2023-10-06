@@ -26,9 +26,8 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Arirang.png",ARIRANG
 http://gg.gg/HaNoiIPTV-Arirang
 
-#EXTINF:-1 group-title="Pakar TV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",SUKAN RTM
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
+#EXTINF:-1 tvg-id="SukanRTM.My" tvg-logo="https://cdn.ksa.my.id/sukanrtm.png" group-title="MALAYSIA",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 group-title="Pakar TV Sports" tvg-logo="https://raw.githubusercontent.com/PakarTV/pakartv/tv-logos/Unifi-Sports_1.png",unifi Sports 1
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
