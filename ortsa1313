@@ -231,7 +231,7 @@ http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/1723.ts
 ##https://raw.githubusercontent.com/Ortsa8/stream/main/ortsa/aec.m3u8
 ##https://linear05-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
-https://linears-playback.astro.com.my/vsgN/41xE_ECw6mON3BY4Kl8nXjclypkZJ8wS7y4D9DvEieR3o=qC4d/dash-wv/jitp-dashisowm/2400/default.mpd
+https://linears-playback.astro.com.my/vsgN/41xE_ECw6mON3BY4Kl8nXjcqaCOjwzm12hMMRQaPKcxaA=9g9R/dash-wv/jitp-dashisowm/2400/default.mpd
 
 #EXTINF:-1 ch-number="308" tvg-id="AstroQJ" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",308 Astro QJ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -240,7 +240,7 @@ https://linears-playback.astro.com.my/vsgN/41xE_ECw6mON3BY4Kl8nXjclypkZJ8wS7y4D9
 ##https://linear05-playback.sooka.my/CH5/masterCH5.mpd
 ##https://ktpremium.com:443/N197NGF/8199/25970
 #KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
-https://linears-playback.astro.com.my/vsg/41P7zi4rQF_YSkalzT_JlWMpvnviMSJoTuSvSSiSiXgtY=hRTJ/dash-wv/jitp-linearwm/2507/default.mpd
+https://linears-playback.astro.com.my/vsg/41P7zi4rQF_YSkalzT_JlWMpgZPC5Fj_WcJtPDWzyC_mE=1Jp0/dash-wv/jitp-linearwm/2507/default.mpd
 
 #EXTINF:-1 ch-number="309" tvg-id="CelestialMovies" ch-number="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Chinese",309 Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
