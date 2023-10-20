@@ -51,11 +51,6 @@ http://thefirefox12537.github.io/streams/astro/warna.m3u8
 ##https://linears-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzhUDi-8zGm7sgyhAlDF5UQ=UBTa/dash-wv/jitp-dashisowm/2700/default.mpd
 http://thefirefox12537.github.io/streams/astro/citra.m3u8
 
-#EXTINF:-1 tvg-id="GoShopBAARU" group-title="Malay" ch-number="111" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png",111 Go Shop BAARU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2508
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default.mpd
-
 #EXTINF:-1 tvg-id="AstroRania" group-title="Malay" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/608
@@ -219,11 +214,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 
-#EXTINF:-1 ch-number="303" tvg-id="GoShop2" group-title="Chinese" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png",303 Go Shop 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1150592f8279292bd668976cf61310:ef421541e66dcb856ec3c12dac42c859
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default.mpd
-
 #EXTINF:-1 ch-number="305" tvg-id="TVBClassic" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",305 TVB Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
@@ -236,9 +226,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5103/default_primary.mpd
 
 #EXTINF:-1 ch-number="306" tvg-id="AstroAEC" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 AEC S
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59ad205a58514039abe940fe1bd2bc95:aada2cb8208b85b271adc9b24f83125a
+##KODIPROP:inputstream.adaptive.license_key=59ad205a58514039abe940fe1bd2bc95:aada2cb8208b85b271adc9b24f83125a
 ##https://raw.githubusercontent.com/Ortsa8/stream/main/ortsa/aec.m3u8
-https://linear05-playback.sooka.my/CH4/masterCH4.mpd
+##https://linear05-playback.sooka.my/CH4/masterCH4.mpd
+#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
+https://linears-playback.astro.com.my/vsgN/41xE_ECw6mON3BY4Kl8nXjclypkZJ8wS7y4D9DvEieR3o=qC4d/dash-wv/jitp-dashisowm/2400/default.mpd
 
 ###EXTINF:-1 ch-number="307" tvg-id="AstroShuangXing" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -248,10 +240,10 @@ https://linear05-playback.sooka.my/CH4/masterCH4.mpd
 #EXTINF:-1 ch-number="308" tvg-id="AstroQJ" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",308 Astro QJ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
-##KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
-##https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default.mpd
-#KODIPROP:inputstream.adaptive.license_key=acfb4b0f1f5946bfa7c3f2e7c2d60d00:c4dd74bdd9b465794b1fb12aab6596f8
-https://linear05-playback.sooka.my/CH5/masterCH5.mpd
+##KODIPROP:inputstream.adaptive.license_key=acfb4b0f1f5946bfa7c3f2e7c2d60d00:c4dd74bdd9b465794b1fb12aab6596f8
+##https://linear05-playback.sooka.my/CH5/masterCH5.mpd
+#KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
+https://linears-playback.astro.com.my/vsg/41P7zi4rQF_YSkalzT_JlWMpvnviMSJoTuSvSSiSiXgtY=hRTJ/dash-wv/jitp-linearwm/2507/default.mpd
 
 #EXTINF:-1 ch-number="309" tvg-id="CelestialMovies" ch-number="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Chinese",309 Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -266,7 +258,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default.mpd
 #EXTINF:-1 ch-number="311" tvg-id="AstroAODHD" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 311 Astro AOD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
+https://linears-playback.astro.com.my/vsg/41ZjT72bYITv6g0oRy4QZN51urd8EZMOCKsWQA4MQRhMA=bk5T/dash-wv/jitp-linearwm/2706/default.mpd
 
 #EXTINF:-1 ch-number="316" tvg-id="CTIAsia" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",316 CTI Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
