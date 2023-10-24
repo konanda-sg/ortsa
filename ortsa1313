@@ -816,21 +816,21 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MyCinema
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cd.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 ##http://210.210.155.35/session/c65f3ec8-74e8-11ec-8b65-b82a72d63267/uq2663/h/h192/index.m3u8 
 
 #EXTINF:-1 tvg-id="MyCinemaAsia" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" ch-number="17" tvg-logo="https://aqfadtv.xyz/logos/MyCinemaAsia.png",My Cinema Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MyCinema-Asia
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cd.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 ##http://210.210.155.35/session/5f42685a-74e8-11ec-8b65-b82a72d63267/uq2663/h/h193/index.m3u8 
 
 #EXTINF:-1 tvg-id="MyFamilyChannel" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" ch-number="15" tvg-logo="https://aqfadtv.xyz/logos/MyFamilyChannel.png",My Family Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MyFamily
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cd.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd 
+https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd 
 ##http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8 
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill
