@@ -1,3 +1,9 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+
+#EXTINF:-1 tvg-id="AstroOasis" group-title="ABO" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",106 Astro Oasis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5048
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5048/default.mpd
 
 ########################## NATIONAL TV ##########################
 
