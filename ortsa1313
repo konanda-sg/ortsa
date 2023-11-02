@@ -958,22 +958,28 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://mod.cht.com.tw/img/channel/channelpic/254.png" ch-number="560",560 Discovery Science US
-https://raw.githubusercontent.com/Ortsa8/stream/main/docu/dissci.m3u8
+##https://raw.githubusercontent.com/Ortsa8/stream/main/docu/dissci.m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174626&extension=ts
 
 #EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://mod.cht.com.tw/img/channel/channelpic/254.png" ch-number="561",561 Discovery Science CA
-https://raw.githubusercontent.com/Ortsa8/stream/main/docu/disscica.m3u8
+##https://raw.githubusercontent.com/Ortsa8/stream/main/docu/disscica.m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176877&extension=ts
 
 #EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://mod.cht.com.tw/img/channel/channelpic/254.png" ch-number="561",561 Discovery Science UK
-https://raw.githubusercontent.com/Ortsa8/stream/main/docu/dissciuk.m3u8
+##https://raw.githubusercontent.com/Ortsa8/stream/main/docu/dissciuk.m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45281&extension=ts
 
 #EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4031.png" ch-number="562",562 Nat Geo US
-https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeo.m3u8
+##https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeo.m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174762&extension=ts
 
 #EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4031.png" ch-number="563",563 Nat Geo CA
-https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeoca.m3u8
+##https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeoca.m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=20535&extension=ts
 
 #EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4031.png" ch-number="563",563 Nat Geo UK
-https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
+##https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30526&extension=ts
 
 #EXTINF:0 tvg-id="Outdoor" tvg-name="Outdoor" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png" group-title="Documentaries",564 Outdoor ID
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -982,8 +988,8 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" ch-number="564",565 Nat Geo Wild UK
-https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeowuk.m3u8
-
+##https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeowuk.m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=30525&extension=ts
 
 
 ########################################################## KIDS   #########################################################
