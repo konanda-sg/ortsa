@@ -18,7 +18,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #EXTINF:-1 tvg-id="TV3" group-title="Malay" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-https://aqfadtv.xyz/live/tv3/index.mpd
+https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="Malay" tvg-id="AstroRia" ch-number="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -98,23 +98,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
 #EXTINF:-1 ch-number="147" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="Malay",147 DIDIK TV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
-https://aqfadtv.xyz/live/didiktvkpm/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #EXTINF:-1 ch-number="148" tvg-id="8TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="Malay",148 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-https://aqfadtv.xyz/live/8tv/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #EXTINF:-1 ch-number="149" tvg-id="TV9" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-title="Malay",149 TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-https://aqfadtv.xyz/live/tv9/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 tvg-id="Inspirasi.my" tvg-name="Inspirasi" group-title="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503",UNIFI INSPIRASI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
-https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 
 #EXTINF:-1 tvg-id="Sensasi.my" tvg-name="Sensasi" group-title="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331",UNIFI SENSASI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -128,8 +128,8 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" group-title="Malay" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",UNIFI DUNIA SINEMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
 
 
 #################################################### INDIAN  #############################################
@@ -2320,7 +2320,7 @@ https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c1
 https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/Km07HZZ/UNIFISPORTS.png" group-title="SPORTS", UNIFI SPORTS 
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 channel-id="samsung-GBBB4300001NX" tvg-id="GBBB4300001NX" tvg-chno="4510" tvg-logo="https://i.ibb.co/wdvGJrw/VIAPLAYXTRA.png" group-title="SPORTS" , VIAPLAY XTRA
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
@@ -2443,17 +2443,17 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/abn/nbarp17.m3u8
 
 #EXTINF:-1  tvg-id="Ch 5"" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Channel5_v1.png",Channel 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
 #EXTINF:-1 tvg-id="Ch 8"" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Channel8_v1.png",Channel 8 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
+#KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
 
 #EXTINF:-1 tvg-id="Ch U"" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/ChannelU_v1.png",Channel U 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
+#KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
 https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
 
 #EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="Singapore",Suria
@@ -2473,22 +2473,22 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 #EXTINF:-1 tvg-id="Animax" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/animax
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://aqfadtv.xyz/live/mewatch/animax/index.mpd
 
 #EXTINF:-1 tvg-id="SGEM.id" group-title="Singapore"  ch-number="471" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/gem
+#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 https://aqfadtv.xyz/live/mewatch/gem/index.mpd
 
 #EXTINF:-1 tvg-id="ROCK Entertainment HD" group-title="Singapore" ch-number="473" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockentertainment
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
 https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
 
 #EXTINF:-1 tvg-id="474" group-title="Singapore"  ch-number="474" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png",ROCK Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rUUgLmT2bvNrP2D6yTzEfw", "kid":"I0HC7NPPSGWIG7D6Eofejw" } ], "type":"temporary" }
 https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2599,123 +2599,123 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/france/6ter.m3u8
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-https://cntv.sbs/tv?auth=2310201855&id=cctv1
+https://cntv.lat/tv?auth=202311030915&id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
-https://cntv.sbs/tv?auth=2310201855&id=cctv2
+https://cntv.lat/tv?auth=202311030915&id=cctv2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-https://cntv.sbs/tv?auth=2310201855&id=cctv3
+https://cntv.lat/tv?auth=202311030915&id=cctv3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
-https://cntv.sbs/tv?auth=2310201855&id=cctv4
+https://cntv.lat/tv?auth=202311030915&id=cctv4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
-https://cntv.sbs/tv?auth=2310201855&id=cctv5
+https://cntv.lat/tv?auth=202311030915&id=cctv5
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-https://cntv.sbs/tv?auth=2310201855&id=cctv5p
+https://cntv.lat/tv?auth=202311030915&id=cctv5p
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-https://cntv.sbs/tv?auth=2310201855&id=cctv6
+https://cntv.lat/tv?auth=202311030915&id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-https://cntv.sbs/tv?auth=2310201855&id=cctv7
+https://cntv.lat/tv?auth=202311030915&id=cctv7
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-https://cntv.sbs/tv?auth=2310201855&id=cctv8
+https://cntv.lat/tv?auth=202311030915&id=cctv8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
-https://cntv.sbs/tv?auth=2310201855&id=cctv9
+https://cntv.lat/tv?auth=202311030915&id=cctv9
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
-https://cntv.sbs/tv?auth=2310201855&id=cctv10
+https://cntv.lat/tv?auth=202311030915&id=cctv10
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
-https://cntv.sbs/tv?auth=2310201855&id=cctv11
+https://cntv.lat/tv?auth=202311030915&id=cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
-https://cntv.sbs/tv?auth=2310201855&id=cctv12
+https://cntv.lat/tv?auth=202311030915&id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-https://cntv.sbs/tv?auth=2310201855&id=cctv13
+https://cntv.lat/tv?auth=202311030915&id=cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-https://cntv.sbs/tv?auth=2310201855&id=cctv14
+https://cntv.lat/tv?auth=202311030915&id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
-https://cntv.sbs/tv?auth=2310201855&id=cctv15
+https://cntv.lat/tv?auth=202311030915&id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-https://cntv.sbs/tv?auth=2310201855&id=cctv16
+https://cntv.lat/tv?auth=202311030915&id=cctv16
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 4K
-https://cntv.sbs/tv?auth=2310201855&id=cctv164k
+https://cntv.lat/tv?auth=202311030915&id=cctv164k
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
-https://cntv.sbs/tv?auth=2310201855&id=cctv17
+https://cntv.lat/tv?auth=202311030915&id=cctv17
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-https://cntv.sbs/tv?auth=2310201855&id=cctv4k
+https://cntv.lat/tv?auth=202311030915&id=cctv4k
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
-https://cntv.sbs/tv?auth=2310201855&id=cgtn
+https://cntv.lat/tv?auth=202311030915&id=cgtn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-https://cntv.sbs/tv?auth=2310201855&id=bjws
+https://cntv.lat/tv?auth=202311030915&id=bjws
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-https://cntv.sbs/tv?auth=2310201855&id=dfws
+https://cntv.lat/tv?auth=202311030915&id=dfws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-https://cntv.sbs/tv?auth=2310201855&id=tjws
+https://cntv.lat/tv?auth=202311030915&id=tjws
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-https://cntv.sbs/tv?auth=2310201855&id=cqws
+https://cntv.lat/tv?auth=202311030915&id=cqws
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://cntv.sbs/tv?auth=2310201855&id=hljws
+https://cntv.lat/tv?auth=202311030915&id=hljws
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-https://cntv.sbs/tv?auth=2310201855&id=jlws
+https://cntv.lat/tv?auth=202311030915&id=jlws
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://cntv.sbs/tv?auth=2310201855&id=lnws
+https://cntv.lat/tv?auth=202311030915&id=lnws
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://cntv.sbs/tv?auth=2310201855&id=nmws
+https://cntv.lat/tv?auth=202311030915&id=nmws
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
-https://cntv.sbs/tv?auth=2310201855&id=nxws
+https://cntv.lat/tv?auth=202311030915&id=nxws
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
-https://cntv.sbs/tv?auth=2310201855&id=gsws
+https://cntv.lat/tv?auth=202311030915&id=gsws
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
-https://cntv.sbs/tv?auth=2310201855&id=qhws
+https://cntv.lat/tv?auth=202311030915&id=qhws
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
-https://cntv.sbs/tv?auth=2310201855&id=sxws
+https://cntv.lat/tv?auth=202311030915&id=sxws
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-https://cntv.sbs/tv?auth=2310201855&id=hbws
+https://cntv.lat/tv?auth=202311030915&id=hbws
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
-https://cntv.sbs/tv?auth=2310201855&id=sxiws
+https://cntv.lat/tv?auth=202311030915&id=sxiws
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-https://cntv.sbs/tv?auth=2310201855&id=sdws
+https://cntv.lat/tv?auth=202311030915&id=sdws
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-https://cntv.sbs/tv?auth=2310201855&id=ahws
+https://cntv.lat/tv?auth=202311030915&id=ahws
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-https://cntv.sbs/tv?auth=2310201855&id=hnws
+https://cntv.lat/tv?auth=202311030915&id=hnws
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-https://cntv.sbs/tv?auth=2310201855&id=hubws
+https://cntv.lat/tv?auth=202311030915&id=hubws
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://cntv.sbs/tv?auth=2310201855&id=hunws
+https://cntv.lat/tv?auth=202311030915&id=hunws
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-https://cntv.sbs/tv?auth=2310201855&id=jxws
+https://cntv.lat/tv?auth=202311030915&id=jxws
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-https://cntv.sbs/tv?auth=2310201855&id=jsws
+https://cntv.lat/tv?auth=202311030915&id=jsws
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-https://cntv.sbs/tv?auth=2310201855&id=zjws
+https://cntv.lat/tv?auth=202311030915&id=zjws
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-https://cntv.sbs/tv?auth=2310201855&id=dnws
+https://cntv.lat/tv?auth=202311030915&id=dnws
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
-https://cntv.sbs/tv?auth=2310201855&id=xmws
+https://cntv.lat/tv?auth=202311030915&id=xmws
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-https://cntv.sbs/tv?auth=2310201855&id=gdws
+https://cntv.lat/tv?auth=202311030915&id=gdws
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://cntv.sbs/tv?auth=2310201855&id=szws
+https://cntv.lat/tv?auth=202311030915&id=szws
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-https://cntv.sbs/tv?auth=2310201855&id=gxws
+https://cntv.lat/tv?auth=202311030915&id=gxws
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-https://cntv.sbs/tv?auth=2310201855&id=ynws
+https://cntv.lat/tv?auth=202311030915&id=ynws
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-https://cntv.sbs/tv?auth=2310201855&id=gzws
+https://cntv.lat/tv?auth=202311030915&id=gzws
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-https://cntv.sbs/tv?auth=2310201855&id=scws
+https://cntv.lat/tv?auth=202311030915&id=scws
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视",康巴卫视
-https://cntv.sbs/tv?auth=2310201855&id=kbws
+https://cntv.lat/tv?auth=202311030915&id=kbws
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
-https://cntv.sbs/tv?auth=2310201855&id=xjws
+https://cntv.lat/tv?auth=202311030915&id=xjws
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
-https://cntv.sbs/tv?auth=2310201855&id=btws
+https://cntv.lat/tv?auth=202311030915&id=btws
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
-https://cntv.sbs/tv?auth=2310201855&id=xzws
+https://cntv.lat/tv?auth=202311030915&id=xzws
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-https://cntv.sbs/tv?auth=2310201855&id=hinws
+https://cntv.lat/tv?auth=202311030915&id=hinws
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
-https://cntv.sbs/tv?auth=2310201855&id=ssws
+https://cntv.lat/tv?auth=202311030915&id=ssws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视",海峡卫视
-https://cntv.sbs/tv?auth=2310201855&id=hxws
+https://cntv.lat/tv?auth=202311030915&id=hxws
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视",北京纪实科教
-https://cntv.sbs/tv?auth=2310201855&id=bjjskj
+https://cntv.lat/tv?auth=202311030915&id=bjjskj
 
 
 
@@ -2908,233 +2908,233 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 
 #EXTINF:-1 group-title="☁️星視界一日遊",大爱二台
-http://103.45.68.47/gy/gy319/xsj.php?id=daai2
+http://103.45.68.47/gy/gy937/xsj.php?id=daai2
 #EXTINF:-1 group-title="☁️星視界一日遊",大爱一台
-http://103.45.68.47/gy/gy319/xsj.php?id=daai1
+http://103.45.68.47/gy/gy937/xsj.php?id=daai1
 #EXTINF:-1 group-title="☁️星視界一日遊",中视 HD
-http://103.45.68.47/gy/gy319/xsj.php?id=ctv-hd
+http://103.45.68.47/gy/gy937/xsj.php?id=ctv-hd
 #EXTINF:-1 group-title="☁️星視界一日遊",公视
-http://103.45.68.47/gy/gy319/xsj.php?id=pts
+http://103.45.68.47/gy/gy937/xsj.php?id=pts
 #EXTINF:-1 group-title="☁️星視界一日遊",公视3台
-http://103.45.68.47/gy/gy319/xsj.php?id=pts3
+http://103.45.68.47/gy/gy937/xsj.php?id=pts3
 #EXTINF:-1 group-title="☁️星視界一日遊",中天综合台
-http://103.45.68.47/gy/gy319/xsj.php?id=ctitv36
+http://103.45.68.47/gy/gy937/xsj.php?id=ctitv36
 #EXTINF:-1 group-title="☁️星視界一日遊",中天亚洲台
-http://103.45.68.47/gy/gy319/xsj.php?id=cti-asia
+http://103.45.68.47/gy/gy937/xsj.php?id=cti-asia
 #EXTINF:-1 group-title="☁️星視界一日遊",东森超视 HD
-http://103.45.68.47/gy/gy319/xsj.php?id=ebc-supertv
+http://103.45.68.47/gy/gy937/xsj.php?id=ebc-supertv
 #EXTINF:-1 group-title="☁️星視界一日遊",靖天国际台
-http://103.45.68.47/gy/gy319/xsj.php?id=jtgj
+http://103.45.68.47/gy/gy937/xsj.php?id=jtgj
 #EXTINF:-1 group-title="☁️星視界一日遊",TVBS Asia
-http://103.45.68.47/gy/gy319/xsj.php?id=tvbs-asia
+http://103.45.68.47/gy/gy937/xsj.php?id=tvbs-asia
 #EXTINF:-1 group-title="☁️星視界一日遊",八大综合台
-http://103.45.68.47/gy/gy319/xsj.php?id=gtv28
+http://103.45.68.47/gy/gy937/xsj.php?id=gtv28
 #EXTINF:-1 group-title="☁️星視界一日遊",客家电视台
-http://103.45.68.47/gy/gy319/xsj.php?id=hakkatv
+http://103.45.68.47/gy/gy937/xsj.php?id=hakkatv
 #EXTINF:-1 group-title="☁️星視界一日遊",东森综合台
-http://103.45.68.47/gy/gy319/xsj.php?id=ebc-ettv
+http://103.45.68.47/gy/gy937/xsj.php?id=ebc-ettv
 #EXTINF:-1 group-title="☁️星視界一日遊",中视
-http://103.45.68.47/gy/gy319/xsj.php?id=ctv
+http://103.45.68.47/gy/gy937/xsj.php?id=ctv
 #EXTINF:-1 group-title="☁️星視界一日遊",华视
-http://103.45.68.47/gy/gy319/xsj.php?id=cts
+http://103.45.68.47/gy/gy937/xsj.php?id=cts
 #EXTINF:-1 group-title="☁️星視界一日遊",台视
-http://103.45.68.47/gy/gy319/xsj.php?id=ttv
+http://103.45.68.47/gy/gy937/xsj.php?id=ttv
 #EXTINF:-1 group-title="☁️星視界一日遊",纬来日本
-http://103.45.68.47/gy/gy319/xsj.php?id=videoland-japan
+http://103.45.68.47/gy/gy937/xsj.php?id=videoland-japan
 #EXTINF:-1 group-title="☁️星視界一日遊",纬来综合台
-http://103.45.68.47/gy/gy319/xsj.php?id=videoland
+http://103.45.68.47/gy/gy937/xsj.php?id=videoland
 #EXTINF:-1 group-title="☁️星視界一日遊",八大第一台
-http://103.45.68.47/gy/gy319/xsj.php?id=gtv27
+http://103.45.68.47/gy/gy937/xsj.php?id=gtv27
 #EXTINF:-1 group-title="☁️星視界一日遊",ELTA 综合
-http://103.45.68.47/gy/gy319/xsj.php?id=elta-tv
+http://103.45.68.47/gy/gy937/xsj.php?id=elta-tv
 #EXTINF:-1 group-title="☁️星視界一日遊",TVBS 新闻台
-http://103.45.68.47/gy/gy319/xsj.php?id=tvbs-news
+http://103.45.68.47/gy/gy937/xsj.php?id=tvbs-news
 #EXTINF:-1 group-title="☁️星視界一日遊",寰宇新闻台
-http://103.45.68.47/gy/gy319/xsj.php?id=global-news
+http://103.45.68.47/gy/gy937/xsj.php?id=global-news
 #EXTINF:-1 group-title="☁️星視界一日遊",华视新闻
-http://103.45.68.47/gy/gy319/xsj.php?id=cts-news
+http://103.45.68.47/gy/gy937/xsj.php?id=cts-news
 #EXTINF:-1 group-title="☁️星視界一日遊",中天新闻
-http://103.45.68.47/gy/gy319/xsj.php?id=cti-news
+http://103.45.68.47/gy/gy937/xsj.php?id=cti-news
 #EXTINF:-1 group-title="☁️星視界一日遊",镜新闻
-http://103.45.68.47/gy/gy319/xsj.php?id=mnews
+http://103.45.68.47/gy/gy937/xsj.php?id=mnews
 #EXTINF:-1 group-title="☁️星視界一日遊",壹新闻 HD
-http://103.45.68.47/gy/gy319/xsj.php?id=nexttv
+http://103.45.68.47/gy/gy937/xsj.php?id=nexttv
 #EXTINF:-1 group-title="☁️星視界一日遊",靖天资讯台
-http://103.45.68.47/gy/gy319/xsj.php?id=jtzx
+http://103.45.68.47/gy/gy937/xsj.php?id=jtzx
 #EXTINF:-1 group-title="☁️星視界一日遊",中视新闻
-http://103.45.68.47/gy/gy319/xsj.php?id=ctv-news
+http://103.45.68.47/gy/gy937/xsj.php?id=ctv-news
 #EXTINF:-1 group-title="☁️星視界一日遊",台视新闻
-http://103.45.68.47/gy/gy319/xsj.php?id=ttv-news
+http://103.45.68.47/gy/gy937/xsj.php?id=ttv-news
 #EXTINF:-1 group-title="☁️星視界一日遊",TVBS HD
-http://103.45.68.47/gy/gy319/xsj.php?id=tvbs-hd
+http://103.45.68.47/gy/gy937/xsj.php?id=tvbs-hd
 #EXTINF:-1 group-title="☁️星視界一日遊",东森财经新闻
-http://103.45.68.47/gy/gy319/xsj.php?id=ebc-finance
+http://103.45.68.47/gy/gy937/xsj.php?id=ebc-finance
 #EXTINF:-1 group-title="☁️星視界一日遊",年代新闻
-http://103.45.68.47/gy/gy319/xsj.php?id=era-news
+http://103.45.68.47/gy/gy937/xsj.php?id=era-news
 #EXTINF:-1 group-title="☁️星視界一日遊",非凡新闻
-http://103.45.68.47/gy/gy319/xsj.php?id=ustv-news
+http://103.45.68.47/gy/gy937/xsj.php?id=ustv-news
 #EXTINF:-1 group-title="☁️星視界一日遊",东森新闻
-http://103.45.68.47/gy/gy319/xsj.php?id=ebc-news
+http://103.45.68.47/gy/gy937/xsj.php?id=ebc-news
 #EXTINF:-1 group-title="☁️星視界一日遊",TVBS 欢乐台
-http://103.45.68.47/gy/gy319/xsj.php?id=tvbs-huanle
+http://103.45.68.47/gy/gy937/xsj.php?id=tvbs-huanle
 #EXTINF:-1 group-title="☁️星視界一日遊",中天娱乐台
-http://103.45.68.47/gy/gy319/xsj.php?id=ctitv39
+http://103.45.68.47/gy/gy937/xsj.php?id=ctitv39
 #EXTINF:-1 group-title="☁️星視界一日遊",八大娱乐台
-http://103.45.68.47/gy/gy319/xsj.php?id=gtv86
+http://103.45.68.47/gy/gy937/xsj.php?id=gtv86
 #EXTINF:-1 group-title="☁️星視界一日遊",HBO
-http://103.45.68.47/gy/gy319/xsj.php?id=hbo-hd
+http://103.45.68.47/gy/gy937/xsj.php?id=hbo-hd
 #EXTINF:-1 group-title="☁️星視界一日遊",东森电影
-http://103.45.68.47/gy/gy319/xsj.php?id=ebc-movie
+http://103.45.68.47/gy/gy937/xsj.php?id=ebc-movie
 #EXTINF:-1 group-title="☁️星視界一日遊",东森戏剧
-http://103.45.68.47/gy/gy319/xsj.php?id=ebc-drama
+http://103.45.68.47/gy/gy937/xsj.php?id=ebc-drama
 #EXTINF:-1 group-title="☁️星視界一日遊",东森洋片
-http://103.45.68.47/gy/gy319/xsj.php?id=ebc-emovie
+http://103.45.68.47/gy/gy937/xsj.php?id=ebc-emovie
 #EXTINF:-1 group-title="☁️星視界一日遊",卫视中文台
-http://103.45.68.47/gy/gy319/xsj.php?id=star-chinese-channel
+http://103.45.68.47/gy/gy937/xsj.php?id=star-chinese-channel
 #EXTINF:-1 group-title="☁️星視界一日遊",卫视电影台
-http://103.45.68.47/gy/gy319/xsj.php?id=star-chinese-movies
+http://103.45.68.47/gy/gy937/xsj.php?id=star-chinese-movies
 #EXTINF:-1 group-title="☁️星視界一日遊",龙祥电影台
-http://103.45.68.47/gy/gy319/xsj.php?id=lstime
+http://103.45.68.47/gy/gy937/xsj.php?id=lstime
 #EXTINF:-1 group-title="☁️星視界一日遊",好莱坞电影台
-http://103.45.68.47/gy/gy319/xsj.php?id=hollywood-tw
+http://103.45.68.47/gy/gy937/xsj.php?id=hollywood-tw
 #EXTINF:-1 group-title="☁️星視界一日遊",八大戏剧台
-http://103.45.68.47/gy/gy319/xsj.php?id=gtv41
+http://103.45.68.47/gy/gy937/xsj.php?id=gtv41
 #EXTINF:-1 group-title="☁️星視界一日遊",纬来戏剧台
-http://103.45.68.47/gy/gy319/xsj.php?id=videoland-drama
+http://103.45.68.47/gy/gy937/xsj.php?id=videoland-drama
 #EXTINF:-1 group-title="☁️星視界一日遊",纬来电影台
-http://103.45.68.47/gy/gy319/xsj.php?id=videoland-movie
+http://103.45.68.47/gy/gy937/xsj.php?id=videoland-movie
 #EXTINF:-1 group-title="☁️星視界一日遊",龙华电影台
-http://103.45.68.47/gy/gy319/xsj.php?id=ltv-movies
+http://103.45.68.47/gy/gy937/xsj.php?id=ltv-movies
 #EXTINF:-1 group-title="☁️星視界一日遊",龙华洋片台
-http://103.45.68.47/gy/gy319/xsj.php?id=ltv-yangpian
+http://103.45.68.47/gy/gy937/xsj.php?id=ltv-yangpian
 #EXTINF:-1 group-title="☁️星視界一日遊",靖天电影台
-http://103.45.68.47/gy/gy319/xsj.php?id=jtdy
+http://103.45.68.47/gy/gy937/xsj.php?id=jtdy
 #EXTINF:-1 group-title="☁️星視界一日遊",美亚电影台
-http://103.45.68.47/gy/gy319/xsj.php?id=meiah-movies
+http://103.45.68.47/gy/gy937/xsj.php?id=meiah-movies
 #EXTINF:-1 group-title="☁️星視界一日遊",ELTA 影剧
-http://103.45.68.47/gy/gy319/xsj.php?id=elta-drama
+http://103.45.68.47/gy/gy937/xsj.php?id=elta-drama
 #EXTINF:-1 group-title="☁️星視界一日遊",EYE 戏剧台
-http://103.45.68.47/gy/gy319/xsj.php?id=eye-drama
+http://103.45.68.47/gy/gy937/xsj.php?id=eye-drama
 #EXTINF:-1 group-title="☁️星視界一日遊",星卫HD电影台
-http://103.45.68.47/gy/gy319/xsj.php?id=star-movies
+http://103.45.68.47/gy/gy937/xsj.php?id=star-movies
 #EXTINF:-1 group-title="☁️星視界一日遊",星卫娱乐台
-http://103.45.68.47/gy/gy319/xsj.php?id=star-entetainment
+http://103.45.68.47/gy/gy937/xsj.php?id=star-entetainment
 #EXTINF:-1 group-title="☁️星視界一日遊",MTV Live HD 频道
-http://103.45.68.47/gy/gy319/xsj.php?id=mtv
+http://103.45.68.47/gy/gy937/xsj.php?id=mtv
 #EXTINF:-1 group-title="☁️星視界一日遊",国兴卫视
-http://103.45.68.47/gy/gy319/xsj.php?id=gold-sun-tv
+http://103.45.68.47/gy/gy937/xsj.php?id=gold-sun-tv
 #EXTINF:-1 group-title="☁️星視界一日遊",纬来体育
-http://103.45.68.47/gy/gy319/xsj.php?id=videoland-sport
+http://103.45.68.47/gy/gy937/xsj.php?id=videoland-sport
 #EXTINF:-1 group-title="☁️星視界一日遊",ELEVEN体育-1
-http://103.45.68.47/gy/gy319/xsj.php?id=eleven-sport1
+http://103.45.68.47/gy/gy937/xsj.php?id=eleven-sport1
 #EXTINF:-1 group-title="☁️星視界一日遊",ELEVEN体育-2
-http://103.45.68.47/gy/gy319/xsj.php?id=eleven-sport2
+http://103.45.68.47/gy/gy937/xsj.php?id=eleven-sport2
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯运动-1
-http://103.45.68.47/gy/gy319/xsj.php?id=sportcast1
+http://103.45.68.47/gy/gy937/xsj.php?id=sportcast1
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯运动-2
-http://103.45.68.47/gy/gy319/xsj.php?id=sportcast2
+http://103.45.68.47/gy/gy937/xsj.php?id=sportcast2
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯高球-1
-http://103.45.68.47/gy/gy319/xsj.php?id=sportcast-golf1
+http://103.45.68.47/gy/gy937/xsj.php?id=sportcast-golf1
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯高球-2
-http://103.45.68.47/gy/gy319/xsj.php?id=sportcast-golf2
+http://103.45.68.47/gy/gy937/xsj.php?id=sportcast-golf2
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯网球
-http://103.45.68.47/gy/gy319/xsj.php?id=sportcast-tennis
+http://103.45.68.47/gy/gy937/xsj.php?id=sportcast-tennis
 #EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 1 HD
-http://103.45.68.47/gy/gy319/xsj.php?id=super-sports1
+http://103.45.68.47/gy/gy937/xsj.php?id=super-sports1
 #EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 2 HD
-http://103.45.68.47/gy/gy319/xsj.php?id=super-sports2
+http://103.45.68.47/gy/gy937/xsj.php?id=super-sports2
 #EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 3 HD
-http://103.45.68.47/gy/gy319/xsj.php?id=super-sports3
+http://103.45.68.47/gy/gy937/xsj.php?id=super-sports3
 #EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 4 HD
-http://103.45.68.47/gy/gy319/xsj.php?id=super-sports4
+http://103.45.68.47/gy/gy937/xsj.php?id=super-sports4
 #EXTINF:-1 group-title="☁️星視界一日遊",Eurosports-2
-http://103.45.68.47/gy/gy319/xsj.php?id=super-sports5
+http://103.45.68.47/gy/gy937/xsj.php?id=super-sports5
 #EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports MAX
-http://103.45.68.47/gy/gy319/xsj.php?id=bein-max
+http://103.45.68.47/gy/gy937/xsj.php?id=bein-max
 #EXTINF:-1 group-title="☁️星視界一日遊",SPOTV-2
-http://103.45.68.47/gy/gy319/xsj.php?id=spotv2
+http://103.45.68.47/gy/gy937/xsj.php?id=spotv2
 #EXTINF:-1 group-title="☁️星視界一日遊",SPOTV
-http://103.45.68.47/gy/gy319/xsj.php?id=spotv
+http://103.45.68.47/gy/gy937/xsj.php?id=spotv
 #EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports 2
-http://103.45.68.47/gy/gy319/xsj.php?id=bein-sports2
+http://103.45.68.47/gy/gy937/xsj.php?id=bein-sports2
 #EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports 1
-http://103.45.68.47/gy/gy319/xsj.php?id=bein-sports1
+http://103.45.68.47/gy/gy937/xsj.php?id=bein-sports1
 #EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports 3
-http://103.45.68.47/gy/gy319/xsj.php?id=bein-sports3
+http://103.45.68.47/gy/gy937/xsj.php?id=bein-sports3
 #EXTINF:-1 group-title="☁️星視界一日遊",Eurosport HD
-http://103.45.68.47/gy/gy319/xsj.php?id=eurosport-hd
+http://103.45.68.47/gy/gy937/xsj.php?id=eurosport-hd
 #EXTINF:-1 group-title="☁️星視界一日遊",Eurosports-1
-http://103.45.68.47/gy/gy319/xsj.php?id=eurosports-1
+http://103.45.68.47/gy/gy937/xsj.php?id=eurosports-1
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯无限
-http://103.45.68.47/gy/gy319/xsj.php?id=sportcast-wx
+http://103.45.68.47/gy/gy937/xsj.php?id=sportcast-wx
 #EXTINF:-1 group-title="☁️星視界一日遊",ELTA体育-1
-http://103.45.68.47/gy/gy319/xsj.php?id=elta-sport1
+http://103.45.68.47/gy/gy937/xsj.php?id=elta-sport1
 #EXTINF:-1 group-title="☁️星視界一日遊",ELTA体育-2
-http://103.45.68.47/gy/gy319/xsj.php?id=elta-sport2
+http://103.45.68.47/gy/gy937/xsj.php?id=elta-sport2
 #EXTINF:-1 group-title="☁️星視界一日遊",ELTA体育-3
-http://103.45.68.47/gy/gy319/xsj.php?id=elta-sport3
+http://103.45.68.47/gy/gy937/xsj.php?id=elta-sport3
 #EXTINF:-1 group-title="☁️星視界一日遊",靖天卡通台
-http://103.45.68.47/gy/gy319/xsj.php?id=jtkt
+http://103.45.68.47/gy/gy937/xsj.php?id=jtkt
 #EXTINF:-1 group-title="☁️星視界一日遊",Astro 小太阳
-http://103.45.68.47/gy/gy319/xsj.php?id=astro-xty
+http://103.45.68.47/gy/gy937/xsj.php?id=astro-xty
 #EXTINF:-1 group-title="☁️星視界一日遊",东森幼幼台
-http://103.45.68.47/gy/gy319/xsj.php?id=ebc-yoyo
+http://103.45.68.47/gy/gy937/xsj.php?id=ebc-yoyo
 #EXTINF:-1 group-title="☁️星視界一日遊",MOMOTV
-http://103.45.68.47/gy/gy319/xsj.php?id=momotv
+http://103.45.68.47/gy/gy937/xsj.php?id=momotv
 #EXTINF:-1 group-title="☁️星視界一日遊",小尼克频道
-http://103.45.68.47/gy/gy319/xsj.php?id=nick-jr
+http://103.45.68.47/gy/gy937/xsj.php?id=nick-jr
 #EXTINF:-1 group-title="☁️星視界一日遊",MOMO亲子台
-http://103.45.68.47/gy/gy319/xsj.php?id=momo-kids
+http://103.45.68.47/gy/gy937/xsj.php?id=momo-kids
 #EXTINF:-1 group-title="☁️星視界一日遊",CN卡通
-http://103.45.68.47/gy/gy319/xsj.php?id=cn-cartoon
+http://103.45.68.47/gy/gy937/xsj.php?id=cn-cartoon
 #EXTINF:-1 group-title="☁️星視界一日遊",Boomerang HD
-http://103.45.68.47/gy/gy319/xsj.php?id=boomerang-hd
+http://103.45.68.47/gy/gy937/xsj.php?id=boomerang-hd
 #EXTINF:-1 group-title="☁️星視界一日遊",Animax卡通
-http://103.45.68.47/gy/gy319/xsj.php?id=animax-cartoon
+http://103.45.68.47/gy/gy937/xsj.php?id=animax-cartoon
 #EXTINF:-1 group-title="☁️星視界一日遊",尼克儿童频道
-http://103.45.68.47/gy/gy319/xsj.php?id=nickelodeon
+http://103.45.68.47/gy/gy937/xsj.php?id=nickelodeon
 #EXTINF:-1 group-title="☁️星視界一日遊",国家地理
-http://103.45.68.47/gy/gy319/xsj.php?id=natgeo
+http://103.45.68.47/gy/gy937/xsj.php?id=natgeo
 #EXTINF:-1 group-title="☁️星視界一日遊",国家地理 野生频道
-http://103.45.68.47/gy/gy319/xsj.php?id=natgeo-wild
+http://103.45.68.47/gy/gy937/xsj.php?id=natgeo-wild
 #EXTINF:-1 group-title="☁️星視界一日遊",动物星球频道
-http://103.45.68.47/gy/gy319/xsj.php?id=animal-planet
+http://103.45.68.47/gy/gy937/xsj.php?id=animal-planet
 #EXTINF:-1 group-title="☁️星視界一日遊",探索频道
-http://103.45.68.47/gy/gy319/xsj.php?id=discovery
+http://103.45.68.47/gy/gy937/xsj.php?id=discovery
 #EXTINF:-1 group-title="☁️星視界一日遊",DMAX
-http://103.45.68.47/gy/gy319/xsj.php?id=dmax
+http://103.45.68.47/gy/gy937/xsj.php?id=dmax
 #EXTINF:-1 group-title="☁️星視界一日遊",探索科学频道
-http://103.45.68.47/gy/gy319/xsj.php?id=discovery-sci
+http://103.45.68.47/gy/gy937/xsj.php?id=discovery-sci
 #EXTINF:-1 group-title="☁️星視界一日遊",探索亚洲频道
-http://103.45.68.47/gy/gy319/xsj.php?id=discovery-asia
+http://103.45.68.47/gy/gy937/xsj.php?id=discovery-asia
 #EXTINF:-1 group-title="☁️星視界一日遊",History 频道
-http://103.45.68.47/gy/gy319/xsj.php?id=history
+http://103.45.68.47/gy/gy937/xsj.php?id=history
 #EXTINF:-1 group-title="☁️星視界一日遊",History-2 频道
-http://103.45.68.47/gy/gy319/xsj.php?id=history-2
+http://103.45.68.47/gy/gy937/xsj.php?id=history-2
 #EXTINF:-1 group-title="☁️星視界一日遊",TLC 旅游生活頻道
-http://103.45.68.47/gy/gy319/xsj.php?id=tlc
+http://103.45.68.47/gy/gy937/xsj.php?id=tlc
 #EXTINF:-1 group-title="☁️星視界一日遊",CI 罪案侦查频道
-http://103.45.68.47/gy/gy319/xsj.php?id=ci
+http://103.45.68.47/gy/gy937/xsj.php?id=ci
 #EXTINF:-1 group-title="☁️星視界一日遊",亚洲旅游台
-http://103.45.68.47/gy/gy319/xsj.php?id=asia-travel
+http://103.45.68.47/gy/gy937/xsj.php?id=asia-travel
 #EXTINF:-1 group-title="☁️星視界一日遊",美食星球频道
-http://103.45.68.47/gy/gy319/xsj.php?id=food-planet
+http://103.45.68.47/gy/gy937/xsj.php?id=food-planet
 #EXTINF:-1 group-title="☁️星視界一日遊",EYE 旅游台
-http://103.45.68.47/gy/gy319/xsj.php?id=eye-travel
+http://103.45.68.47/gy/gy937/xsj.php?id=eye-travel
 #EXTINF:-1 group-title="☁️星視界一日遊",TVB 经典台
-http://103.45.68.47/gy/gy319/xsj.php?id=tvb-classic
+http://103.45.68.47/gy/gy937/xsj.php?id=tvb-classic
 #EXTINF:-1 group-title="☁️星視界一日遊",天映经典
-http://103.45.68.47/gy/gy319/xsj.php?id=cccm
+http://103.45.68.47/gy/gy937/xsj.php?id=cccm
 #EXTINF:-1 group-title="☁️星視界一日遊",天映频道 HD
-http://103.45.68.47/gy/gy319/xsj.php?id=celestial
+http://103.45.68.47/gy/gy937/xsj.php?id=celestial
 #EXTINF:-1 group-title="☁️星視界一日遊",Now 华剧台
-http://103.45.68.47/gy/gy319/xsj.php?id=now-hairun
+http://103.45.68.47/gy/gy937/xsj.php?id=now-hairun
 #EXTINF:-1 group-title="☁️星視界一日遊",TVB 华语剧台
-http://103.45.68.47/gy/gy319/xsj.php?id=tvb-drama
+http://103.45.68.47/gy/gy937/xsj.php?id=tvb-drama
 #EXTINF:-1 group-title="☁️星視界一日遊",TVB 星河台
-http://103.45.68.47/gy/gy319/xsj.php?id=tvb-xinghe
+http://103.45.68.47/gy/gy937/xsj.php?id=tvb-xinghe
 #EXTINF:-1 group-title="☁️星視界一日遊",Now 爆谷台
-http://103.45.68.47/gy/gy319/xsj.php?id=baogu-movies
+http://103.45.68.47/gy/gy937/xsj.php?id=baogu-movies
 
 
 ########################   MIX   ################################################################
