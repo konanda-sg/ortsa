@@ -416,273 +416,286 @@ https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 
-#######https://github.com/Televison/LeanbackLauncher/blob/123193ae274e1569fbdf393795bba2196c435a26/.idea/S-Korea.m3u
+#######https://github.com/Televison/LeanbackLauncher/blob/123193ae274e1569fbdf368995bba2196c435a26/.idea/S-Korea.m3u
+*********https://github.com/smarttvbox02/jamkidiptv
 
-#EXTINF:-1 tvg-id="KRBD1400001ED" tvg-chno="501" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" group-title="South Korea" , 연합뉴스TV
-https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="KOREA" , 연합뉴스TV
+https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
 
-#EXTINF:-1 tvg-id="KRBC8000128W" tvg-chno="502" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000128W_20230524T004357SQUARE.png_20230524004358.png" group-title="South Korea" , tvN 뿅뿅 지구오락실
-https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000128W
+#EXTINF:-1 channel-id="samsung-KRBD2400001XD" tvg-id="KRBD2400001XD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20231025T004703SQUARE.png_20231025004705.png" tvg-chno="502" group-title="KOREA" , YTN
+https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB5000069BS" tvg-id="KRBB5000069BS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20230823T005024SQUARE.png_20230823005025.png" tvg-chno="505" group-title="KOREA" , MBC 무한도전
+https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC3200029C4" tvg-id="KRBC3200029C4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20230823T005038SQUARE.png_20230823005039.png" tvg-chno="507" group-title="KOREA" , tvN 사랑의 불시착
+https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
 
-#EXTINF:-1 tvg-id="KRBB42000061Z" tvg-chno="506" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20230524T004349SQUARE.png_20230524004350.png" group-title="South Korea" , SBS 낭만닥터 김사부 시즌2
-https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC200002I0" tvg-id="KRBC200002I0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20230823T005021SQUARE.png_20230823005022.png" tvg-chno="508" group-title="KOREA" , MBC 나혼자산다
+https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB420000769" tvg-id="KRBB420000769" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20230913T010343SQUARE.png_20230913010344.png" tvg-chno="510" group-title="KOREA", SBS TV 동물농장
+https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20231025T004708SQUARE.png_20231025004709.png" tvg-chno="513" group-title="KOREA", tvN 미스터 션샤인
+https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8
 
-#EXTINF:-1 tvg-id="KRBC5000016BM" tvg-chno="509" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000016BM_20230524T004330SQUARE.png_20230524004330.png" group-title="South Korea" , JTBC 아는형님
-https://d39o9ct24vg5rr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-iz74ur8nyyt8f/FC00000013.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="KRBC20000418" tvg-chno="510" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20230614T012838SQUARE.png_20230614012839.png" group-title="South Korea" , MBC 아빠! 어디가?
-https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n4zydfj68vgn1-prod/Channel_MBC_9.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC5000020AF" tvg-id="KRBC5000020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20231011T013507SQUARE.png_20231011013508.png" tvg-chno="524" group-title="KOREA", JTBC 비긴어게인
+https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC46000014A" tvg-id="KRBC46000014A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20231011T013510SQUARE.png_20231011013510.png" tvg-chno="525" group-title="KOREA" , JTBC 크라임씬
+https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8
 
-#EXTINF:-1 tvg-id="KRBC3200013UR" tvg-chno="511" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200013UR_20230426T013732SQUARE.png_20230426013732.png" group-title="South Korea" , tvN 응답하라 1997
-https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200013UR
+#EXTINF:-1 channel-id="samsung-KRBD2700008TZ" tvg-id="KRBD2700008TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700008TZ_20231011T013505SQUARE.png_20231011013506.png" tvg-chno="530" group-title="KOREA", PLAYY 어워드특집
+https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230926T013833SQUARE.png_20230926013834.png" tvg-chno="533" group-title="KOREA" , Mnet 스트릿 우먼 파이터 2 HOT CLIP
+https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
 
-#EXTINF:-1 tvg-id="KRBC3200032ZM" tvg-chno="512" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200032ZM_20230426T013730SQUARE.png_20230426013730.png" group-title="South Korea" , tvN 응답하라 1994
-https://d1ttfbptd053sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/151248c2_45a2_45a5_a31f_bb9fc72969dd/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200032ZM
+#EXTINF:-1 channel-id="samsung-KRBD3100002JL" tvg-id="KRBD3100002JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20230926T013851SQUARE.png_20230926013852.png" tvg-chno="535" group-title="KOREA", tvN 유 퀴즈 온 더 블럭 HOT CLIP
+https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC40000010R" tvg-id="KRBC40000010R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20230926T013828SQUARE.png_20230926013829.png" tvg-chno="536" group-title="KOREA", Animax 반지의 비밀일기
+https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8
 
-#EXTINF:-1 tvg-id="KRBC3200014XZ" tvg-chno="513" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20230426T013728SQUARE.png_20230426013729.png" group-title="South Korea" , tvN 응답하라 1988
-https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ
+#EXTINF:-1 channel-id="samsung-KRBB5000364M" tvg-id="KRBB5000364M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20230926T013853SQUARE.png_20230926013854.png" tvg-chno="537" group-title="KOREA" , 초록뱀미디어 K-STAR 골프
+https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20230913T010335SQUARE.png_20230913010336.png" tvg-chno="539" group-title="KOREA" , PGA Tour
+https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB42000061Z" tvg-id="KRBB42000061Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20230913T010304SQUARE.png_20230913010305.png" tvg-chno="540" group-title="KOREA" , SBS 원더우먼
+https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8
 
-#EXTINF:-1 tvg-id="KRBC32000248R" tvg-chno="515" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000248R_20230426T013722SQUARE.png_20230426013722.png" group-title="South Korea" , tvN 신서유기8
-https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000248R
-#EXTINF:-1 tvg-id="KRBC32000156C" tvg-chno="516" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000156C_20230426T013713SQUARE.png_20230426013713.png" group-title="South Korea" , tvN 대탈출
-https://d2mtknivycr9zl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ndbnpcfczvjbq-ssai-prd/b32caf42_751e_4035_8904_b2cded676be7/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000156C
+#EXTINF:-1 channel-id="samsung-KRBB4200016TZ" tvg-id="KRBB4200016TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200016TZ_20230913T010346SQUARE.png_20230913010347.png" tvg-chno="541" group-title="KOREA" , SBS 궁금한 이야기 Y
+https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC50000218R" tvg-id="KRBC50000218R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20230913T010312SQUARE.png_20230913010313.png" tvg-chno="542" group-title="KOREA", JTBC 톡파원25시
+https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8
 
-#EXTINF:-1 tvg-id="KRBC3200016H1" tvg-chno="517" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200016H1_20230426T013718SQUARE.png_20230426013719.png" group-title="South Korea" , tvN 삼시세끼 어촌편5
-https://d2mecmy93314jg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ysoihaaolxdeo-ssai-prd/8774f2b9_200a_41a9_b741_0882edc4765b/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200016H1
+#EXTINF:-1 channel-id="samsung-KRBC4400002AO" tvg-id="KRBC4400002AO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20230913T010319SQUARE.png_20230913010320.png" tvg-chno="543" group-title="KOREA" , KBS 쌈마이웨이
+https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC4600004BQ" tvg-id="KRBC4600004BQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4600004BQ_20231025T004645SQUARE.png_20231025004646.png" tvg-chno="544" group-title="KOREA" , JTBC 괴물
+https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8
 
-#EXTINF:-1 tvg-id="KRBB4200009C3" tvg-chno="518" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20230510T011442SQUARE.png_20230510011443.png" group-title="South Korea" , SBS 오 마이 베이비
-https://d2c6t9pg1qq2i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xk9ndm117p4tj-prod/hls-harvester2-1293-prod/us-east-1/cc-xk9ndm117p4tj/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC50000228B" tvg-id="KRBC50000228B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000228B_20230913T010314SQUARE.png_20230913010315.png" tvg-chno="545" group-title="KOREA" , JTBC 품위있는 그녀
+https://i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB4200009C3" tvg-id="KRBB4200009C3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20230913T010349SQUARE.png_20230913010350.png" tvg-chno="546" group-title="KOREA" , SBS 나는 솔로
+https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8
 
-#EXTINF:-1 tvg-id="KRBC4600004BQ" tvg-chno="519" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4600004BQ_20230614T012831SQUARE.png_20230614012832.png" group-title="South Korea" , JTBC SKY캐슬
-https://d1jkdzl8fxsn4u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-78wsn9flpkj0j/FC00000006.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBD27000069Q" tvg-id="KRBD27000069Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20230913T010404SQUARE.png_20230913010405.png" tvg-chno="547" group-title="KOREA" , TV조선 미스터트롯 영웅의 탄생
+https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBD2700001QR" tvg-id="KRBD2700001QR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700001QR_20230913T010407SQUARE.png_20230913010408.png" tvg-chno="552" group-title="KOREA" , TV조선 빨간 풍선
+https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBD2700002IV" tvg-id="KRBD2700002IV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20230913T010401SQUARE.png_20230913010402.png" tvg-chno="553" group-title="KOREA", TV조선 골프왕
+https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8
 
-#EXTINF:-1 tvg-id="KRBC46000173Y" tvg-chno="524" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230510T011433SQUARE.png_20230510011434.png" group-title="South Korea" , JTBC 뉴스
-https://d1b3dy6n8f9nao.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5d713eamqk50x/FC00000003.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBD2700007S0" tvg-id="KRBD2700007S0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700007S0_20230913T010340SQUARE.png_20230913010341.png" tvg-chno="555" group-title="KOREA" , PLAYY 영화
+https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB420000180" tvg-id="KRBB420000180" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20230913T010352SQUARE.png_20230913010353.png" tvg-chno="556" group-title="KOREA" , SBS 스토브리그
+https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
 
-#EXTINF:-1 tvg-id="KRBC3200017JQ" tvg-chno="525" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230524T004412SQUARE.png_20230524004413.png" group-title="South Korea" , 🎶 뿅뿅 지구오락실 댄스 모음.Zip
-https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200017JQ
+#EXTINF:-1 channel-id="samsung-KRBB4200004RA" tvg-id="KRBB4200004RA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200004RA_20230913T010355SQUARE.png_20230913010356.png" tvg-chno="557" group-title="KOREA" , SBS 웬만해선 그들을 막을 수 없다
+https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC200005H6" tvg-id="KRBC200005H6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20230913T010330SQUARE.png_20230913010331.png" tvg-chno="558" group-title="KOREA", MBC 지붕뚫고 하이킥
+https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8
 
-#EXTINF:-1 tvg-id="KRBC3200018FU" tvg-chno="526" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230524T004414SQUARE.png_20230524004415.png" group-title="South Korea" , 📁 뿅뿅 지구오락실 게임 모음.Zip
-https://d2hzd84ca9i22o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccmcyhv2wdcxb-ssai-prd/eaa13423_ab8c_4fde_9fc7_5268a971ff22/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200018FU
+#EXTINF:-1 channel-id="samsung-KRBC2000010X" tvg-id="KRBC2000010X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20230913T010324SQUARE.png_20230913010325.png" tvg-chno="559" group-title="KOREA" , MBC 거침없이 하이킥
+https://i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB50000711L" tvg-id="KRBB50000711L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230913T010327SQUARE.png_20230913010328.png" tvg-chno="561" group-title="KOREA" , MBC 심야괴담회
+https://i.mjh.nz/SamsungTVPlus/KRBB50000711L.m3u8
 
-#EXTINF:-1 tvg-id="KRBB5000073UD" tvg-chno="527" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20230524T004334SQUARE.png_20230524004335.png" group-title="South Korea" , MBC 그녀는 예뻤다
-https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC5000016BM" tvg-id="KRBC5000016BM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000016BM_20230913T010317SQUARE.png_20230913010318.png" tvg-chno="563" group-title="KOREA", JTBC 효리네 민박 시즌1
+https://i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB4200012PV" tvg-id="KRBB4200012PV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20230913T010358SQUARE.png_20230913010359.png" tvg-chno="565" group-title="KOREA", SBS 정글의 법칙
+https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8
 
-#EXTINF:-1 tvg-id="KRBC50000228B" tvg-chno="528" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000228B_20230524T004327SQUARE.png_20230524004328.png" group-title="South Korea" , JTBC 멜로가 체질
-https://dcvuq39z8e7yl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xi1mq5v8z9kb/FC00000015.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200007D1" tvg-id="KRBC3200007D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20230913T010427SQUARE.png_20230913010428.png" tvg-chno="566" group-title="KOREA", 맛있는 녀석들
+https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC5000015F5" tvg-id="KRBC5000015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000015F5_20231025T004642SQUARE.png_20231025004643.png" tvg-chno="567" group-title="KOREA" , JTBC 힘쎈여자 도봉순
+https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8
 
-#EXTINF:-1 tvg-id="KRBC3200030BO" tvg-chno="529" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200030BO_20230524T004354SQUARE.png_20230524004355.png" group-title="South Korea" , tvN 김비서가 왜 그럴까
-https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200030BO
+#EXTINF:-1 channel-id="samsung-KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20230913T010424SQUARE.png_20230913010425.png" tvg-chno="568" group-title="KOREA" , tvN 호텔 델루나
+https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC4100005N5" tvg-id="KRBC4100005N5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20230913T010434SQUARE.png_20230913010435.png" tvg-chno="570" group-title="KOREA" , 채널A 이제 만나러 갑니다
+https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8
 
-#EXTINF:-1 tvg-id="KRBB50000711L" tvg-chno="530" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230524T004339SQUARE.png_20230524004340.png" group-title="South Korea" , MBC 심야괴담회
-https://d33jr5ezct2aqw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-doq9g5envaarv-prod/Channel_MBC_3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC4000003J2" tvg-id="KRBC4000003J2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20230913T010430SQUARE.png_20230913010431.png" tvg-chno="571" group-title="KOREA" , 전우치
+https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC3500017PO" tvg-id="KRBC3500017PO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20230809T021325SQUARE.png_20230809021327.png" tvg-chno="601" group-title="KOREA" , MBN 나는 자연인이다
+https://i.mjh.nz/SamsungTVPlus/KRBC3500017PO.m3u8
 
-#EXTINF:-1 tvg-id="KRBB4200005CK" tvg-chno="531" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20230111T005228SQUARE.png_20230111005228.png" group-title="South Korea" , SBS 순옥명작관
-https://d1ye6lj5le5dh0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ert8sa2q2i3fz-prod/hls-harvester2-1293-prod/us-east-1/cc-ert8sa2q2i3fz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC32000126M" tvg-id="KRBC32000126M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20230809T021443SQUARE.png_20230809021444.png" tvg-chno="602" group-title="KOREA" , ch.핑크퐁
+https://i.mjh.nz/SamsungTVPlus/KRBC32000126M.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB4200017HA" tvg-id="KRBB4200017HA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20230809T021344SQUARE.png_20230809021345.png" tvg-chno="604" group-title="KOREA" , SBS 그것이 알고싶다
+https://i.mjh.nz/SamsungTVPlus/KRBB4200017HA.m3u8
 
-#EXTINF:-1 tvg-id="KRBC3200031KO" tvg-chno="532" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20230524T004356SQUARE.png_20230524004356.png" group-title="South Korea" , tvN 비밀의 숲
-https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200031KO
+#EXTINF:-1 channel-id="samsung-KRBC20000418" tvg-id="KRBC20000418" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20230809T021317SQUARE.png_20230809021318.png" tvg-chno="606" group-title="KOREA" , MBC 아빠! 어디가?
+https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC3500014ZH" tvg-id="KRBC3500014ZH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20230809T021500SQUARE.png_20230809021501.png" tvg-chno="607" group-title="KOREA", 고독한 미식가
+https://i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8
 
-#EXTINF:-1 tvg-id="KRBB5000070U4" tvg-chno="533" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20230614T012835SQUARE.png_20230614012836.png" group-title="South Korea" , MBC 검법남녀2
-https://d13bfaug2ipt96.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ujgh90ynpdw-prod/Channel_MBC_2.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB5000073UD" tvg-id="KRBB5000073UD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20230809T021309SQUARE.png_20230809021310.png" tvg-chno="608" group-title="KOREA", MBC 그녀는 예뻤다
+https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB500034DY" tvg-id="KRBB500034DY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20230809T021301SQUARE.png_20230809021302.png" tvg-chno="609" group-title="KOREA" , MBC every1 어서와 한국은 처음이지?
+https://i.mjh.nz/SamsungTVPlus/KRBB500034DY.m3u8
 
-#EXTINF:-1 tvg-id="KRBD2000001BN" tvg-chno="534" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230524T004403SQUARE.png_20230524004404.png" group-title="South Korea" , 뽀요TV
-https://d1swewhk80ueaz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nxx9rtluo0681/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC4100001LY" tvg-id="KRBC4100001LY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20230809T021521SQUARE.png_20230809021522.png" tvg-chno="610" group-title="KOREA", 채널A 나만 믿고 따라와 도시어부
+https://i.mjh.nz/SamsungTVPlus/KRBC4100001LY.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC35000169K" tvg-id="KRBC35000169K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20230809T021433SQUARE.png_20230809021434.png" tvg-chno="613" group-title="KOREA", TV CHOSUN 국가가 부른다
+https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8
 
-#EXTINF:-1 tvg-id="KRBB420000180" tvg-chno="535" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20230419T005746SQUARE.png_20230419005747.png" group-title="South Korea" , SBS 그해 우리는
-https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3500015BN" tvg-id="KRBC3500015BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20231025T004635SQUARE.png_20231025004636.png" tvg-chno="614" group-title="KOREA", 도라마코리아
+https://i.mjh.nz/SamsungTVPlus/KRBC3500015BN.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC46000173Y" tvg-id="KRBC46000173Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230809T021244SQUARE.png_20230809021245.png" tvg-chno="615" group-title="KOREA" , JTBC 뉴스
+https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
 
-#EXTINF:-1 tvg-id="KRBC4400002AO" tvg-chno="536" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20230222T043321SQUARE.png_20230222043322.png" group-title="South Korea" , KBS 왕가네 식구들
-https://d2t9x9riiebgk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yit6fxy36rin1-ssai-prod/hls-harvester2-1293-prod-apnortheast2/ap-northeast-2/cc-yit6fxy36rin1/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230809T021338SQUARE.png_20230809021339.png" tvg-chno="616" group-title="KOREA" , Mnet 스트릿 우먼 파이터
+https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC3500020AF" tvg-id="KRBC3500020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20230809T021328SQUARE.png_20230809021329.png" tvg-chno="618" group-title="KOREA" , MBN 돌싱글즈
+https://i.mjh.nz/SamsungTVPlus/KRBC3500020AF.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB4200005CK" tvg-id="KRBB4200005CK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20230809T021413SQUARE.png_20230809021414.png" tvg-chno="620" group-title="KOREA" , SBS 순옥명작관
+https://i.mjh.nz/SamsungTVPlus/KRBB4200005CK.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20231025T004651SQUARE.png_20231025004652.png" tvg-chno="621" group-title="KOREA", MBC 돈꽃
+https://i.mjh.nz/SamsungTVPlus/KRBB5000070U4.m3u8
 
-#EXTINF:-1 tvg-id="KRBC20000347" tvg-chno="538" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20230614T012841SQUARE.png_20230614012841.png" group-title="South Korea" , MBC 오자룡이 간다
-https://d386gkzosr3i38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fm713l3q6ryzr-prod/Channel_MBC_8.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBD2000001BN" tvg-id="KRBD2000001BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230809T021510SQUARE.png_20230809021511.png" tvg-chno="622" group-title="KOREA", 뽀요TV
+https://i.mjh.nz/SamsungTVPlus/KRBD2000001BN.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20230809T021320SQUARE.png_20230809021321.png" tvg-chno="623" group-title="KOREA" , MBC 오자룡이 간다
+https://i.mjh.nz/SamsungTVPlus/KRBC20000347.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB420001572" tvg-id="KRBB420001572" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20230809T021404SQUARE.png_20230809021405.png" tvg-chno="624" group-title="KOREA" , SBS 빽드
+https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8
 
-#EXTINF:-1 tvg-id="KRBC4400001TZ" tvg-chno="544" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230308T013155SQUARE.png_20230308013156.png" group-title="South Korea" , KBS 넝쿨째 굴러온 당신
-https://dxu4wvtv4p1ec.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b62ma21bqfqg-ssai-prod/hls-harvester2-1293-prod-apnortheast2/ap-northeast-2/cc-0b62ma21bqfqg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20230809T021503SQUARE.png_20230809021504.png" tvg-chno="626" group-title="KOREA" , 꽃보다 남자
+https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB500037T3" tvg-id="KRBB500037T3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20230809T021259SQUARE.png_20230809021300.png" tvg-chno="627" group-title="KOREA" , MBC every1 별순검
+https://i.mjh.nz/SamsungTVPlus/KRBB500037T3.m3u8
 
-#EXTINF:-1 tvg-id="KRBB420001572" tvg-chno="546" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20230322T010936SQUARE.png_20230322010937.png" group-title="South Korea" , SBS 빽드
-https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC41000021C" tvg-id="KRBC41000021C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20230809T021523SQUARE.png_20230809021524.png" tvg-chno="628" group-title="KOREA" , 채널A 요즘 육아 금쪽같은 내새끼
+https://i.mjh.nz/SamsungTVPlus/KRBC41000021C.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB4200002MM" tvg-id="KRBB4200002MM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20230809T021352SQUARE.png_20230809021353.png" tvg-chno="629" group-title="KOREA" , SBS 런닝맨
+https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB4200003ZL" tvg-id="KRBB4200003ZL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20230809T021355SQUARE.png_20230809021356.png" tvg-chno="630" group-title="KOREA", SBS 미운 우리 새끼
+https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB500035VF" tvg-id="KRBB500035VF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20230809T021436SQUARE.png_20230809021437.png" tvg-chno="631" group-title="KOREA" , TV CHOSUN 사랑은 아무나 하나
+https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8
 
-#EXTINF:-1 tvg-id="KRBB5000069BS" tvg-chno="580" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20220824T102029SQUARE.png_20220824102030.png" group-title="South Korea" , MBC 무한도전
-https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB50000721W" tvg-id="KRBB50000721W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20231025T004648SQUARE.png_20231025004649.png" tvg-chno="632" group-title="KOREA", MBC 선을 넘는 녀석들
+https://i.mjh.nz/SamsungTVPlus/KRBB50000721W.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC3200008M6" tvg-id="KRBC3200008M6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20230809T021441SQUARE.png_20230809021441.png" tvg-chno="633" group-title="KOREA", TV CHOSUN 식객 허영만의 백반기행
+https://i.mjh.nz/SamsungTVPlus/KRBC3200008M6.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB4200008PR" tvg-id="KRBB4200008PR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20230809T021350SQUARE.png_20230809021351.png" tvg-chno="634" group-title="KOREA", SBS 동상이몽2 - 너는 내 운명
+https://i.mjh.nz/SamsungTVPlus/KRBB4200008PR.m3u8
 
-#EXTINF:-1 tvg-id="KRBB4200002MM" tvg-chno="582" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20221116T013643SQUARE.png_20221116013644.png" group-title="South Korea" , SBS 런닝맨
-https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7g3mhwldqil59-prod/hls-harvester2-1293-prod/us-east-1/cc-7g3mhwldqil59/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200011RB" tvg-id="KRBB4200011RB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200011RB_20230809T021358SQUARE.png_20230809021359.png" tvg-chno="635" group-title="KOREA", SBS 백종원의 골목식당
+https://i.mjh.nz/SamsungTVPlus/KRBB4200011RB.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB42000100V" tvg-id="KRBB42000100V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20230809T021401SQUARE.png_20230809021402.png" tvg-chno="637" group-title="KOREA" , SBS 불타는 청춘
+https://i.mjh.nz/SamsungTVPlus/KRBB42000100V.m3u8
 
-#EXTINF:-1 tvg-id="KRBB4200003ZL" tvg-chno="584" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20221214T020633SQUARE.png_20221214020634.png" group-title="South Korea" , SBS 미운 우리 새끼
-https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200014MY" tvg-id="KRBB4200014MY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20230809T021430SQUARE.png_20230809021431.png" tvg-chno="638" group-title="KOREA", SBS 패밀리가 떴다
+https://i.mjh.nz/SamsungTVPlus/KRBB4200014MY.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC3500013VH" tvg-id="KRBC3500013VH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20231025T004639SQUARE.png_20231025004640.png" tvg-chno="642" group-title="KOREA", 로보카폴리 TV
+https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC4000002ME" tvg-id="KRBC4000002ME" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20230809T021445SQUARE.png_20230809021446.png" tvg-chno="644" group-title="KOREA" , iHQ 돈쭐내러 왔습니다
+https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8
 
-#EXTINF:-1 tvg-id="KRBB50000721W" tvg-chno="587" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20230524T004336SQUARE.png_20230524004337.png" group-title="South Korea" , MBC 신비한 TV 서프라이즈
-https://d1acfb5b13qsdr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-he05vyj1kinia-prod/Channel_MBC_4.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC4100008Z6" tvg-id="KRBC4100008Z6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20230809T021240SQUARE.png_20230809021241.png" tvg-chno="645" group-title="KOREA" , E채널 토요일은 밥이 좋아
+https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC4000005EP" tvg-id="KRBC4000005EP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20230809T021254SQUARE.png_20230809021254.png" tvg-chno="646" group-title="KOREA", KBS Joy 연애의 참견
+https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC3200009M7" tvg-id="KRBC3200009M7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20230809T021251SQUARE.png_20230809021252.png" tvg-chno="647" group-title="KOREA" , KBS Joy 무엇이든 물어보살
+https://i.mjh.nz/SamsungTVPlus/KRBC3200009M7.m3u8
 
-#EXTINF:-1 tvg-id="KRBB4200008PR" tvg-chno="589" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20230111T005223SQUARE.png_20230111005224.png" group-title="South Korea" , SBS 동상이몽2 - 너는 내 운명
-https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3500019CD" tvg-id="KRBC3500019CD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20230809T021331SQUARE.png_20230809021332.png" tvg-chno="648" group-title="KOREA" , MBN 속풀이쇼 동치미
+https://i.mjh.nz/SamsungTVPlus/KRBC3500019CD.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB4200013L5" tvg-id="KRBB4200013L5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20230809T021410SQUARE.png_20230809021411.png" tvg-chno="649" group-title="KOREA" , SBS 순간포착 세상에 이런일이
+https://i.mjh.nz/SamsungTVPlus/KRBB4200013L5.m3u8
 
-#EXTINF:-1 tvg-id="KRBC200002I0" tvg-chno="590" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20220329T055215SQUARE.png_20220329055216.png" group-title="South Korea" , MBC 나혼자산다
-https://d3778iurtj3xv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kg9gdipudll7l-prod/Channel_MBC_7.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200018FT" tvg-id="KRBB4200018FT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20230809T021407SQUARE.png_20230809021408.png" tvg-chno="651" group-title="KOREA", SBS 생활의 달인
+https://i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20230809T021334SQUARE.png_20230809021335.png" tvg-chno="652" group-title="KOREA" , MBN 휴먼다큐 사노라면
+https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8
 
-#EXTINF:-1 tvg-id="KRBB4200011RB" tvg-chno="593" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200011RB_20221214T020635SQUARE.png_20221214020636.png" group-title="South Korea" , SBS 백종원의 골목식당
-https://d2riuzghn0kt92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-et8hq9b8jg99x-prod/hls-harvester2-1293-prod/us-east-1/cc-et8hq9b8jg99x/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRAH1801500A" tvg-id="KRAH1801500A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20230809T021230SQUARE.png_20230809021231.png" tvg-chno="653" group-title="KOREA" , 현대홈쇼핑
+https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBD2200001QD" tvg-id="KRBD2200001QD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20230809T021516SQUARE.png_20230809021517.png" tvg-chno="654" group-title="KOREA" , 우리의식탁
+https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8
 
 
-#EXTINF:-1 tvg-id="KRBB4200012PV" tvg-chno="595" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20221214T020641SQUARE.png_20221214020642.png" group-title="South Korea" , SBS 정글의 법칙
-https://d1qhklddeqjbtp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-35rocwtlqy12b-prod/hls-harvester2-1293-prod/us-east-1/cc-35rocwtlqy12b/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
+#EXTINF:-1 channel-id="samsung-KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20220824T112713SQUARE.png_20220824112714.png" tvg-chno="701" group-title="KOREA", NEW MOVIES
+https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
 
-#EXTINF:-1 tvg-id="KRBB42000100V" tvg-chno="596" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20221214T020637SQUARE.png_20221214020638.png" group-title="South Korea" , SBS 불타는 청춘
-https://d3ev7kkpknycu4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bedw21gabjfhb-prod/hls-harvester2-1293-prod/us-east-1/cc-bedw21gabjfhb/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" tvg-chno="731" group-title="KOREA" , OGN 스타리그
+https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20230308T013144SQUARE.png_20230308013145.png" tvg-chno="752" group-title="KOREA", 빌리어즈TV 레전드
+https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8
 
-#EXTINF:-1 tvg-id="KRBB4200014MY" tvg-chno="597" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20220915T035714SQUARE.png_20220915035714.png" group-title="South Korea" , SBS 패밀리가 떴다
-https://d1rio2j9o2hqtj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1nujk65i146oc-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBD370000134" tvg-id="KRBD370000134" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20231101T012203SQUARE.png_20231101012204.png" tvg-chno="754" group-title="KOREA" , TED
+https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBB500039Y5" tvg-id="KRBB500039Y5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" tvg-chno="800" group-title="KOREA", Bloomberg TV+ UHD
+https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8
 
-#EXTINF:-1 tvg-id="KRBC46000014A" tvg-chno="598" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20230614T012828SQUARE.png_20230614012830.png" group-title="South Korea" , JTBC 리뷰봐야지
-https://d29tiv0r7k3rif.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uuknajf4ybt8n/FC00000004.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB500044GP" tvg-id="KRBB500044GP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20230524T004225SQUARE.png_20230524004225.png" tvg-chno="801" group-title="KOREA" , Bloomberg Originals
+https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBD3100006X4" tvg-id="KRBD3100006X4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20231101T012207SQUARE.png_20231101012208.png" tvg-chno="802" group-title="KOREA" , 글로벌 뉴스 by LeadStory
+https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8
 
-#EXTINF:-1 tvg-id="KRBC32000261J" tvg-chno="601" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000261J_20230426T013710SQUARE.png_20230426013711.png" group-title="South Korea" , tvN 놀라운 토요일
-https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+#EXTINF:-1 channel-id="samsung-KRBC5000019FB" tvg-id="KRBC5000019FB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20230926T013822SQUARE.png_20230926013824.png" tvg-chno="834" group-title="KOREA", JTBC 최강야구
+https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC5000018O9" tvg-id="KRBC5000018O9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" tvg-chno="839" group-title="KOREA", JTBC 골프
+https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8
 
-#EXTINF:-1 tvg-id="KRBC3200027ED" tvg-chno="602" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200027ED_20230426T013723SQUARE.png_20230426013724.png" group-title="South Korea" , tvN 유퀴즈온더블럭
-https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED
+#EXTINF:-1 channel-id="samsung-KRBD1900001Y2" tvg-id="KRBD1900001Y2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20230712T012345SQUARE.png_20230712012346.png" tvg-chno="840" group-title="KOREA" , FIFA+
+https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
 
+#EXTINF:-1 channel-id="samsung-KRBC4400003SD" tvg-id="KRBC4400003SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20230726T002359SQUARE.png_20230726002400.png" tvg-chno="842" group-title="KOREA" , KBS 김과장
+https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
 
-#EXTINF:-1 tvg-id="KRBC3200025QG" tvg-chno="603" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20230426T013708SQUARE.png_20230426013709.png" group-title="South Korea" , tvN 꽃보다 할배 리턴즈
-https://d1zto4uvqkznpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e02jwpz12nm4y-ssai-prd/a8dbe12b_5883_496b_8f6e_c56ef91558c5/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200025QG
+#EXTINF:-1 channel-id="samsung-KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230726T002357SQUARE.png_20230726002358.png" tvg-chno="843" group-title="KOREA" , KBS 개는 훌륭하다
+https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
 
-
-
-#EXTINF:-1 tvg-id="KRBC2000010X" tvg-chno="612" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20230222T043327SQUARE.png_20230222043328.png" group-title="South Korea" , MBC 거침없이 하이킥
-https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xnah4o9mnn8-prod/Channel_MBC_6.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRBB4200004RA" tvg-chno="613" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200004RA_20230412T004734SQUARE.png_20230412004735.png" group-title="South Korea" , SBS 순풍산부인과
-https://d2ji8bbykh38sd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p7u2m4ayh1qsb-prod/hls-harvester2-1293-prod/us-east-1/cc-p7u2m4ayh1qsb/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRBC200005H6" tvg-chno="614" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20220824T102033SQUARE.png_20220824102033.png" group-title="South Korea" , MBC 지붕뚫고 하이킥
-https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jsnzm21r7lwrj-prod/Channel_MBC_10.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-
-#EXTINF:-1 tvg-id="KRBB420000769" tvg-chno="641" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20230208T092104SQUARE.png_20230208092105.png" group-title="South Korea" , SBS TV 동물농장
-https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRBB4200013L5" tvg-chno="642" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20230208T092113SQUARE.png_20230208092115.png" group-title="South Korea" , SBS 순간포착 세상에 이런일이
-https://dp3r8qzh7xgdp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ua8hvwhk9ajic-prod/hls-harvester2-1293-prod/us-east-1/cc-ua8hvwhk9ajic/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRBB4200016TZ" tvg-chno="643" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200016TZ_20230208T092116SQUARE.png_20230208092117.png" group-title="South Korea" , SBS 스페셜
-https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRBB4200017HA" tvg-chno="644" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20230208T092106SQUARE.png_20230208092107.png" group-title="South Korea" , SBS 그것이 알고싶다
-https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRBB4200018FT" tvg-chno="645" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20230208T092111SQUARE.png_20230208092112.png" group-title="South Korea" , SBS 생활의 달인
-https://dgjj0tcconmvk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejefxdqh8872z-prod/hls-harvester2-1293-prod/us-east-1/cc-ejefxdqh8872z/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-
-#EXTINF:-1 tvg-id="KRAH1801500A" tvg-chno="651" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20230322T010920SQUARE.png_20230322010921.png" group-title="South Korea" , 현대홈쇼핑
-https://livestreaming.hyundaihmall.com/cjpstp/live.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KRBC3200010XJ" tvg-chno="655" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200010XJ_20220824T112711SQUARE.png_20220824112712.png" group-title="South Korea" , 우리의식탁
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%9A%B0%EB%A6%AC%EC%9D%98%EC%8B%9D%ED%83%81&channel_id=newid_016&apikey=b97c7a7d0c82424bb607e141ef215779&auth=4267aefa-e23c8733-cc1d493e-388f9d05&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRAH4602000A" tvg-chno="700" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20230322T010922SQUARE.png_20230322010923.png" group-title="South Korea" , 현대홈쇼핑+Shop
-https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="KRBC3200005SH" tvg-chno="731" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20220824T112716SQUARE.png_20220824112717.png" group-title="South Korea" , 게임 연구소
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EA%B2%8C%EC%9E%84%EC%97%B0%EA%B5%AC%EC%86%8C&channel_id=newid_026&apikey=b97c7a7d0c82424bb607e141ef215779&auth=1806919a-8fba7469-7c0f864a-55096e5f&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-
-#EXTINF:-1 tvg-id="KRBB500039Y5" tvg-chno="800" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" group-title="South Korea" , Bloomberg TV+ UHD
-https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRBB500044GP" tvg-chno="801" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20230524T004225SQUARE.png_20230524004225.png" group-title="South Korea" , Bloomberg Originals
-https://dq6jn3uge31mm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BloombergQuicktake-kr-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-
-#EXTINF:-1 tvg-id="KRBC800013YF" tvg-chno="832" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800013YF_20230426T013734SQUARE.png_20230426013734.png" group-title="South Korea" , 투니버스 흔한남매의 안흔한일기3
-https://d27qq4sc9v1h7c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxfwub7u3zl2a-ssai-prd/328d5389_0716_4717_979f_372036a0d322/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800013YF
-
-
-#EXTINF:-1 tvg-id="KRBC5000020AF" tvg-chno="833" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20230614T012821SQUARE.png_20230614012822.png" group-title="South Korea" , JTBC 슈가맨
-https://dzcjbnn891cu2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-930yafposhunw/FC00000009.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRBC5000019FB" tvg-chno="834" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20230614T012819SQUARE.png_20230614012820.png" group-title="South Korea" , JTBC 아이돌룸
-https://d3jtfpu5t7q1ce.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52vyaqgm7vxw0/FC00000005.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRBC50000218R" tvg-chno="835" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20230614T012825SQUARE.png_20230614012827.png" group-title="South Korea" , JTBC 팬텀싱어
-https://d2gj2876plb1p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lzlov6l63q6hk/FC00000008.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRBC5000015F5" tvg-chno="836" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000015F5_20230614T012823SQUARE.png_20230614012824.png" group-title="South Korea" , JTBC 내 아이디는 강남미인
-https://d24jtwkashyon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rw5m8uiqbx67q/FC00000012.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-#EXTINF:-1 tvg-id="KRBC5000018O9" tvg-chno="839" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" group-title="South Korea" , JTBC 골프
-https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-70fxr8r2oets2/FC00000018.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
+#EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="KOREA", 씨네21+
+https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
 
 
 #########################  Japanese   ########################
@@ -1093,7 +1106,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 
 #EXTINF:-1 ch-number="714" tvg-id="CrimeInvestigation" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",714 Crime & Investigation
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
+#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e468987
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default.mpd
 
 #EXTINF:-1 ch-number="715" tvg-id="HGTV" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",715 HGTV
@@ -1184,7 +1197,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 ch-number="802" tvg-id="AstroArena2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",802 Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec6898c833d2e14ff
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 ch-number="802" tvg-id="AstroArena2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",802 Arena 2 S
@@ -2395,7 +2408,58 @@ http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/ch
 http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier2sports50)/manifest_hd.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORTS",BEIN 1 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="SPORTS",BEIN 2 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="SPORTS",BEIN 3 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="SPORTS",BEIN 4 AIS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="SPORTS",BEIN 5 AIS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORTS",BEIN 6 AIS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="SPORTS",BEIN 7 AIS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 1 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5157.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 2 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5158.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 3 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5159.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 4 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5160.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 5 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5161.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 6 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5162.ts
+#EXTINF:-1 group-title=" SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 7 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5163.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 8 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5164.ts
 
 
 
@@ -2628,126 +2692,299 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/france/6ter.m3u8
 #######################  China  ################################
 
 
-
+***********************EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-https://cntv.lat/tv?auth=202311030915&id=cctv1
+http://cntv.lat/tv/live.php?auth=231110&id=cctv1HD
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
-https://cntv.lat/tv?auth=202311030915&id=cctv2
+http://cntv.lat/tv/live.php?auth=231110&id=cctv2HD
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-https://cntv.lat/tv?auth=202311030915&id=cctv3
+http://cntv.lat/tv/live.php?auth=231110&id=cctv3HD
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
-https://cntv.lat/tv?auth=202311030915&id=cctv4
+http://cntv.lat/tv/live.php?auth=231110&id=cctv4HD
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
-https://cntv.lat/tv?auth=202311030915&id=cctv5
+http://cntv.lat/tv/live.php?auth=231110&id=cctv5HD
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-https://cntv.lat/tv?auth=202311030915&id=cctv5p
+http://cntv.lat/tv/live.php?auth=231110&id=cctv5SportHD
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-https://cntv.lat/tv?auth=202311030915&id=cctv6
+http://cntv.lat/tv/live.php?auth=231110&id=cctv6HD
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-https://cntv.lat/tv?auth=202311030915&id=cctv7
+http://cntv.lat/tv/live.php?auth=231110&id=cctv7HD
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-https://cntv.lat/tv?auth=202311030915&id=cctv8
+http://cntv.lat/tv/live.php?auth=231110&id=cctv8HD
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
-https://cntv.lat/tv?auth=202311030915&id=cctv9
+http://cntv.lat/tv/live.php?auth=231110&id=cctv9HD
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
-https://cntv.lat/tv?auth=202311030915&id=cctv10
+http://cntv.lat/tv/live.php?auth=231110&id=cctv10HD
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
-https://cntv.lat/tv?auth=202311030915&id=cctv11
+http://cntv.lat/tv/live.php?auth=231110&id=cctv11HD
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
-https://cntv.lat/tv?auth=202311030915&id=cctv12
+http://cntv.lat/tv/live.php?auth=231110&id=cctv12HD
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-https://cntv.lat/tv?auth=202311030915&id=cctv13
+http://cntv.lat/tv/live.php?auth=231110&id=CCTVNewsHD
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-https://cntv.lat/tv?auth=202311030915&id=cctv14
+http://cntv.lat/tv/live.php?auth=231110&id=cctvseHD
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
-https://cntv.lat/tv?auth=202311030915&id=cctv15
+http://cntv.lat/tv/live.php?auth=231110&id=cctv15HD
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-https://cntv.lat/tv?auth=202311030915&id=cctv16
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 4K
-https://cntv.lat/tv?auth=202311030915&id=cctv164k
+http://cntv.lat/tv/live.php?auth=231110&id=cctv16HD
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
-https://cntv.lat/tv?auth=202311030915&id=cctv17
+http://cntv.lat/tv/live.php?auth=231110&id=cctv17HD
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-https://cntv.lat/tv?auth=202311030915&id=cctv4k
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
-https://cntv.lat/tv?auth=202311030915&id=cgtn
+http://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 4K
+http://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视",CHC动作电影
+http://cntv.lat/tv/live.php?auth=231110&id=chcdzdyHD
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视",CHC家庭影院
+http://cntv.lat/tv/live.php?auth=231110&id=chcjtyyHD
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视",CHC高清电影
+http://cntv.lat/tv/live.php?auth=231110&id=chcgqdyHD
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-https://cntv.lat/tv?auth=202311030915&id=bjws
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-https://cntv.lat/tv?auth=202311030915&id=dfws
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-https://cntv.lat/tv?auth=202311030915&id=tjws
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-https://cntv.lat/tv?auth=202311030915&id=cqws
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://cntv.lat/tv?auth=202311030915&id=hljws
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-https://cntv.lat/tv?auth=202311030915&id=jlws
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://cntv.lat/tv?auth=202311030915&id=lnws
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://cntv.lat/tv?auth=202311030915&id=nmws
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
-https://cntv.lat/tv?auth=202311030915&id=nxws
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
-https://cntv.lat/tv?auth=202311030915&id=gsws
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
-https://cntv.lat/tv?auth=202311030915&id=qhws
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
-https://cntv.lat/tv?auth=202311030915&id=sxws
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-https://cntv.lat/tv?auth=202311030915&id=hbws
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
-https://cntv.lat/tv?auth=202311030915&id=sxiws
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-https://cntv.lat/tv?auth=202311030915&id=sdws
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-https://cntv.lat/tv?auth=202311030915&id=ahws
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-https://cntv.lat/tv?auth=202311030915&id=hnws
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-https://cntv.lat/tv?auth=202311030915&id=hubws
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://cntv.lat/tv?auth=202311030915&id=hunws
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-https://cntv.lat/tv?auth=202311030915&id=jxws
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-https://cntv.lat/tv?auth=202311030915&id=jsws
+http://cntv.lat/tv/live.php?auth=231110&id=beijingHD
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-https://cntv.lat/tv?auth=202311030915&id=zjws
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-https://cntv.lat/tv?auth=202311030915&id=dnws
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
-https://cntv.lat/tv?auth=202311030915&id=xmws
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-https://cntv.lat/tv?auth=202311030915&id=gdws
+http://cntv.lat/tv/live.php?auth=231110&id=zhejiangHD
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
+http://cntv.lat/tv/live.php?auth=231110&id=shanghaiHD
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://cntv.lat/tv?auth=202311030915&id=szws
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-https://cntv.lat/tv?auth=202311030915&id=gxws
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-https://cntv.lat/tv?auth=202311030915&id=ynws
+http://cntv.lat/tv/live.php?auth=231110&id=shenzhenHD
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://cntv.lat/tv/live.php?auth=231110&id=liaoningHD
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
+http://cntv.lat/tv/live.php?auth=231110&id=tianjinHD
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-https://cntv.lat/tv?auth=202311030915&id=gzws
+http://cntv.lat/tv/live.php?auth=231110&id=guizhouHD
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-https://cntv.lat/tv?auth=202311030915&id=scws
-#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视",康巴卫视
-https://cntv.lat/tv?auth=202311030915&id=kbws
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
-https://cntv.lat/tv?auth=202311030915&id=xjws
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
-https://cntv.lat/tv?auth=202311030915&id=btws
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
-https://cntv.lat/tv?auth=202311030915&id=xzws
+http://cntv.lat/tv/live.php?auth=231110&id=sichuanHD
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
+http://cntv.lat/tv/live.php?auth=231110&id=chongqingHD
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
+http://cntv.lat/tv/live.php?auth=231110&id=jiangsuHD
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
+http://cntv.lat/tv/live.php?auth=231110&id=yunnanSD
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
+http://cntv.lat/tv/live.php?auth=231110&id=dongnanHD
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://cntv.lat/tv/live.php?auth=231110&id=heilongjiangHD
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
+http://cntv.lat/tv/live.php?auth=231110&id=anhuiSD
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
+http://cntv.lat/tv/live.php?auth=231110&id=hebeiSD
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
+http://cntv.lat/tv/live.php?auth=231110&id=jiangxiHD
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
+http://cntv.lat/tv/live.php?auth=231110&id=hubeiSD
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-https://cntv.lat/tv?auth=202311030915&id=hinws
+http://cntv.lat/tv/live.php?auth=231110&id=hainanSD
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
+http://cntv.lat/tv/live.php?auth=231110&id=jilinHD
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
+http://cntv.lat/tv/live.php?auth=231110&id=guangxiHD
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://cntv.lat/tv/live.php?auth=231110&id=neimengkuSD
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
+http://cntv.lat/tv/live.php?auth=231110&id=hunanHD
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
+http://cntv.lat/tv/live.php?auth=231110&id=guangdongHD
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
+http://cntv.lat/tv/live.php?auth=231110&id=henanHD
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
+http://cntv.lat/tv/live.php?auth=231110&id=shanxiSD
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
+http://cntv.lat/tv/live.php?auth=231110&id=bingtuanSD
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://cntv.lat/tv/live.php?auth=231110&id=ningxia
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="卫视",卡酷少儿
+http://cntv.lat/tv/live.php?auth=231110&id=bjkakuSD
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="卫视",金鹰卡通
+http://cntv.lat/tv/live.php?auth=231110&id=jinyingSD
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
-https://cntv.lat/tv?auth=202311030915&id=ssws
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视",海峡卫视
-https://cntv.lat/tv?auth=202311030915&id=hxws
+http://cntv.lat/tv/live.php?auth=231110&id=sanshaSD
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
+http://cntv.lat/tv/live.php?auth=231110&id=qinghaiSD
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
+http://cntv.lat/tv/live.php?auth=231110&id=xinjiangSD
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
+http://cntv.lat/tv/live.php?auth=231110&id=xizangSD
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视",中国天气
+http://cntv.lat/tv/live.php?auth=231110&id=tianqiSD
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视",北京纪实科教
-https://cntv.lat/tv?auth=202311030915&id=bjjskj
-
+http://cntv.lat/tv/live.php?auth=231110&id=bjayjsSD
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视",山东教育卫视
+http://cntv.lat/tv/live.php?auth=231110&id=sdjiaoyuSD
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视",CETV-1
+http://cntv.lat/tv/live.php?auth=231110&id=cetv-1SD
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视",CETV-4
+http://cntv.lat/tv/live.php?auth=231110&id=cetv-4SD
+#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="其他",早期教育
+http://cntv.lat/tv/live.php?auth=231110&id=zaojiaoHD
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="其他",欢笑剧场 4K
+http://cntv.lat/tv/live.php?auth=231110&id=hxjc_4K
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="其他",生活时尚
+http://cntv.lat/tv/live.php?auth=231110&id=shenghuo
+#EXTINF:-1 tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://live.fanmingming.com/tv/百姓健康.png" group-title="其他",百姓健康
+http://cntv.lat/tv/live.php?auth=231110&id=jiankangSD
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="其他",快乐垂钓
+http://cntv.lat/tv/live.php?auth=231110&id=klcdHD
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="其他",都市剧场
+http://cntv.lat/tv/live.php?auth=231110&id=dsjcHD
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其他",动漫秀场
+http://cntv.lat/tv/live.php?auth=231110&id=dmxcHD
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="其他",魅力足球
+http://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="其他",求索纪录
+http://cntv.lat/tv/live.php?auth=231110&id=qsjlHD
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="其他",游戏风云
+http://cntv.lat/tv/live.php?auth=231110&id=yxfyHD
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="其他",东方财经
+http://cntv.lat/tv/live.php?auth=231110&id=dfcj
+#EXTINF:-1 tvg-id="证券资讯" tvg-name="证券资讯" tvg-logo="https://live.fanmingming.com/tv/证券服务.png" group-title="其他",证券服务
+http://cntv.lat/tv/live.php?auth=231110&id=jiazheng
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="其他",书画
+http://cntv.lat/tv/live.php?auth=231110&id=shuhua
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="其他",新动漫
+http://cntv.lat/tv/live.php?auth=231110&id=dongman
+#EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://live.fanmingming.com/tv/国学.png" group-title="其他",国学频道
+http://cntv.lat/tv/live.php?auth=231110&id=guoxue
+#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="其他",优优宝贝
+http://cntv.lat/tv/live.php?auth=231110&id=youxi
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="其他",中华特产
+http://cntv.lat/tv/live.php?auth=231110&id=techan
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://live.fanmingming.com/tv/环球奇观.png" group-title="其他",环球奇观
+http://cntv.lat/tv/live.php?auth=231110&id=car
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://live.fanmingming.com/tv/生态环境.png" group-title="其他",生态环境
+http://cntv.lat/tv/live.php?auth=231110&id=shengtai
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="其他",四海钓鱼
+http://cntv.lat/tv/live.php?auth=231110&id=diaoyu
+#EXTINF:-1 tvg-id="车迷" tvg-name="车迷" tvg-logo="https://live.fanmingming.com/tv/车迷.png" group-title="其他",车迷
+http://cntv.lat/tv/live.php?auth=231110&id=doxtv
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="其他",法治天地
+http://cntv.lat/tv/live.php?auth=231110&id=fazhi
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="其他",金色学堂
+http://cntv.lat/tv/live.php?auth=231110&id=jinse
+#EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://live.fanmingming.com/tv/收藏天下.png" group-title="其他",收藏天下
+http://cntv.lat/tv/live.php?auth=231110&id=soucang
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="其他",财富天下
+http://cntv.lat/tv/live.php?auth=231110&id=caifu
+#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="其他",天元围棋
+http://cntv.lat/tv/live.php?auth=231110&id=weiqi
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="其他",先锋乒羽
+http://cntv.lat/tv/live.php?auth=231110&id=xianfeng
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="其他",环球旅游
+http://cntv.lat/tv/live.php?auth=231110&id=huanqiulvyou
+#EXTINF:-1 tvg-id="摄影" tvg-name="摄影" tvg-logo="https://live.fanmingming.com/tv/摄影.png" group-title="其他",摄影频道
+http://cntv.lat/tv/live.php?auth=231110&id=sheying
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",风云剧场
+http://cntv.lat/tv/live.php?auth=231110&id=fyjcHD
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视",第一剧场
+http://cntv.lat/tv/live.php?auth=231110&id=diyijuchangHD
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
+http://cntv.lat/tv/live.php?auth=231110&id=nvxing
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
+http://cntv.lat/tv/live.php?auth=231110&id=hjjcHD
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",风云音乐
+http://cntv.lat/tv/live.php?auth=231110&id=fyyyHD
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
+http://cntv.lat/tv/live.php?auth=231110&id=ystqHD
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
+http://cntv.lat/tv/live.php?auth=231110&id=fyzqHD
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",央视文化精品
+http://cntv.lat/tv/live.php?auth=231110&id=yswhHD
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
+http://cntv.lat/tv/live.php?auth=231110&id=golfHD
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
+http://cntv.lat/tv/live.php?auth=231110&id=bqkjHD
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="其他",发现之旅
+http://cntv.lat/tv/live.php?auth=231110&id=faxian
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="其他",中学生
+http://cntv.lat/tv/live.php?auth=231110&id=qicai
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="其他",老故事
+http://cntv.lat/tv/live.php?auth=231110&id=gushi
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="购物",优购物
+http://cntv.lat/tv/live.php?auth=231110&id=yougouwu
+#EXTINF:-1 tvg-id="风尚购物" tvg-name="风尚购物" tvg-logo="https://live.fanmingming.com/tv/风尚购物.png" group-title="购物",风尚购物
+http://cntv.lat/tv/live.php?auth=231110&id=fsgw
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="购物",聚鲨环球精选
+http://cntv.lat/tv/live.php?auth=231110&id=jusha
+#EXTINF:-1 tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://live.fanmingming.com/tv/中视购物.png" group-title="购物",中视购物
+http://cntv.lat/tv/live.php?auth=231110&id=ysgw
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="购物",家有购物
+http://cntv.lat/tv/live.php?auth=231110&id=jygw
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物",央广购物
+http://cntv.lat/tv/live.php?auth=231110&id=yggw
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="地方",浙江公共新闻
+http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="地方",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="地方",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="地方",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江数码时代" tvg-name="浙江数码时代" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="地方",浙江数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="地方",浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="地方",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="地方",浙江钱江频道
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="地方",内蒙古新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="地方",内蒙古经济生活
+https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿.png" group-title="地方",内蒙古少儿频道
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/内蒙古文体娱乐.png" group-title="地方",内蒙古文体娱乐
+https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+#EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧.png" group-title="地方",内蒙古农牧频道
+https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+#EXTINF:-1 tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语卫视.png" group-title="地方",内蒙古蒙语卫视
+https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+#EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语文化.png" group-title="地方",内蒙古蒙语文化
+https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+#EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="地方",重庆新闻
+http://cntv.lat/tv/live.php?auth=231110&id=CQTVNewsHD
+#EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="地方",重庆影视
+http://cntv.lat/tv/live.php?auth=231110&id=cqyingshiHD
+#EXTINF:-1 tvg-id="重庆社会与法" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="地方",重庆社会与法
+http://cntv.lat/tv/live.php?auth=231110&id=CQTVTrendyHD
+#EXTINF:-1 tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="地方",重庆时尚生活
+http://cntv.lat/tv/live.php?auth=231110&id=cqssgwHD
+#EXTINF:-1 tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆文体娱乐.png" group-title="地方",重庆文体娱乐
+http://cntv.lat/tv/live.php?auth=231110&id=cqwtylHD
+#EXTINF:-1 tvg-id="重庆新农村" tvg-name="重庆新农村" tvg-logo="https://live.fanmingming.com/tv/重庆新农村.png" group-title="地方",重庆新农村
+http://cntv.lat/tv/live.php?auth=231110&id=cqggncHD
+#EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="地方",重庆少儿
+http://cntv.lat/tv/live.php?auth=231110&id=cqseHD
+#EXTINF:-1 tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="地方",重庆科教
+http://cntv.lat/tv/live.php?auth=231110&id=CQTVkejiaoHD
+#EXTINF:-1 tvg-id="爱看导视" tvg-name="爱看导视" tvg-logo="https://live.fanmingming.com/tv/爱看导视.png" group-title="地方",爱看导视
+http://cntv.lat/tv/live.php?auth=231110&id=aikanHD
+#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="地方",重庆汽摩
+http://cntv.lat/tv/live.php?auth=231110&id=cqcarSD
+#EXTINF:-1 tvg-id="重庆移动" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="地方",重庆移动
+http://cntv.lat/tv/live.php?auth=231110&id=mryyHD
+#EXTINF:-1 tvg-id="重广融媒" tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png" group-title="地方",重广融媒
+http://cntv.lat/tv/live.php?auth=231110&id=cqrongmei
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳",凤凰资讯
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
+https://pi.0472.org/tv/fct.php?auth=231110
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳",明珠台
+https://pi.0472.org/tv/mzt.php?auth=231110
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳",澳视澳门
+https://pi.0472.org/tv/asam.php?auth=231110
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳",星空卫视
+https://pi.0472.org/tv/startv.php?auth=231110
+#EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="港澳",澳亚卫视
+https://pi.0472.org/tv/aoya.php?auth=231110
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳",莲花卫视
+https://cntv.lat/tv/lhws.php
+#EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="港澳",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 
 ##################################################    Taiwan Hong Kong  #################################################################
@@ -2939,233 +3176,233 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 
 #EXTINF:-1 group-title="☁️星視界一日遊",大爱二台
-http://103.45.68.47/gy/gy937/xsj.php?id=daai2
+http://103.45.68.47/gy/gy689/xsj.php?id=daai2
 #EXTINF:-1 group-title="☁️星視界一日遊",大爱一台
-http://103.45.68.47/gy/gy937/xsj.php?id=daai1
+http://103.45.68.47/gy/gy689/xsj.php?id=daai1
 #EXTINF:-1 group-title="☁️星視界一日遊",中视 HD
-http://103.45.68.47/gy/gy937/xsj.php?id=ctv-hd
+http://103.45.68.47/gy/gy689/xsj.php?id=ctv-hd
 #EXTINF:-1 group-title="☁️星視界一日遊",公视
-http://103.45.68.47/gy/gy937/xsj.php?id=pts
+http://103.45.68.47/gy/gy689/xsj.php?id=pts
 #EXTINF:-1 group-title="☁️星視界一日遊",公视3台
-http://103.45.68.47/gy/gy937/xsj.php?id=pts3
+http://103.45.68.47/gy/gy689/xsj.php?id=pts3
 #EXTINF:-1 group-title="☁️星視界一日遊",中天综合台
-http://103.45.68.47/gy/gy937/xsj.php?id=ctitv36
+http://103.45.68.47/gy/gy689/xsj.php?id=ctitv36
 #EXTINF:-1 group-title="☁️星視界一日遊",中天亚洲台
-http://103.45.68.47/gy/gy937/xsj.php?id=cti-asia
+http://103.45.68.47/gy/gy689/xsj.php?id=cti-asia
 #EXTINF:-1 group-title="☁️星視界一日遊",东森超视 HD
-http://103.45.68.47/gy/gy937/xsj.php?id=ebc-supertv
+http://103.45.68.47/gy/gy689/xsj.php?id=ebc-supertv
 #EXTINF:-1 group-title="☁️星視界一日遊",靖天国际台
-http://103.45.68.47/gy/gy937/xsj.php?id=jtgj
+http://103.45.68.47/gy/gy689/xsj.php?id=jtgj
 #EXTINF:-1 group-title="☁️星視界一日遊",TVBS Asia
-http://103.45.68.47/gy/gy937/xsj.php?id=tvbs-asia
+http://103.45.68.47/gy/gy689/xsj.php?id=tvbs-asia
 #EXTINF:-1 group-title="☁️星視界一日遊",八大综合台
-http://103.45.68.47/gy/gy937/xsj.php?id=gtv28
+http://103.45.68.47/gy/gy689/xsj.php?id=gtv28
 #EXTINF:-1 group-title="☁️星視界一日遊",客家电视台
-http://103.45.68.47/gy/gy937/xsj.php?id=hakkatv
+http://103.45.68.47/gy/gy689/xsj.php?id=hakkatv
 #EXTINF:-1 group-title="☁️星視界一日遊",东森综合台
-http://103.45.68.47/gy/gy937/xsj.php?id=ebc-ettv
+http://103.45.68.47/gy/gy689/xsj.php?id=ebc-ettv
 #EXTINF:-1 group-title="☁️星視界一日遊",中视
-http://103.45.68.47/gy/gy937/xsj.php?id=ctv
+http://103.45.68.47/gy/gy689/xsj.php?id=ctv
 #EXTINF:-1 group-title="☁️星視界一日遊",华视
-http://103.45.68.47/gy/gy937/xsj.php?id=cts
+http://103.45.68.47/gy/gy689/xsj.php?id=cts
 #EXTINF:-1 group-title="☁️星視界一日遊",台视
-http://103.45.68.47/gy/gy937/xsj.php?id=ttv
+http://103.45.68.47/gy/gy689/xsj.php?id=ttv
 #EXTINF:-1 group-title="☁️星視界一日遊",纬来日本
-http://103.45.68.47/gy/gy937/xsj.php?id=videoland-japan
+http://103.45.68.47/gy/gy689/xsj.php?id=videoland-japan
 #EXTINF:-1 group-title="☁️星視界一日遊",纬来综合台
-http://103.45.68.47/gy/gy937/xsj.php?id=videoland
+http://103.45.68.47/gy/gy689/xsj.php?id=videoland
 #EXTINF:-1 group-title="☁️星視界一日遊",八大第一台
-http://103.45.68.47/gy/gy937/xsj.php?id=gtv27
+http://103.45.68.47/gy/gy689/xsj.php?id=gtv27
 #EXTINF:-1 group-title="☁️星視界一日遊",ELTA 综合
-http://103.45.68.47/gy/gy937/xsj.php?id=elta-tv
+http://103.45.68.47/gy/gy689/xsj.php?id=elta-tv
 #EXTINF:-1 group-title="☁️星視界一日遊",TVBS 新闻台
-http://103.45.68.47/gy/gy937/xsj.php?id=tvbs-news
+http://103.45.68.47/gy/gy689/xsj.php?id=tvbs-news
 #EXTINF:-1 group-title="☁️星視界一日遊",寰宇新闻台
-http://103.45.68.47/gy/gy937/xsj.php?id=global-news
+http://103.45.68.47/gy/gy689/xsj.php?id=global-news
 #EXTINF:-1 group-title="☁️星視界一日遊",华视新闻
-http://103.45.68.47/gy/gy937/xsj.php?id=cts-news
+http://103.45.68.47/gy/gy689/xsj.php?id=cts-news
 #EXTINF:-1 group-title="☁️星視界一日遊",中天新闻
-http://103.45.68.47/gy/gy937/xsj.php?id=cti-news
+http://103.45.68.47/gy/gy689/xsj.php?id=cti-news
 #EXTINF:-1 group-title="☁️星視界一日遊",镜新闻
-http://103.45.68.47/gy/gy937/xsj.php?id=mnews
+http://103.45.68.47/gy/gy689/xsj.php?id=mnews
 #EXTINF:-1 group-title="☁️星視界一日遊",壹新闻 HD
-http://103.45.68.47/gy/gy937/xsj.php?id=nexttv
+http://103.45.68.47/gy/gy689/xsj.php?id=nexttv
 #EXTINF:-1 group-title="☁️星視界一日遊",靖天资讯台
-http://103.45.68.47/gy/gy937/xsj.php?id=jtzx
+http://103.45.68.47/gy/gy689/xsj.php?id=jtzx
 #EXTINF:-1 group-title="☁️星視界一日遊",中视新闻
-http://103.45.68.47/gy/gy937/xsj.php?id=ctv-news
+http://103.45.68.47/gy/gy689/xsj.php?id=ctv-news
 #EXTINF:-1 group-title="☁️星視界一日遊",台视新闻
-http://103.45.68.47/gy/gy937/xsj.php?id=ttv-news
+http://103.45.68.47/gy/gy689/xsj.php?id=ttv-news
 #EXTINF:-1 group-title="☁️星視界一日遊",TVBS HD
-http://103.45.68.47/gy/gy937/xsj.php?id=tvbs-hd
+http://103.45.68.47/gy/gy689/xsj.php?id=tvbs-hd
 #EXTINF:-1 group-title="☁️星視界一日遊",东森财经新闻
-http://103.45.68.47/gy/gy937/xsj.php?id=ebc-finance
+http://103.45.68.47/gy/gy689/xsj.php?id=ebc-finance
 #EXTINF:-1 group-title="☁️星視界一日遊",年代新闻
-http://103.45.68.47/gy/gy937/xsj.php?id=era-news
+http://103.45.68.47/gy/gy689/xsj.php?id=era-news
 #EXTINF:-1 group-title="☁️星視界一日遊",非凡新闻
-http://103.45.68.47/gy/gy937/xsj.php?id=ustv-news
+http://103.45.68.47/gy/gy689/xsj.php?id=ustv-news
 #EXTINF:-1 group-title="☁️星視界一日遊",东森新闻
-http://103.45.68.47/gy/gy937/xsj.php?id=ebc-news
+http://103.45.68.47/gy/gy689/xsj.php?id=ebc-news
 #EXTINF:-1 group-title="☁️星視界一日遊",TVBS 欢乐台
-http://103.45.68.47/gy/gy937/xsj.php?id=tvbs-huanle
+http://103.45.68.47/gy/gy689/xsj.php?id=tvbs-huanle
 #EXTINF:-1 group-title="☁️星視界一日遊",中天娱乐台
-http://103.45.68.47/gy/gy937/xsj.php?id=ctitv39
+http://103.45.68.47/gy/gy689/xsj.php?id=ctitv39
 #EXTINF:-1 group-title="☁️星視界一日遊",八大娱乐台
-http://103.45.68.47/gy/gy937/xsj.php?id=gtv86
+http://103.45.68.47/gy/gy689/xsj.php?id=gtv86
 #EXTINF:-1 group-title="☁️星視界一日遊",HBO
-http://103.45.68.47/gy/gy937/xsj.php?id=hbo-hd
+http://103.45.68.47/gy/gy689/xsj.php?id=hbo-hd
 #EXTINF:-1 group-title="☁️星視界一日遊",东森电影
-http://103.45.68.47/gy/gy937/xsj.php?id=ebc-movie
+http://103.45.68.47/gy/gy689/xsj.php?id=ebc-movie
 #EXTINF:-1 group-title="☁️星視界一日遊",东森戏剧
-http://103.45.68.47/gy/gy937/xsj.php?id=ebc-drama
+http://103.45.68.47/gy/gy689/xsj.php?id=ebc-drama
 #EXTINF:-1 group-title="☁️星視界一日遊",东森洋片
-http://103.45.68.47/gy/gy937/xsj.php?id=ebc-emovie
+http://103.45.68.47/gy/gy689/xsj.php?id=ebc-emovie
 #EXTINF:-1 group-title="☁️星視界一日遊",卫视中文台
-http://103.45.68.47/gy/gy937/xsj.php?id=star-chinese-channel
+http://103.45.68.47/gy/gy689/xsj.php?id=star-chinese-channel
 #EXTINF:-1 group-title="☁️星視界一日遊",卫视电影台
-http://103.45.68.47/gy/gy937/xsj.php?id=star-chinese-movies
+http://103.45.68.47/gy/gy689/xsj.php?id=star-chinese-movies
 #EXTINF:-1 group-title="☁️星視界一日遊",龙祥电影台
-http://103.45.68.47/gy/gy937/xsj.php?id=lstime
+http://103.45.68.47/gy/gy689/xsj.php?id=lstime
 #EXTINF:-1 group-title="☁️星視界一日遊",好莱坞电影台
-http://103.45.68.47/gy/gy937/xsj.php?id=hollywood-tw
+http://103.45.68.47/gy/gy689/xsj.php?id=hollywood-tw
 #EXTINF:-1 group-title="☁️星視界一日遊",八大戏剧台
-http://103.45.68.47/gy/gy937/xsj.php?id=gtv41
+http://103.45.68.47/gy/gy689/xsj.php?id=gtv41
 #EXTINF:-1 group-title="☁️星視界一日遊",纬来戏剧台
-http://103.45.68.47/gy/gy937/xsj.php?id=videoland-drama
+http://103.45.68.47/gy/gy689/xsj.php?id=videoland-drama
 #EXTINF:-1 group-title="☁️星視界一日遊",纬来电影台
-http://103.45.68.47/gy/gy937/xsj.php?id=videoland-movie
+http://103.45.68.47/gy/gy689/xsj.php?id=videoland-movie
 #EXTINF:-1 group-title="☁️星視界一日遊",龙华电影台
-http://103.45.68.47/gy/gy937/xsj.php?id=ltv-movies
+http://103.45.68.47/gy/gy689/xsj.php?id=ltv-movies
 #EXTINF:-1 group-title="☁️星視界一日遊",龙华洋片台
-http://103.45.68.47/gy/gy937/xsj.php?id=ltv-yangpian
+http://103.45.68.47/gy/gy689/xsj.php?id=ltv-yangpian
 #EXTINF:-1 group-title="☁️星視界一日遊",靖天电影台
-http://103.45.68.47/gy/gy937/xsj.php?id=jtdy
+http://103.45.68.47/gy/gy689/xsj.php?id=jtdy
 #EXTINF:-1 group-title="☁️星視界一日遊",美亚电影台
-http://103.45.68.47/gy/gy937/xsj.php?id=meiah-movies
+http://103.45.68.47/gy/gy689/xsj.php?id=meiah-movies
 #EXTINF:-1 group-title="☁️星視界一日遊",ELTA 影剧
-http://103.45.68.47/gy/gy937/xsj.php?id=elta-drama
+http://103.45.68.47/gy/gy689/xsj.php?id=elta-drama
 #EXTINF:-1 group-title="☁️星視界一日遊",EYE 戏剧台
-http://103.45.68.47/gy/gy937/xsj.php?id=eye-drama
+http://103.45.68.47/gy/gy689/xsj.php?id=eye-drama
 #EXTINF:-1 group-title="☁️星視界一日遊",星卫HD电影台
-http://103.45.68.47/gy/gy937/xsj.php?id=star-movies
+http://103.45.68.47/gy/gy689/xsj.php?id=star-movies
 #EXTINF:-1 group-title="☁️星視界一日遊",星卫娱乐台
-http://103.45.68.47/gy/gy937/xsj.php?id=star-entetainment
+http://103.45.68.47/gy/gy689/xsj.php?id=star-entetainment
 #EXTINF:-1 group-title="☁️星視界一日遊",MTV Live HD 频道
-http://103.45.68.47/gy/gy937/xsj.php?id=mtv
+http://103.45.68.47/gy/gy689/xsj.php?id=mtv
 #EXTINF:-1 group-title="☁️星視界一日遊",国兴卫视
-http://103.45.68.47/gy/gy937/xsj.php?id=gold-sun-tv
+http://103.45.68.47/gy/gy689/xsj.php?id=gold-sun-tv
 #EXTINF:-1 group-title="☁️星視界一日遊",纬来体育
-http://103.45.68.47/gy/gy937/xsj.php?id=videoland-sport
+http://103.45.68.47/gy/gy689/xsj.php?id=videoland-sport
 #EXTINF:-1 group-title="☁️星視界一日遊",ELEVEN体育-1
-http://103.45.68.47/gy/gy937/xsj.php?id=eleven-sport1
+http://103.45.68.47/gy/gy689/xsj.php?id=eleven-sport1
 #EXTINF:-1 group-title="☁️星視界一日遊",ELEVEN体育-2
-http://103.45.68.47/gy/gy937/xsj.php?id=eleven-sport2
+http://103.45.68.47/gy/gy689/xsj.php?id=eleven-sport2
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯运动-1
-http://103.45.68.47/gy/gy937/xsj.php?id=sportcast1
+http://103.45.68.47/gy/gy689/xsj.php?id=sportcast1
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯运动-2
-http://103.45.68.47/gy/gy937/xsj.php?id=sportcast2
+http://103.45.68.47/gy/gy689/xsj.php?id=sportcast2
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯高球-1
-http://103.45.68.47/gy/gy937/xsj.php?id=sportcast-golf1
+http://103.45.68.47/gy/gy689/xsj.php?id=sportcast-golf1
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯高球-2
-http://103.45.68.47/gy/gy937/xsj.php?id=sportcast-golf2
+http://103.45.68.47/gy/gy689/xsj.php?id=sportcast-golf2
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯网球
-http://103.45.68.47/gy/gy937/xsj.php?id=sportcast-tennis
+http://103.45.68.47/gy/gy689/xsj.php?id=sportcast-tennis
 #EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 1 HD
-http://103.45.68.47/gy/gy937/xsj.php?id=super-sports1
+http://103.45.68.47/gy/gy689/xsj.php?id=super-sports1
 #EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 2 HD
-http://103.45.68.47/gy/gy937/xsj.php?id=super-sports2
+http://103.45.68.47/gy/gy689/xsj.php?id=super-sports2
 #EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 3 HD
-http://103.45.68.47/gy/gy937/xsj.php?id=super-sports3
+http://103.45.68.47/gy/gy689/xsj.php?id=super-sports3
 #EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 4 HD
-http://103.45.68.47/gy/gy937/xsj.php?id=super-sports4
+http://103.45.68.47/gy/gy689/xsj.php?id=super-sports4
 #EXTINF:-1 group-title="☁️星視界一日遊",Eurosports-2
-http://103.45.68.47/gy/gy937/xsj.php?id=super-sports5
+http://103.45.68.47/gy/gy689/xsj.php?id=super-sports5
 #EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports MAX
-http://103.45.68.47/gy/gy937/xsj.php?id=bein-max
+http://103.45.68.47/gy/gy689/xsj.php?id=bein-max
 #EXTINF:-1 group-title="☁️星視界一日遊",SPOTV-2
-http://103.45.68.47/gy/gy937/xsj.php?id=spotv2
+http://103.45.68.47/gy/gy689/xsj.php?id=spotv2
 #EXTINF:-1 group-title="☁️星視界一日遊",SPOTV
-http://103.45.68.47/gy/gy937/xsj.php?id=spotv
+http://103.45.68.47/gy/gy689/xsj.php?id=spotv
 #EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports 2
-http://103.45.68.47/gy/gy937/xsj.php?id=bein-sports2
+http://103.45.68.47/gy/gy689/xsj.php?id=bein-sports2
 #EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports 1
-http://103.45.68.47/gy/gy937/xsj.php?id=bein-sports1
+http://103.45.68.47/gy/gy689/xsj.php?id=bein-sports1
 #EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports 3
-http://103.45.68.47/gy/gy937/xsj.php?id=bein-sports3
+http://103.45.68.47/gy/gy689/xsj.php?id=bein-sports3
 #EXTINF:-1 group-title="☁️星視界一日遊",Eurosport HD
-http://103.45.68.47/gy/gy937/xsj.php?id=eurosport-hd
+http://103.45.68.47/gy/gy689/xsj.php?id=eurosport-hd
 #EXTINF:-1 group-title="☁️星視界一日遊",Eurosports-1
-http://103.45.68.47/gy/gy937/xsj.php?id=eurosports-1
+http://103.45.68.47/gy/gy689/xsj.php?id=eurosports-1
 #EXTINF:-1 group-title="☁️星視界一日遊",博斯无限
-http://103.45.68.47/gy/gy937/xsj.php?id=sportcast-wx
+http://103.45.68.47/gy/gy689/xsj.php?id=sportcast-wx
 #EXTINF:-1 group-title="☁️星視界一日遊",ELTA体育-1
-http://103.45.68.47/gy/gy937/xsj.php?id=elta-sport1
+http://103.45.68.47/gy/gy689/xsj.php?id=elta-sport1
 #EXTINF:-1 group-title="☁️星視界一日遊",ELTA体育-2
-http://103.45.68.47/gy/gy937/xsj.php?id=elta-sport2
+http://103.45.68.47/gy/gy689/xsj.php?id=elta-sport2
 #EXTINF:-1 group-title="☁️星視界一日遊",ELTA体育-3
-http://103.45.68.47/gy/gy937/xsj.php?id=elta-sport3
+http://103.45.68.47/gy/gy689/xsj.php?id=elta-sport3
 #EXTINF:-1 group-title="☁️星視界一日遊",靖天卡通台
-http://103.45.68.47/gy/gy937/xsj.php?id=jtkt
+http://103.45.68.47/gy/gy689/xsj.php?id=jtkt
 #EXTINF:-1 group-title="☁️星視界一日遊",Astro 小太阳
-http://103.45.68.47/gy/gy937/xsj.php?id=astro-xty
+http://103.45.68.47/gy/gy689/xsj.php?id=astro-xty
 #EXTINF:-1 group-title="☁️星視界一日遊",东森幼幼台
-http://103.45.68.47/gy/gy937/xsj.php?id=ebc-yoyo
+http://103.45.68.47/gy/gy689/xsj.php?id=ebc-yoyo
 #EXTINF:-1 group-title="☁️星視界一日遊",MOMOTV
-http://103.45.68.47/gy/gy937/xsj.php?id=momotv
+http://103.45.68.47/gy/gy689/xsj.php?id=momotv
 #EXTINF:-1 group-title="☁️星視界一日遊",小尼克频道
-http://103.45.68.47/gy/gy937/xsj.php?id=nick-jr
+http://103.45.68.47/gy/gy689/xsj.php?id=nick-jr
 #EXTINF:-1 group-title="☁️星視界一日遊",MOMO亲子台
-http://103.45.68.47/gy/gy937/xsj.php?id=momo-kids
+http://103.45.68.47/gy/gy689/xsj.php?id=momo-kids
 #EXTINF:-1 group-title="☁️星視界一日遊",CN卡通
-http://103.45.68.47/gy/gy937/xsj.php?id=cn-cartoon
+http://103.45.68.47/gy/gy689/xsj.php?id=cn-cartoon
 #EXTINF:-1 group-title="☁️星視界一日遊",Boomerang HD
-http://103.45.68.47/gy/gy937/xsj.php?id=boomerang-hd
+http://103.45.68.47/gy/gy689/xsj.php?id=boomerang-hd
 #EXTINF:-1 group-title="☁️星視界一日遊",Animax卡通
-http://103.45.68.47/gy/gy937/xsj.php?id=animax-cartoon
+http://103.45.68.47/gy/gy689/xsj.php?id=animax-cartoon
 #EXTINF:-1 group-title="☁️星視界一日遊",尼克儿童频道
-http://103.45.68.47/gy/gy937/xsj.php?id=nickelodeon
+http://103.45.68.47/gy/gy689/xsj.php?id=nickelodeon
 #EXTINF:-1 group-title="☁️星視界一日遊",国家地理
-http://103.45.68.47/gy/gy937/xsj.php?id=natgeo
+http://103.45.68.47/gy/gy689/xsj.php?id=natgeo
 #EXTINF:-1 group-title="☁️星視界一日遊",国家地理 野生频道
-http://103.45.68.47/gy/gy937/xsj.php?id=natgeo-wild
+http://103.45.68.47/gy/gy689/xsj.php?id=natgeo-wild
 #EXTINF:-1 group-title="☁️星視界一日遊",动物星球频道
-http://103.45.68.47/gy/gy937/xsj.php?id=animal-planet
+http://103.45.68.47/gy/gy689/xsj.php?id=animal-planet
 #EXTINF:-1 group-title="☁️星視界一日遊",探索频道
-http://103.45.68.47/gy/gy937/xsj.php?id=discovery
+http://103.45.68.47/gy/gy689/xsj.php?id=discovery
 #EXTINF:-1 group-title="☁️星視界一日遊",DMAX
-http://103.45.68.47/gy/gy937/xsj.php?id=dmax
+http://103.45.68.47/gy/gy689/xsj.php?id=dmax
 #EXTINF:-1 group-title="☁️星視界一日遊",探索科学频道
-http://103.45.68.47/gy/gy937/xsj.php?id=discovery-sci
+http://103.45.68.47/gy/gy689/xsj.php?id=discovery-sci
 #EXTINF:-1 group-title="☁️星視界一日遊",探索亚洲频道
-http://103.45.68.47/gy/gy937/xsj.php?id=discovery-asia
+http://103.45.68.47/gy/gy689/xsj.php?id=discovery-asia
 #EXTINF:-1 group-title="☁️星視界一日遊",History 频道
-http://103.45.68.47/gy/gy937/xsj.php?id=history
+http://103.45.68.47/gy/gy689/xsj.php?id=history
 #EXTINF:-1 group-title="☁️星視界一日遊",History-2 频道
-http://103.45.68.47/gy/gy937/xsj.php?id=history-2
+http://103.45.68.47/gy/gy689/xsj.php?id=history-2
 #EXTINF:-1 group-title="☁️星視界一日遊",TLC 旅游生活頻道
-http://103.45.68.47/gy/gy937/xsj.php?id=tlc
+http://103.45.68.47/gy/gy689/xsj.php?id=tlc
 #EXTINF:-1 group-title="☁️星視界一日遊",CI 罪案侦查频道
-http://103.45.68.47/gy/gy937/xsj.php?id=ci
+http://103.45.68.47/gy/gy689/xsj.php?id=ci
 #EXTINF:-1 group-title="☁️星視界一日遊",亚洲旅游台
-http://103.45.68.47/gy/gy937/xsj.php?id=asia-travel
+http://103.45.68.47/gy/gy689/xsj.php?id=asia-travel
 #EXTINF:-1 group-title="☁️星視界一日遊",美食星球频道
-http://103.45.68.47/gy/gy937/xsj.php?id=food-planet
+http://103.45.68.47/gy/gy689/xsj.php?id=food-planet
 #EXTINF:-1 group-title="☁️星視界一日遊",EYE 旅游台
-http://103.45.68.47/gy/gy937/xsj.php?id=eye-travel
+http://103.45.68.47/gy/gy689/xsj.php?id=eye-travel
 #EXTINF:-1 group-title="☁️星視界一日遊",TVB 经典台
-http://103.45.68.47/gy/gy937/xsj.php?id=tvb-classic
+http://103.45.68.47/gy/gy689/xsj.php?id=tvb-classic
 #EXTINF:-1 group-title="☁️星視界一日遊",天映经典
-http://103.45.68.47/gy/gy937/xsj.php?id=cccm
+http://103.45.68.47/gy/gy689/xsj.php?id=cccm
 #EXTINF:-1 group-title="☁️星視界一日遊",天映频道 HD
-http://103.45.68.47/gy/gy937/xsj.php?id=celestial
+http://103.45.68.47/gy/gy689/xsj.php?id=celestial
 #EXTINF:-1 group-title="☁️星視界一日遊",Now 华剧台
-http://103.45.68.47/gy/gy937/xsj.php?id=now-hairun
+http://103.45.68.47/gy/gy689/xsj.php?id=now-hairun
 #EXTINF:-1 group-title="☁️星視界一日遊",TVB 华语剧台
-http://103.45.68.47/gy/gy937/xsj.php?id=tvb-drama
+http://103.45.68.47/gy/gy689/xsj.php?id=tvb-drama
 #EXTINF:-1 group-title="☁️星視界一日遊",TVB 星河台
-http://103.45.68.47/gy/gy937/xsj.php?id=tvb-xinghe
+http://103.45.68.47/gy/gy689/xsj.php?id=tvb-xinghe
 #EXTINF:-1 group-title="☁️星視界一日遊",Now 爆谷台
-http://103.45.68.47/gy/gy937/xsj.php?id=baogu-movies
+http://103.45.68.47/gy/gy689/xsj.php?id=baogu-movies
 
 
 ########################   MIX   ################################################################
