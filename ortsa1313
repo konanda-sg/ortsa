@@ -714,21 +714,56 @@ http://asia.vthanhtivi.pw/NHK_G/index.m3u8
 #EXTINF:-1 group-title="Japanese" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
 http://asia.vthanhtivi.pw/NHK_E/index.m3u8
 #EXTINF:-1 group-title="Japanese" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV
-http://asia.vthanhtivi.pw/NTV/index.m3u8
-#EXTINF:-1 group-title="Japanese" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Japanese_Broadcasting_System_logo_2020.svg/2560px-Japanese_Broadcasting_System_logo_2020.svg.png", TBS 
+http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="Japanese" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
 http://asia.vthanhtivi.pw/TBS/index.m3u8
 #EXTINF:-1 group-title="Japanese" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV
 http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="Japanese" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
 http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="Japanese" tvg-id="tvJapanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Japanese_logo_20110629.svg/2560px-TV_Japanese_logo_20110629.svg.png", TV Japanese 
-http://asia.vthanhtivi.pw/TV_Japanese/index.m3u8
-#EXTINF:-1 group-title="Japanese" tvg-id="Japanesemx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Japanese_metropolitan_television_logo_%28rainbow%29.svg/2560px-Japanese_metropolitan_television_logo_%28rainbow%29.svg.png", Japanese MX1
-http://asia.vthanhtivi.pw/Japanese_MX1/index.m3u8
-#EXTINF:-1 group-title="Japanese" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-http://asia.vthanhtivi.pw/BS11/index.m3u8
-#EXTINF:-1 group-title="Japanese" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
-http://asia.vthanhtivi.pw/AT-X/index.m3u8
+#EXTINF:-1 group-title="Japanese" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
+http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Japanese" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
+http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
+#BS
+#EXTINF:-1 group-title="Japanese" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="nhkbsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BS Premium  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="bsntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS NTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="bsasahi" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png", BS Asahi  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="bstbs" tvg-logo="https://bs.tbs.co.jp/resources/images/logo1.svg", BS TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="bstvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/BS_TV_Tokyo_logo.png", BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="bsfuji" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="wowowprime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png", WOWOW Prime 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="wowowlive" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png", WOWOW Live  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="wowowcinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png", WOWOW Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="starch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="starch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="starch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", Star Channel 3  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", BS Animax  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="js1" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="js2" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png", J SPORTS 2  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="js3" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png", J SPORTS 3 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="js4" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japanese" tvg-id="nihoneiga" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/3/nihon-eiga_logo.jpg", BS Japan Movie Channel  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
 
 
 ###################  Moives  ###############################
@@ -2992,7 +3027,7 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 *****************EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,https://epg.hklive.tv"
 #EXTINF:-1,tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://upload.112114.xyz/logo/NATIONALGEOGRAPHIC.png" group-title="台灣",國家地理
-http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 #EXTINF:-1,tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://upload.112114.xyz/logo/NATGEOWILD.png" group-title="台灣",國家地理野生
 http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8
 #EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://upload.112114.xyz/logo/Discovery.png" group-title="台灣",探索頻道
@@ -3139,6 +3174,8 @@ http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335
 http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 #EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/elta2.png" group-title="台灣",愛爾達體育2
 http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+#EXTINF:-1,tvg-id="爱尔达体育4" tvg-name="爱尔达体育4" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/elta2.png" group-title="台灣",愛爾達體育4
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 #EXTINF:-1,tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://epg.112114.xyz/logo/愛爾達影劇.png" group-title="台灣",愛爾達影劇
 http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 
@@ -3175,234 +3212,162 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 
 
-#EXTINF:-1 group-title="☁️星視界一日遊",大爱二台
-http://103.45.68.47/gy/gy689/xsj.php?id=daai2
-#EXTINF:-1 group-title="☁️星視界一日遊",大爱一台
-http://103.45.68.47/gy/gy689/xsj.php?id=daai1
-#EXTINF:-1 group-title="☁️星視界一日遊",中视 HD
-http://103.45.68.47/gy/gy689/xsj.php?id=ctv-hd
-#EXTINF:-1 group-title="☁️星視界一日遊",公视
-http://103.45.68.47/gy/gy689/xsj.php?id=pts
-#EXTINF:-1 group-title="☁️星視界一日遊",公视3台
-http://103.45.68.47/gy/gy689/xsj.php?id=pts3
-#EXTINF:-1 group-title="☁️星視界一日遊",中天综合台
-http://103.45.68.47/gy/gy689/xsj.php?id=ctitv36
-#EXTINF:-1 group-title="☁️星視界一日遊",中天亚洲台
-http://103.45.68.47/gy/gy689/xsj.php?id=cti-asia
-#EXTINF:-1 group-title="☁️星視界一日遊",东森超视 HD
-http://103.45.68.47/gy/gy689/xsj.php?id=ebc-supertv
-#EXTINF:-1 group-title="☁️星視界一日遊",靖天国际台
-http://103.45.68.47/gy/gy689/xsj.php?id=jtgj
-#EXTINF:-1 group-title="☁️星視界一日遊",TVBS Asia
-http://103.45.68.47/gy/gy689/xsj.php?id=tvbs-asia
-#EXTINF:-1 group-title="☁️星視界一日遊",八大综合台
-http://103.45.68.47/gy/gy689/xsj.php?id=gtv28
-#EXTINF:-1 group-title="☁️星視界一日遊",客家电视台
-http://103.45.68.47/gy/gy689/xsj.php?id=hakkatv
-#EXTINF:-1 group-title="☁️星視界一日遊",东森综合台
-http://103.45.68.47/gy/gy689/xsj.php?id=ebc-ettv
-#EXTINF:-1 group-title="☁️星視界一日遊",中视
-http://103.45.68.47/gy/gy689/xsj.php?id=ctv
-#EXTINF:-1 group-title="☁️星視界一日遊",华视
-http://103.45.68.47/gy/gy689/xsj.php?id=cts
-#EXTINF:-1 group-title="☁️星視界一日遊",台视
-http://103.45.68.47/gy/gy689/xsj.php?id=ttv
-#EXTINF:-1 group-title="☁️星視界一日遊",纬来日本
-http://103.45.68.47/gy/gy689/xsj.php?id=videoland-japan
-#EXTINF:-1 group-title="☁️星視界一日遊",纬来综合台
-http://103.45.68.47/gy/gy689/xsj.php?id=videoland
-#EXTINF:-1 group-title="☁️星視界一日遊",八大第一台
-http://103.45.68.47/gy/gy689/xsj.php?id=gtv27
-#EXTINF:-1 group-title="☁️星視界一日遊",ELTA 综合
-http://103.45.68.47/gy/gy689/xsj.php?id=elta-tv
-#EXTINF:-1 group-title="☁️星視界一日遊",TVBS 新闻台
-http://103.45.68.47/gy/gy689/xsj.php?id=tvbs-news
-#EXTINF:-1 group-title="☁️星視界一日遊",寰宇新闻台
-http://103.45.68.47/gy/gy689/xsj.php?id=global-news
-#EXTINF:-1 group-title="☁️星視界一日遊",华视新闻
-http://103.45.68.47/gy/gy689/xsj.php?id=cts-news
-#EXTINF:-1 group-title="☁️星視界一日遊",中天新闻
-http://103.45.68.47/gy/gy689/xsj.php?id=cti-news
-#EXTINF:-1 group-title="☁️星視界一日遊",镜新闻
-http://103.45.68.47/gy/gy689/xsj.php?id=mnews
-#EXTINF:-1 group-title="☁️星視界一日遊",壹新闻 HD
-http://103.45.68.47/gy/gy689/xsj.php?id=nexttv
-#EXTINF:-1 group-title="☁️星視界一日遊",靖天资讯台
-http://103.45.68.47/gy/gy689/xsj.php?id=jtzx
-#EXTINF:-1 group-title="☁️星視界一日遊",中视新闻
-http://103.45.68.47/gy/gy689/xsj.php?id=ctv-news
-#EXTINF:-1 group-title="☁️星視界一日遊",台视新闻
-http://103.45.68.47/gy/gy689/xsj.php?id=ttv-news
-#EXTINF:-1 group-title="☁️星視界一日遊",TVBS HD
-http://103.45.68.47/gy/gy689/xsj.php?id=tvbs-hd
-#EXTINF:-1 group-title="☁️星視界一日遊",东森财经新闻
-http://103.45.68.47/gy/gy689/xsj.php?id=ebc-finance
-#EXTINF:-1 group-title="☁️星視界一日遊",年代新闻
-http://103.45.68.47/gy/gy689/xsj.php?id=era-news
-#EXTINF:-1 group-title="☁️星視界一日遊",非凡新闻
-http://103.45.68.47/gy/gy689/xsj.php?id=ustv-news
-#EXTINF:-1 group-title="☁️星視界一日遊",东森新闻
-http://103.45.68.47/gy/gy689/xsj.php?id=ebc-news
-#EXTINF:-1 group-title="☁️星視界一日遊",TVBS 欢乐台
-http://103.45.68.47/gy/gy689/xsj.php?id=tvbs-huanle
-#EXTINF:-1 group-title="☁️星視界一日遊",中天娱乐台
-http://103.45.68.47/gy/gy689/xsj.php?id=ctitv39
-#EXTINF:-1 group-title="☁️星視界一日遊",八大娱乐台
-http://103.45.68.47/gy/gy689/xsj.php?id=gtv86
-#EXTINF:-1 group-title="☁️星視界一日遊",HBO
-http://103.45.68.47/gy/gy689/xsj.php?id=hbo-hd
-#EXTINF:-1 group-title="☁️星視界一日遊",东森电影
-http://103.45.68.47/gy/gy689/xsj.php?id=ebc-movie
-#EXTINF:-1 group-title="☁️星視界一日遊",东森戏剧
-http://103.45.68.47/gy/gy689/xsj.php?id=ebc-drama
-#EXTINF:-1 group-title="☁️星視界一日遊",东森洋片
-http://103.45.68.47/gy/gy689/xsj.php?id=ebc-emovie
-#EXTINF:-1 group-title="☁️星視界一日遊",卫视中文台
-http://103.45.68.47/gy/gy689/xsj.php?id=star-chinese-channel
-#EXTINF:-1 group-title="☁️星視界一日遊",卫视电影台
-http://103.45.68.47/gy/gy689/xsj.php?id=star-chinese-movies
-#EXTINF:-1 group-title="☁️星視界一日遊",龙祥电影台
-http://103.45.68.47/gy/gy689/xsj.php?id=lstime
-#EXTINF:-1 group-title="☁️星視界一日遊",好莱坞电影台
-http://103.45.68.47/gy/gy689/xsj.php?id=hollywood-tw
-#EXTINF:-1 group-title="☁️星視界一日遊",八大戏剧台
-http://103.45.68.47/gy/gy689/xsj.php?id=gtv41
-#EXTINF:-1 group-title="☁️星視界一日遊",纬来戏剧台
-http://103.45.68.47/gy/gy689/xsj.php?id=videoland-drama
-#EXTINF:-1 group-title="☁️星視界一日遊",纬来电影台
-http://103.45.68.47/gy/gy689/xsj.php?id=videoland-movie
-#EXTINF:-1 group-title="☁️星視界一日遊",龙华电影台
-http://103.45.68.47/gy/gy689/xsj.php?id=ltv-movies
-#EXTINF:-1 group-title="☁️星視界一日遊",龙华洋片台
-http://103.45.68.47/gy/gy689/xsj.php?id=ltv-yangpian
-#EXTINF:-1 group-title="☁️星視界一日遊",靖天电影台
-http://103.45.68.47/gy/gy689/xsj.php?id=jtdy
-#EXTINF:-1 group-title="☁️星視界一日遊",美亚电影台
-http://103.45.68.47/gy/gy689/xsj.php?id=meiah-movies
-#EXTINF:-1 group-title="☁️星視界一日遊",ELTA 影剧
-http://103.45.68.47/gy/gy689/xsj.php?id=elta-drama
-#EXTINF:-1 group-title="☁️星視界一日遊",EYE 戏剧台
-http://103.45.68.47/gy/gy689/xsj.php?id=eye-drama
-#EXTINF:-1 group-title="☁️星視界一日遊",星卫HD电影台
-http://103.45.68.47/gy/gy689/xsj.php?id=star-movies
-#EXTINF:-1 group-title="☁️星視界一日遊",星卫娱乐台
-http://103.45.68.47/gy/gy689/xsj.php?id=star-entetainment
-#EXTINF:-1 group-title="☁️星視界一日遊",MTV Live HD 频道
-http://103.45.68.47/gy/gy689/xsj.php?id=mtv
-#EXTINF:-1 group-title="☁️星視界一日遊",国兴卫视
-http://103.45.68.47/gy/gy689/xsj.php?id=gold-sun-tv
-#EXTINF:-1 group-title="☁️星視界一日遊",纬来体育
-http://103.45.68.47/gy/gy689/xsj.php?id=videoland-sport
-#EXTINF:-1 group-title="☁️星視界一日遊",ELEVEN体育-1
-http://103.45.68.47/gy/gy689/xsj.php?id=eleven-sport1
-#EXTINF:-1 group-title="☁️星視界一日遊",ELEVEN体育-2
-http://103.45.68.47/gy/gy689/xsj.php?id=eleven-sport2
-#EXTINF:-1 group-title="☁️星視界一日遊",博斯运动-1
-http://103.45.68.47/gy/gy689/xsj.php?id=sportcast1
-#EXTINF:-1 group-title="☁️星視界一日遊",博斯运动-2
-http://103.45.68.47/gy/gy689/xsj.php?id=sportcast2
-#EXTINF:-1 group-title="☁️星視界一日遊",博斯高球-1
-http://103.45.68.47/gy/gy689/xsj.php?id=sportcast-golf1
-#EXTINF:-1 group-title="☁️星視界一日遊",博斯高球-2
-http://103.45.68.47/gy/gy689/xsj.php?id=sportcast-golf2
-#EXTINF:-1 group-title="☁️星視界一日遊",博斯网球
-http://103.45.68.47/gy/gy689/xsj.php?id=sportcast-tennis
-#EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 1 HD
-http://103.45.68.47/gy/gy689/xsj.php?id=super-sports1
-#EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 2 HD
-http://103.45.68.47/gy/gy689/xsj.php?id=super-sports2
-#EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 3 HD
-http://103.45.68.47/gy/gy689/xsj.php?id=super-sports3
-#EXTINF:-1 group-title="☁️星視界一日遊",Sony Sports 4 HD
-http://103.45.68.47/gy/gy689/xsj.php?id=super-sports4
-#EXTINF:-1 group-title="☁️星視界一日遊",Eurosports-2
-http://103.45.68.47/gy/gy689/xsj.php?id=super-sports5
-#EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports MAX
-http://103.45.68.47/gy/gy689/xsj.php?id=bein-max
-#EXTINF:-1 group-title="☁️星視界一日遊",SPOTV-2
-http://103.45.68.47/gy/gy689/xsj.php?id=spotv2
-#EXTINF:-1 group-title="☁️星視界一日遊",SPOTV
-http://103.45.68.47/gy/gy689/xsj.php?id=spotv
-#EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports 2
-http://103.45.68.47/gy/gy689/xsj.php?id=bein-sports2
-#EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports 1
-http://103.45.68.47/gy/gy689/xsj.php?id=bein-sports1
-#EXTINF:-1 group-title="☁️星視界一日遊",beIN Sports 3
-http://103.45.68.47/gy/gy689/xsj.php?id=bein-sports3
-#EXTINF:-1 group-title="☁️星視界一日遊",Eurosport HD
-http://103.45.68.47/gy/gy689/xsj.php?id=eurosport-hd
-#EXTINF:-1 group-title="☁️星視界一日遊",Eurosports-1
-http://103.45.68.47/gy/gy689/xsj.php?id=eurosports-1
-#EXTINF:-1 group-title="☁️星視界一日遊",博斯无限
-http://103.45.68.47/gy/gy689/xsj.php?id=sportcast-wx
-#EXTINF:-1 group-title="☁️星視界一日遊",ELTA体育-1
-http://103.45.68.47/gy/gy689/xsj.php?id=elta-sport1
-#EXTINF:-1 group-title="☁️星視界一日遊",ELTA体育-2
-http://103.45.68.47/gy/gy689/xsj.php?id=elta-sport2
-#EXTINF:-1 group-title="☁️星視界一日遊",ELTA体育-3
-http://103.45.68.47/gy/gy689/xsj.php?id=elta-sport3
-#EXTINF:-1 group-title="☁️星視界一日遊",靖天卡通台
-http://103.45.68.47/gy/gy689/xsj.php?id=jtkt
-#EXTINF:-1 group-title="☁️星視界一日遊",Astro 小太阳
-http://103.45.68.47/gy/gy689/xsj.php?id=astro-xty
-#EXTINF:-1 group-title="☁️星視界一日遊",东森幼幼台
-http://103.45.68.47/gy/gy689/xsj.php?id=ebc-yoyo
-#EXTINF:-1 group-title="☁️星視界一日遊",MOMOTV
-http://103.45.68.47/gy/gy689/xsj.php?id=momotv
-#EXTINF:-1 group-title="☁️星視界一日遊",小尼克频道
-http://103.45.68.47/gy/gy689/xsj.php?id=nick-jr
-#EXTINF:-1 group-title="☁️星視界一日遊",MOMO亲子台
-http://103.45.68.47/gy/gy689/xsj.php?id=momo-kids
-#EXTINF:-1 group-title="☁️星視界一日遊",CN卡通
-http://103.45.68.47/gy/gy689/xsj.php?id=cn-cartoon
-#EXTINF:-1 group-title="☁️星視界一日遊",Boomerang HD
-http://103.45.68.47/gy/gy689/xsj.php?id=boomerang-hd
-#EXTINF:-1 group-title="☁️星視界一日遊",Animax卡通
-http://103.45.68.47/gy/gy689/xsj.php?id=animax-cartoon
-#EXTINF:-1 group-title="☁️星視界一日遊",尼克儿童频道
-http://103.45.68.47/gy/gy689/xsj.php?id=nickelodeon
-#EXTINF:-1 group-title="☁️星視界一日遊",国家地理
-http://103.45.68.47/gy/gy689/xsj.php?id=natgeo
-#EXTINF:-1 group-title="☁️星視界一日遊",国家地理 野生频道
-http://103.45.68.47/gy/gy689/xsj.php?id=natgeo-wild
-#EXTINF:-1 group-title="☁️星視界一日遊",动物星球频道
-http://103.45.68.47/gy/gy689/xsj.php?id=animal-planet
-#EXTINF:-1 group-title="☁️星視界一日遊",探索频道
-http://103.45.68.47/gy/gy689/xsj.php?id=discovery
-#EXTINF:-1 group-title="☁️星視界一日遊",DMAX
-http://103.45.68.47/gy/gy689/xsj.php?id=dmax
-#EXTINF:-1 group-title="☁️星視界一日遊",探索科学频道
-http://103.45.68.47/gy/gy689/xsj.php?id=discovery-sci
-#EXTINF:-1 group-title="☁️星視界一日遊",探索亚洲频道
-http://103.45.68.47/gy/gy689/xsj.php?id=discovery-asia
-#EXTINF:-1 group-title="☁️星視界一日遊",History 频道
-http://103.45.68.47/gy/gy689/xsj.php?id=history
-#EXTINF:-1 group-title="☁️星視界一日遊",History-2 频道
-http://103.45.68.47/gy/gy689/xsj.php?id=history-2
-#EXTINF:-1 group-title="☁️星視界一日遊",TLC 旅游生活頻道
-http://103.45.68.47/gy/gy689/xsj.php?id=tlc
-#EXTINF:-1 group-title="☁️星視界一日遊",CI 罪案侦查频道
-http://103.45.68.47/gy/gy689/xsj.php?id=ci
-#EXTINF:-1 group-title="☁️星視界一日遊",亚洲旅游台
-http://103.45.68.47/gy/gy689/xsj.php?id=asia-travel
-#EXTINF:-1 group-title="☁️星視界一日遊",美食星球频道
-http://103.45.68.47/gy/gy689/xsj.php?id=food-planet
-#EXTINF:-1 group-title="☁️星視界一日遊",EYE 旅游台
-http://103.45.68.47/gy/gy689/xsj.php?id=eye-travel
-#EXTINF:-1 group-title="☁️星視界一日遊",TVB 经典台
-http://103.45.68.47/gy/gy689/xsj.php?id=tvb-classic
-#EXTINF:-1 group-title="☁️星視界一日遊",天映经典
-http://103.45.68.47/gy/gy689/xsj.php?id=cccm
-#EXTINF:-1 group-title="☁️星視界一日遊",天映频道 HD
-http://103.45.68.47/gy/gy689/xsj.php?id=celestial
-#EXTINF:-1 group-title="☁️星視界一日遊",Now 华剧台
-http://103.45.68.47/gy/gy689/xsj.php?id=now-hairun
-#EXTINF:-1 group-title="☁️星視界一日遊",TVB 华语剧台
-http://103.45.68.47/gy/gy689/xsj.php?id=tvb-drama
-#EXTINF:-1 group-title="☁️星視界一日遊",TVB 星河台
-http://103.45.68.47/gy/gy689/xsj.php?id=tvb-xinghe
-#EXTINF:-1 group-title="☁️星視界一日遊",Now 爆谷台
-http://103.45.68.47/gy/gy689/xsj.php?id=baogu-movies
+#EXTINF:-1 group-title="Taiwan",民視
+http://8.210.88.135/ml.php?id=ftvhd_taiwan
+#EXTINF:-1 group-title="Taiwan",台視
+http://8.210.88.135/ml.php?id=ttv_taiwan
+#EXTINF:-1 group-title="Taiwan",中視
+http://8.210.88.135/ml.php?id=zhongshihd_twn
+#EXTINF:-1 group-title="Taiwan",華視
+http://8.210.88.135/ml.php?id=ctshd_tw
+#EXTINF:-1 group-title="Taiwan",公視
+http://8.210.88.135/ml.php?id=ctv_taiwan
+#EXTINF:-1 group-title="Taiwan",中視新聞
+http://8.210.88.135/ml.php?id=zhongshinews_twn
+#EXTINF:-1 group-title="Taiwan",TVBS新聞
+http://8.210.88.135/ml.php?id=tvbs_n
+#EXTINF:-1 group-title="Taiwan",非凡新聞
+http://8.210.88.135/ml.php?id=feifannews_twn
+#EXTINF:-1 group-title="Taiwan",東森LIVE
+http://8.210.88.135/ml.php?id=ettvnews
+#EXTINF:-1 group-title="Taiwan",東森財經
+http://8.210.88.135/ml.php?id=ettvcaijing_twn
+#EXTINF:-1 group-title="Taiwan",年代新聞
+http://8.210.88.135/ml.php?id=niandainews_twn
+#EXTINF:-1 group-title="Taiwan",中天娛樂
+http://8.210.88.135/ml.php?id=ctient
+#EXTINF:-1 group-title="Taiwan",中天綜合
+http://8.210.88.135/ml.php?id=ctizhonghe
+#EXTINF:-1 group-title="Taiwan",八大第一
+http://8.210.88.135/ml.php?id=badafirst
+#EXTINF:-1 group-title="Taiwan",八大戲劇
+http://8.210.88.135/ml.php?id=badadrama
+#EXTINF:-1 group-title="Taiwan",八大綜合
+http://8.210.88.135/ml.php?id=badazhonghe
+#EXTINF:-1 group-title="Taiwan",三立戲劇
+http://8.210.88.135/ml.php?id=sanlixiju_twn
+#EXTINF:-1 group-title="Taiwan",三立綜合
+http://8.210.88.135/ml.php?id=sanlizhonghe
+#EXTINF:-1 group-title="Taiwan",東森超視
+http://8.210.88.135/ml.php?id=ettvsuper
+#EXTINF:-1 group-title="Taiwan",東森綜合
+http://8.210.88.135/ml.php?id=ettvzhonghe
+#EXTINF:-1 group-title="Taiwan",愛爾達影劇
+http://8.210.88.135/ml.php?id=eltadrama_twn
+#EXTINF:-1 group-title="Taiwan",JET綜合
+http://8.210.88.135/ml.php?id=jettv_japan
+#EXTINF:-1 group-title="Taiwan",衛視中文
+http://8.210.88.135/ml.php?id=weishichinese_twn
+#EXTINF:-1 group-title="Taiwan",龍華洋片
+http://8.210.88.135/ml.php?id=lunghuawestern_twn
+#EXTINF:-1 group-title="Taiwan",AXN
+http://8.210.88.135/ml.php?id=axn_twn
+#EXTINF:-1 group-title="Taiwan",EYETV戲劇
+http://8.210.88.135/ml.php?id=eyetvxiju_twn
+#EXTINF:-1 group-title="Taiwan",TVBS歡樂
+http://8.210.88.135/ml.php?id=tvbshuanle_twn
+#EXTINF:-1 group-title="Taiwan",東森洋片
+http://8.210.88.135/ml.php?id=ettvwestern
+#EXTINF:-1 group-title="Taiwan",東森電影
+http://8.210.88.135/ml.php?id=ettvmovie
+#EXTINF:-1 group-title="Taiwan",緯來電影
+http://8.210.88.135/ml.php?id=videolandmovie
+#EXTINF:-1 group-title="Taiwan",好萊塢電影
+http://8.210.88.135/ml.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="Taiwan",龍祥時代
+http://8.210.88.135/ml.php?id=lungxiangtime_twn
+#EXTINF:-1 group-title="Taiwan",星衛電影
+http://8.210.88.135/ml.php?id=xingwei_movie
+#EXTINF:-1 group-title="Taiwan",CINEMAX
+http://8.210.88.135/ml.php?id=cinemax_twn
+#EXTINF:-1 group-title="Taiwan",HBO原創鉅獻
+http://8.210.88.135/ml.php?id=hbosignature_twn
+#EXTINF:-1 group-title="Taiwan",HBO
+http://8.210.88.135/ml.php?id=hbohd_twn
+#EXTINF:-1 group-title="Taiwan",HBO溫馨家庭
+http://8.210.88.135/ml.php?id=fyi_twn
+#EXTINF:-1 group-title="Taiwan",美亞電影
+http://8.210.88.135/ml.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="Taiwan",HBO強檔鉅獻
+http://8.210.88.135/ml.php?id=hbohead_twn
+#EXTINF:-1 group-title="Taiwan",愛爾達體育1
+http://8.210.88.135/ml.php?id=eltasport1_twn
+#EXTINF:-1 group-title="Taiwan",愛爾達體育2
+http://8.210.88.135/ml.php?id=eltasport2_twn
+#EXTINF:-1 group-title="Taiwan",愛爾達體育3
+http://8.210.88.135/ml.php?id=eltasport3_twn
+#EXTINF:-1 group-title="Taiwan",BBC
+http://8.210.88.135/ml.php?id=bbc1_antik
+#EXTINF:-1 group-title="Taiwan",東森幼幼
+http://8.210.88.135/ml.php?id=yoyo_twn
+#EXTINF:-1 group-title="Taiwan",靖天卡通
+http://8.210.88.135/ml.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="Taiwan",亞洲旅遊
+http://8.210.88.135/ml.php?id=asiatravel_twn
+#EXTINF:-1 group-title="Taiwan",EYETV旅遊
+http://8.210.88.135/ml.php?id=eyetvtravel_twn
+#EXTINF:-1 group-title="Taiwan",動物星球
+http://8.210.88.135/ml.php?id=animalplanet_twn
+#EXTINF:-1 group-title="Taiwan",國家地理野生
+http://8.210.88.135/ml.php?id=natgeowild_twn
+#EXTINF:-1 group-title="Taiwan",探索亞洲
+http://8.210.88.135/ml.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="Taiwan",探索頻道CH
+http://8.210.88.135/ml.php?id=discoverych_twn
+#EXTINF:-1 group-title="Taiwan",探索頻道HD
+http://8.210.88.135/ml.php?id=discoveryhd_twn
+#EXTINF:-1 group-title="Taiwan",探索科學
+http://8.210.88.135/ml.php?id=discoverysc_twn
+#EXTINF:-1 group-title="Taiwan",探索動力
+http://8.210.88.135/ml.php?id=discoveryturbo_twn
+#EXTINF:-1 group-title="Taiwan",國家地理
+http://8.210.88.135/ml.php?id=natgeohd_twn
+#EXTINF:-1 group-title="Taiwan",時尚頻道
+http://8.210.88.135/ml.php?id=fashiontv_twn
+#EXTINF:-1 group-title="Taiwan",緯來體育
+http://8.210.88.135/ml.php?id=videolandsport
+#EXTINF:-1 group-title="Taiwan",博斯高球1
+http://8.210.88.135/ml.php?id=bosigolf1_twn
+#EXTINF:-1 group-title="Taiwan",博斯高球2
+http://8.210.88.135/ml.php?id=bosigolf2_twn
+#EXTINF:-1 group-title="Taiwan",博斯魅力
+http://8.210.88.135/ml.php?id=bosisport1_twn
+#EXTINF:-1 group-title="Taiwan",博斯運動2
+http://8.210.88.135/ml.php?id=bosisport2_twn
+#EXTINF:-1 group-title="Taiwan",博斯網球
+http://8.210.88.135/ml.php?id=bositennis_twn
+#EXTINF:-1 group-title="Taiwan",ELEVEN1
+http://8.210.88.135/ml.php?id=golfchannel_twn
+#EXTINF:-1 group-title="Taiwan",中天新聞
+http://8.210.88.135/ml.php?id=ctinews
+#EXTINF:-1 group-title="Taiwan",民視新聞
+http://8.210.88.135/ml.php?id=ftvnew_taiwan
+#EXTINF:-1 group-title="Taiwan",中視經典
+http://8.210.88.135/ml.php?id=zhongshi_twn
+#EXTINF:-1 group-title="Taiwan",民視台灣
+http://8.210.88.135/ml.php?id=ftvtaiwan_twn
+#EXTINF:-1 group-title="Taiwan",民視第一
+http://8.210.88.135/ml.php?id=lunghuajingdian_twn
+#EXTINF:-1 group-title="Taiwan",中天亞洲
+http://8.210.88.135/ml.php?id=ctiasia_twn
+#EXTINF:-1 group-title="Taiwan",三立台灣
+http://8.210.88.135/ml.php?id=sanlitaiwan
+#EXTINF:-1 group-title="Taiwan",龍華戲劇
+http://8.210.88.135/ml.php?id=lunghuaxiju_twn
+#EXTINF:-1 group-title="Taiwan",TVBS
+http://8.210.88.135/ml.php?id=tvbs
+#EXTINF:-1 group-title="Taiwan",靖天國際
+http://8.210.88.135/ml.php?id=jingtianintl_twn
+#EXTINF:-1 group-title="Taiwan",BABY TV
+http://8.210.88.135/ml.php?id=Babytv
+#EXTINF:-1 group-title="Taiwan",美食星球
+http://8.210.88.135/ml.php?id=foodplanet_twn
+#EXTINF:-1 group-title="Taiwan",TLC旅遊生活
+http://8.210.88.135/ml.php?id=tlc_twn
+#EXTINF:-1 group-title="Taiwan",BBC lifestyle
+http://8.210.88.135/ml.php?id=bbclifestyle_twn
+#EXTINF:-1 group-title="Taiwan",大愛
+http://8.210.88.135/ml.php?id=daai_twn
 
 
 ########################   MIX   ################################################################
