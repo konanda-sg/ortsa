@@ -243,3 +243,87 @@ https://linear03-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TuhVAkObT6EchtvKzEbTFw", "kid":"Pq/W8kneQJWCpjAH5vCqFg" } ], "type":"temporary" }
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/fdae501cefcf5faaeeba3.png" tvg-id="xxx",STANDBY A
 https://linear07-playback.sooka.my/CH5/masterCH5.mpd
+
+
+
+
+########################################################################LIGA SUPER MALAYSIA#########################################################################################
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16TmxZbUkxWXprdE56VXdOaTAwWlRKakxXSXdOMkl0WTJVM1lqaGtNRE01WVdGaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTA4MjAyMiwiaWF0IjoxNjg0NDc4MDIyfQ.7moOK7hUW5yGcM90AFwqFTNVj3VPE-_avwtK65_CDN0"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" group-title="LIGA2023" group-logo="https://i.ibb.co/Y3w4QfW/H7B4QYF.png" tvg-logo="https://speedtrademarket.com/live/logo/arenabola_logo.png",803 ARENA BOLA 1 (SOOKA)
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16TmxZbUkxWXprdE56VXdOaTAwWlRKakxXSXdOMkl0WTJVM1lqaGtNRE01WVdGaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTA4MjAyMiwiaWF0IjoxNjg0NDc4MDIyfQ.7moOK7hUW5yGcM90AFwqFTNVj3VPE-_avwtK65_CDN0"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="Astro Arena Bola 2" group-title="LIGA2023" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://speedtrademarket.com/live/logo/arenabola_logo.png",804 ARENA BOLA 2 (SOOKA)
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16TmxZbUkxWXprdE56VXdOaTAwWlRKakxXSXdOMkl0WTJVM1lqaGtNRE01WVdGaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTA4MjAyMiwiaWF0IjoxNjg0NDc4MDIyfQ.7moOK7hUW5yGcM90AFwqFTNVj3VPE-_avwtK65_CDN0"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola3" tvg-name="Astro Arena Bola 3" group-title="LIGA2023" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://speedtrademarket.com/live/logo/arenabola_logo.png",807 ARENA BOLA 3 (SOOKA)
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"imtZ0L9D4SZfzu/jIYQAYQ", "kid":"LLnnRGR0QSakBrBLuSBwvw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola4" tvg-name="Astro Arena Bola 4" group-title="LIGA2023" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://speedtrademarket.com/live/logo/arenabola_logo.png",808 ARENA BOLA 4 (SOOKA)
+https://linear07-playback.sooka.my/CH3/masterCH3.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7gz8x+pMpxXBuwCiJVBTqQ", "kid":"m5mIlPGIT2SYHvY3RMvvsQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="LIGA2023"" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Arena1.png",801 ASTRO ARENA 1 (SOOKA)
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16TmxZbUkxWXprdE56VXdOaTAwWlRKakxXSXdOMkl0WTJVM1lqaGtNRE01WVdGaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4NTA4MjAyMiwiaWF0IjoxNjg0NDc4MDIyfQ.7moOK7hUW5yGcM90AFwqFTNVj3VPE-_avwtK65_CDN0"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-id="AstroArena2" group-title="LIGA2023"" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Arena2.png",802 ASTRO ARENA 2
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
+
+
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F/ut5qlPUnGmp8VjdL9tjg", "kid":"UmLL6+rWT0KqgxfjyxMQbA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="LIGA2023" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V1.png",101 TV 1 (SOOKA)
+https://linear08-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6GP3FJ5S91Jr90QDTifOjQ", "kid":"977qwgCvQNWIbf6Y1y/PyA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="LIGA2023" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V2.png",102 TV 2 (SOOKA)
+https://linear08-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/ZWTWoqiWiVgbvEaF2fug", "kid":"ngdsLhf9SLS+J83Aj+IYfw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Okey" tvg-name="TV Okey" group-title="LIGA2023" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Okey.png",146 OKEY (SOOKA)
+https://linear08-playback.sooka.my/CH2/masterCH2.mpd
+
