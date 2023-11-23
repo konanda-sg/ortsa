@@ -22,10 +22,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="Malay" tvg-id="AstroRia" ch-number="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
-https://linears-playback.astro.com.my/vsg/41Q2JOX8KtOe28ba8x3splIguOrP487D2BAVqzhfqNLpU=z4VY/dash-wv/jitp-linearwm/1004/default.mpd
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
+##https://linears-playback.astro.com.my/vsg/41Q2JOX8KtOe28ba8x3splIguOrP487D2BAVqzhfqNLpU=z4VY/dash-wv/jitp-linearwm/1004/default.mpd
 ##https://ktpremium.com:443/N197NGF/8199/912833
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Malay" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -43,14 +44,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 ##https://aqfadtv.xyz/live/warna/index.mpd
 ##https://linears-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzUrKeL5iqw_9atJ6Dnlv8k=-VNo/dash-wv/jitp-linearwm/2402/default.mpd
 ##http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/1706.ts
-https://ktpremium.com:443/N197NGF/8199/25867
+##https://ktpremium.com:443/N197NGF/8199/25867
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Malay" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 ##https://aqfadtv.xyz/live/citra/index.mpd
 ##https://linears-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzhUDi-8zGm7sgyhAlDF5UQ=UBTa/dash-wv/jitp-dashisowm/2700/default.mpd
-https://ktpremium.com:443/N197NGF/8199/25852
+##https://ktpremium.com:443/N197NGF/8199/25852
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
 
 #EXTINF:-1 tvg-id="AstroRania" group-title="Malay" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -226,18 +229,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default.mpd
 
 #EXTINF:-1 ch-number="306" tvg-id="AstroAEC" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 AEC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=7a4a41dda359940e6c8c2ff1223d7710:e9f2a7e0427f63ba9a6d0c65daf40f9a
 ##https://linearjitp-playback.astro.com.my/dash-wv/linear/5103/default_primary.mpd
 http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/1723.ts
 
 #EXTINF:-1 ch-number="306" tvg-id="AstroAEC" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 AEC S
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=59ad205a58514039abe940fe1bd2bc95:aada2cb8208b85b271adc9b24f83125a
 ##https://raw.githubusercontent.com/Ortsa8/stream/main/ortsa/aec.m3u8
 ##https://linear05-playback.sooka.my/CH4/masterCH4.mpd
-#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
-https://linears-playback.astro.com.my/vsg/41SSuRfAAzARn8RaBUByks0QZ5EFfox3Catpdq0fIhOBg=aWa8/dash-wv/jitp-dashisowm/2400/default.mpd
+##KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
+##https://linears-playback.astro.com.my/vsg/41SSuRfAAzARn8RaBUByks0QZ5EFfox3Catpdq0fIhOBg=aWa8/dash-wv/jitp-dashisowm/2400/default.mpd
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroAEC
 
 #EXTINF:-1 ch-number="308" tvg-id="AstroQJ" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",308 Astro QJ
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -247,7 +251,8 @@ https://linears-playback.astro.com.my/vsg/41SSuRfAAzARn8RaBUByks0QZ5EFfox3Catpdq
 ##https://ktpremium.com:443/N197NGF/8199/25970
 ##KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
 ##https://linears-playback.astro.com.my/vsg/41P7zi4rQF_YSkalzT_JlWMpgZPC5Fj_WcJtPDWzyC_mE=1Jp0/dash-wv/jitp-linearwm/2507/default.mpd
-http://kmkus.wanicelife.com:8880/3ca7283n03/asdf23e423/1728
+##http://kmkus.wanicelife.com:8880/3ca7283n03/asdf23e423/1728
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroQJ
 
 #EXTINF:-1 ch-number="309" tvg-id="CelestialMovies" ch-number="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Chinese",309 Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
