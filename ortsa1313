@@ -1236,7 +1236,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #EXTINF:-1 ch-number="801" tvg-id="AstroArena" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Arena S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7gz8x+pMpxXBuwCiJVBTqQ", "kid":"m5mIlPGIT2SYHvY3RMvvsQ" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH4/masterCH4.mpd
@@ -1247,7 +1247,7 @@ https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 ch-number="802" tvg-id="AstroArena2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",802 Arena 2 S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b5e515638de4243b6ba49843d0be763:24ad47f73c8cfffc6961d47aa551b882
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
@@ -1258,7 +1258,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 https://linears-playback.astro.com.my/vsg/41pR7VrUmoBgFz5ld2AzNoIpTmiBYE6eSL3oiAY0NvePo=DdCb/dash-wv/jitp-linearwm/5099/default.mpd
 
 #EXTINF:-1 ch-number="803" tvg-id="AstroArenaBola" group-title="Sports" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png",803 Arena Bola S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
@@ -1269,7 +1269,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 https://linears-playback.astro.com.my/vsg/41q9vTdDYTSw_-Hgbvnshyq-P0qEHwlCcg_VD5o7snKMs=lwWO/dash-wv/jitp-linearwm/5100/default.mpd
 
 #EXTINF:-1 ch-number="804" tvg-id="AstroArenaBola2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",804 Arena Bola 2 S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99685545491d40b493b3a4b263c7245e:7939e335bf8cbbd6882f9f5c9cdebe19
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
@@ -1280,7 +1280,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default.mpd
 
 #EXTINF:-1 ch-number="807" tvg-id="AstroArenaBola3" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola3_v1.png",807 Arena Bola 3 S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4f5ff4e4694d54bdfdc9bd34384290:1100fe297146f7d024b59944f09e6d1a
 https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
@@ -1291,7 +1291,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default.mpd
 
 #EXTINF:-1 ch-number="808" tvg-id="AstroArenaBola4" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola4.png",808 Arena Bola 4 S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"imtZ0L9D4SZfzu/jIYQAYQ", "kid":"LLnnRGR0QSakBrBLuSBwvw" } ], "type":"temporary" }
 https://linear07-playback.sooka.my/CH3/masterCH3.mpd
@@ -1312,7 +1312,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
 
 #EXTINF:-1 ch-number="808" tvg-id="AstroSupersport" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",808 SuperSport S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TuhVAkObT6EchtvKzEbTFw", "kid":"Pq/W8kneQJWCpjAH5vCqFg" } ], "type":"temporary" }
 https://linear07-playback.sooka.my/CH5/masterCH5.mpd
@@ -1348,7 +1348,7 @@ https://linear03-playback.sooka.my/CH3/masterCH3.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
 #EXTINF:-1 ch-number="810" tvg-id="SPOTV2" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",810 Spotv 2 S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a577184ed6c64560beb87c96ee78f7b8:65f88f668501f7efa75c25be598f7456
 https://dcqkiaqc3sngm.cloudfront.net/CH3/masterCH3.mpd
@@ -1361,7 +1361,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH3/masterCH3.mpd
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=918986&extension=ts
 
 #EXTINF:-1 ch-number="811" tvg-id="AstroSupersport" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 SuperSport S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
 http://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
@@ -1375,7 +1375,7 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=918985&extension=ts
 
 #EXTINF:-1 ch-number="812" tvg-id="AstroSupersport2" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 SuperSport 2 S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
 http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
@@ -1389,7 +1389,7 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=918984&extension=ts
 
 #EXTINF:-1 ch-number="813" tvg-id="AstroSupersport3" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 SuperSport 3 S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
 http://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
@@ -1400,7 +1400,7 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 #EXTINF:-1 ch-number="814" tvg-id="AstroSupersport4" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 SuperSport 4 S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
 http://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
@@ -1411,7 +1411,7 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default.mpd
 
 #EXTINF:-1 ch-number="815" tvg-id="W-Sport" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",815 W-Sport S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f99ffa2d27a4cfba05b83b91db846df:c79e916f9df7a1c71805e39cda30d93b
 http://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
@@ -1422,7 +1422,7 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 
 #EXTINF:-1 ch-number="816" tvg-id="SPOTV" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",816 SPOTV S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=e2bd29a7465a4ae486a7500230580a6e:2ac4ef4744ad202afcc2e873d7dc3916
 https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd
@@ -1433,7 +1433,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
 
 #EXTINF:-1 ch-number="817" tvg-id="beINSports2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",817 beIN Sports 2 S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cb05d14c8dd4563b956e37d0a0f1177:c527d4a5b3d4364312a4e78b9de9e880
 https://dcqkiaqc3sngm.cloudfront.net/CH4/masterCH4.mpd
@@ -1444,7 +1444,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH4/masterCH4.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
 #EXTINF:-1 ch-number="818" tvg-id="beINSports" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",818 beIN Sports S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fbffd1ff21340169a5a1142bcf4ddad:4b3898bc8a6ffd8b5cb34a7cd906dc35
 https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
@@ -1455,7 +1455,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
 #EXTINF:-1 ch-number="819" tvg-id="beINSports3" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",819 beIN Sports 3 S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e546b2e8adf54e87b7bb6c0cd6ccc2da:b9b615fe1dd5560617de191d253c02bc
 https://dcqkiaqc3sngm.cloudfront.net/CH2/masterCH2.mpd
@@ -1496,7 +1496,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default.mpd
 
 #EXTINF:-1 ch-number="809" tvg-id="BEIN4" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BEIN4.png",825 beIN Sports 4 S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTQxNTU3MiwiaWF0IjoxNzAwODExNTcyfQ.lIFieG0Hjym77mHxl7EIibNrYLXEQUoj7wAsdbjsWNw"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a267ba09b3a43969364ee77f76dd622:5b00d4341e90b3022b5e57139ae8ab16
 https://linear05-playback.sooka.my/CH2/masterCH2.mpd
@@ -2873,239 +2873,147 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/france/6ter.m3u8
 
 ***********************EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-http://cntv.lat/tv/live.php?auth=231110&id=cctv1HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
-http://cntv.lat/tv/live.php?auth=231110&id=cctv2HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://cntv.lat/tv/live.php?auth=231110&id=cctv3HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://cntv.lat/tv/live.php?auth=231110&id=cctv4HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
-http://cntv.lat/tv/live.php?auth=231110&id=cctv5HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv5
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-http://cntv.lat/tv/live.php?auth=231110&id=cctv5SportHD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv5p
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-http://cntv.lat/tv/live.php?auth=231110&id=cctv6HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-http://cntv.lat/tv/live.php?auth=231110&id=cctv7HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv7
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://cntv.lat/tv/live.php?auth=231110&id=cctv8HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://cntv.lat/tv/live.php?auth=231110&id=cctv9HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv9
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
-http://cntv.lat/tv/live.php?auth=231110&id=cctv10HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv10
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://cntv.lat/tv/live.php?auth=231110&id=cctv11HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://cntv.lat/tv/live.php?auth=231110&id=cctv12HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://cntv.lat/tv/live.php?auth=231110&id=CCTVNewsHD
+https://cntv.lat/tv/zb.php?auth=231122&id=CCTV13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://cntv.lat/tv/live.php?auth=231110&id=cctvseHD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
-http://cntv.lat/tv/live.php?auth=231110&id=cctv15HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://cntv.lat/tv/live.php?auth=231110&id=cctv16HD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
-http://cntv.lat/tv/live.php?auth=231110&id=cctv17HD
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-http://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 4K
-http://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视",CHC动作电影
-http://cntv.lat/tv/live.php?auth=231110&id=chcdzdyHD
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视",CHC家庭影院
-http://cntv.lat/tv/live.php?auth=231110&id=chcjtyyHD
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视",CHC高清电影
-http://cntv.lat/tv/live.php?auth=231110&id=chcgqdyHD
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv17
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
+https://cntv.lat/tv/zb.php?auth=231122&id=cgtn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-http://cntv.lat/tv/live.php?auth=231110&id=beijingHD
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-http://cntv.lat/tv/live.php?auth=231110&id=zhejiangHD
+https://cntv.lat/tv/zb.php?auth=231122&id=bjws
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-http://cntv.lat/tv/live.php?auth=231110&id=shanghaiHD
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-http://cntv.lat/tv/live.php?auth=231110&id=shenzhenHD
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://cntv.lat/tv/live.php?auth=231110&id=liaoningHD
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-http://cntv.lat/tv/live.php?auth=231110&id=tianjinHD
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-http://cntv.lat/tv/live.php?auth=231110&id=guizhouHD
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-http://cntv.lat/tv/live.php?auth=231110&id=sichuanHD
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-http://cntv.lat/tv/live.php?auth=231110&id=chongqingHD
+https://cntv.lat/tv/zb.php?auth=231122&id=dfws
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=zjws
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-http://cntv.lat/tv/live.php?auth=231110&id=jiangsuHD
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-http://cntv.lat/tv/live.php?auth=231110&id=yunnanSD
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-http://cntv.lat/tv/live.php?auth=231110&id=dongnanHD
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://cntv.lat/tv/live.php?auth=231110&id=heilongjiangHD
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-http://cntv.lat/tv/live.php?auth=231110&id=anhuiSD
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-http://cntv.lat/tv/live.php?auth=231110&id=hebeiSD
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-http://cntv.lat/tv/live.php?auth=231110&id=jiangxiHD
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-http://cntv.lat/tv/live.php?auth=231110&id=hubeiSD
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-http://cntv.lat/tv/live.php?auth=231110&id=hainanSD
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-http://cntv.lat/tv/live.php?auth=231110&id=jilinHD
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-http://cntv.lat/tv/live.php?auth=231110&id=guangxiHD
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://cntv.lat/tv/live.php?auth=231110&id=neimengkuSD
+https://cntv.lat/tv/zb.php?auth=231122&id=jsws
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-http://cntv.lat/tv/live.php?auth=231110&id=hunanHD
+https://cntv.lat/tv/zb.php?auth=231122&id=hnws
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=szws
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=tjws
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-http://cntv.lat/tv/live.php?auth=231110&id=guangdongHD
+https://cntv.lat/tv/zb.php?auth=231122&id=gdws
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=hljws
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=ahws
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=lnws
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=scws
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=cqws
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=gzws
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=jxws
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=dnws
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=hbws
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-http://cntv.lat/tv/live.php?auth=231110&id=henanHD
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
-http://cntv.lat/tv/live.php?auth=231110&id=shanxiSD
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
-http://cntv.lat/tv/live.php?auth=231110&id=bingtuanSD
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://cntv.lat/tv/live.php?auth=231110&id=ningxia
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="卫视",卡酷少儿
-http://cntv.lat/tv/live.php?auth=231110&id=bjkakuSD
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="卫视",金鹰卡通
-http://cntv.lat/tv/live.php?auth=231110&id=jinyingSD
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
-http://cntv.lat/tv/live.php?auth=231110&id=sanshaSD
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
-http://cntv.lat/tv/live.php?auth=231110&id=qinghaiSD
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
-http://cntv.lat/tv/live.php?auth=231110&id=xinjiangSD
+https://cntv.lat/tv/zb.php?auth=231122&id=henws
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=sdws
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=hainws
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=gxws
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=jlws
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=shxws
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=nmws
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
-http://cntv.lat/tv/live.php?auth=231110&id=xizangSD
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视",中国天气
-http://cntv.lat/tv/live.php?auth=231110&id=tianqiSD
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视",北京纪实科教
-http://cntv.lat/tv/live.php?auth=231110&id=bjayjsSD
-#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视",山东教育卫视
-http://cntv.lat/tv/live.php?auth=231110&id=sdjiaoyuSD
+https://cntv.lat/tv/zb.php?auth=231122&id=xzws
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=hebws
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=qhws
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=nxws
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=ynws
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=sxws
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=gsws
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=xjws
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=btws
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视",CETV-1
-http://cntv.lat/tv/live.php?auth=231110&id=cetv-1SD
+https://cntv.lat/tv/zb.php?auth=231122&id=cetv1
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视",CETV-4
-http://cntv.lat/tv/live.php?auth=231110&id=cetv-4SD
-#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="其他",早期教育
-http://cntv.lat/tv/live.php?auth=231110&id=zaojiaoHD
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="其他",欢笑剧场 4K
-http://cntv.lat/tv/live.php?auth=231110&id=hxjc_4K
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="其他",生活时尚
-http://cntv.lat/tv/live.php?auth=231110&id=shenghuo
-#EXTINF:-1 tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://live.fanmingming.com/tv/百姓健康.png" group-title="其他",百姓健康
-http://cntv.lat/tv/live.php?auth=231110&id=jiankangSD
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="其他",快乐垂钓
-http://cntv.lat/tv/live.php?auth=231110&id=klcdHD
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="其他",都市剧场
-http://cntv.lat/tv/live.php?auth=231110&id=dsjcHD
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其他",动漫秀场
-http://cntv.lat/tv/live.php?auth=231110&id=dmxcHD
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="其他",魅力足球
-http://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="其他",求索纪录
-http://cntv.lat/tv/live.php?auth=231110&id=qsjlHD
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="其他",游戏风云
-http://cntv.lat/tv/live.php?auth=231110&id=yxfyHD
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="其他",东方财经
-http://cntv.lat/tv/live.php?auth=231110&id=dfcj
-#EXTINF:-1 tvg-id="证券资讯" tvg-name="证券资讯" tvg-logo="https://live.fanmingming.com/tv/证券服务.png" group-title="其他",证券服务
-http://cntv.lat/tv/live.php?auth=231110&id=jiazheng
-#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="其他",书画
-http://cntv.lat/tv/live.php?auth=231110&id=shuhua
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="其他",新动漫
-http://cntv.lat/tv/live.php?auth=231110&id=dongman
-#EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://live.fanmingming.com/tv/国学.png" group-title="其他",国学频道
-http://cntv.lat/tv/live.php?auth=231110&id=guoxue
-#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="其他",优优宝贝
-http://cntv.lat/tv/live.php?auth=231110&id=youxi
-#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="其他",中华特产
-http://cntv.lat/tv/live.php?auth=231110&id=techan
-#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://live.fanmingming.com/tv/环球奇观.png" group-title="其他",环球奇观
-http://cntv.lat/tv/live.php?auth=231110&id=car
-#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://live.fanmingming.com/tv/生态环境.png" group-title="其他",生态环境
-http://cntv.lat/tv/live.php?auth=231110&id=shengtai
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="其他",四海钓鱼
-http://cntv.lat/tv/live.php?auth=231110&id=diaoyu
-#EXTINF:-1 tvg-id="车迷" tvg-name="车迷" tvg-logo="https://live.fanmingming.com/tv/车迷.png" group-title="其他",车迷
-http://cntv.lat/tv/live.php?auth=231110&id=doxtv
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="其他",法治天地
-http://cntv.lat/tv/live.php?auth=231110&id=fazhi
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="其他",金色学堂
-http://cntv.lat/tv/live.php?auth=231110&id=jinse
-#EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://live.fanmingming.com/tv/收藏天下.png" group-title="其他",收藏天下
-http://cntv.lat/tv/live.php?auth=231110&id=soucang
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="其他",财富天下
-http://cntv.lat/tv/live.php?auth=231110&id=caifu
-#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="其他",天元围棋
-http://cntv.lat/tv/live.php?auth=231110&id=weiqi
-#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="其他",先锋乒羽
-http://cntv.lat/tv/live.php?auth=231110&id=xianfeng
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="其他",环球旅游
-http://cntv.lat/tv/live.php?auth=231110&id=huanqiulvyou
-#EXTINF:-1 tvg-id="摄影" tvg-name="摄影" tvg-logo="https://live.fanmingming.com/tv/摄影.png" group-title="其他",摄影频道
-http://cntv.lat/tv/live.php?auth=231110&id=sheying
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",风云剧场
-http://cntv.lat/tv/live.php?auth=231110&id=fyjcHD
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视",第一剧场
-http://cntv.lat/tv/live.php?auth=231110&id=diyijuchangHD
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
-http://cntv.lat/tv/live.php?auth=231110&id=nvxing
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
-http://cntv.lat/tv/live.php?auth=231110&id=hjjcHD
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",风云音乐
-http://cntv.lat/tv/live.php?auth=231110&id=fyyyHD
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
-http://cntv.lat/tv/live.php?auth=231110&id=ystqHD
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
-http://cntv.lat/tv/live.php?auth=231110&id=fyzqHD
-#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",央视文化精品
-http://cntv.lat/tv/live.php?auth=231110&id=yswhHD
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
-http://cntv.lat/tv/live.php?auth=231110&id=golfHD
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
-http://cntv.lat/tv/live.php?auth=231110&id=bqkjHD
-#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="其他",发现之旅
-http://cntv.lat/tv/live.php?auth=231110&id=faxian
-#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="其他",中学生
-http://cntv.lat/tv/live.php?auth=231110&id=qicai
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="其他",老故事
-http://cntv.lat/tv/live.php?auth=231110&id=gushi
-#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="购物",优购物
-http://cntv.lat/tv/live.php?auth=231110&id=yougouwu
-#EXTINF:-1 tvg-id="风尚购物" tvg-name="风尚购物" tvg-logo="https://live.fanmingming.com/tv/风尚购物.png" group-title="购物",风尚购物
-http://cntv.lat/tv/live.php?auth=231110&id=fsgw
-#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="购物",聚鲨环球精选
-http://cntv.lat/tv/live.php?auth=231110&id=jusha
-#EXTINF:-1 tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://live.fanmingming.com/tv/中视购物.png" group-title="购物",中视购物
-http://cntv.lat/tv/live.php?auth=231110&id=ysgw
-#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="购物",家有购物
-http://cntv.lat/tv/live.php?auth=231110&id=jygw
-#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物",央广购物
-http://cntv.lat/tv/live.php?auth=231110&id=yggw
+https://cntv.lat/tv/zb.php?auth=231122&id=cetv4
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视",山东教育卫视
+https://cntv.lat/tv/zb.php?auth=231122&id=sdjy
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视",北京纪实科教
+https://cntv.lat/tv/zb.php?auth=231122&id=bjjskj
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="卫视",卡酷少儿
+https://cntv.lat/tv/zb.php?auth=231122&id=bjkkse
+#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视",纪实人文
+https://cntv.lat/tv/zb.php?auth=231122&id=shjsrw
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="卫视",金鹰卡通
+https://cntv.lat/tv/zb.php?auth=231122&id=jykt
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="卫视",金鹰纪实
+https://cntv.lat/tv/zb.php?auth=231122&id=jyjs
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="卫视",家庭理财
+https://cntv.lat/tv/zb.php?auth=231122&id=jtlc
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视",中国天气
+https://cntv.lat/tv/zb.php?auth=231122&id=zgqx
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="卫视",嘉佳卡通
+https://cntv.lat/tv/zb.php?auth=231122&id=jjkt
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="地方",浙江公共新闻
-http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="地方",浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="地方",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="地方",浙江教科影视
-http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江数码时代" tvg-name="浙江数码时代" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="地方",浙江数码时代
-http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="地方",浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="地方",浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="地方",浙江钱江频道
-http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="地方",内蒙古新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 #EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="地方",内蒙古经济生活
@@ -3120,51 +3028,30 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语文化.png" group-title="地方",内蒙古蒙语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-#EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="地方",重庆新闻
-http://cntv.lat/tv/live.php?auth=231110&id=CQTVNewsHD
-#EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="地方",重庆影视
-http://cntv.lat/tv/live.php?auth=231110&id=cqyingshiHD
-#EXTINF:-1 tvg-id="重庆社会与法" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="地方",重庆社会与法
-http://cntv.lat/tv/live.php?auth=231110&id=CQTVTrendyHD
-#EXTINF:-1 tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="地方",重庆时尚生活
-http://cntv.lat/tv/live.php?auth=231110&id=cqssgwHD
-#EXTINF:-1 tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆文体娱乐.png" group-title="地方",重庆文体娱乐
-http://cntv.lat/tv/live.php?auth=231110&id=cqwtylHD
-#EXTINF:-1 tvg-id="重庆新农村" tvg-name="重庆新农村" tvg-logo="https://live.fanmingming.com/tv/重庆新农村.png" group-title="地方",重庆新农村
-http://cntv.lat/tv/live.php?auth=231110&id=cqggncHD
-#EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="地方",重庆少儿
-http://cntv.lat/tv/live.php?auth=231110&id=cqseHD
-#EXTINF:-1 tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="地方",重庆科教
-http://cntv.lat/tv/live.php?auth=231110&id=CQTVkejiaoHD
-#EXTINF:-1 tvg-id="爱看导视" tvg-name="爱看导视" tvg-logo="https://live.fanmingming.com/tv/爱看导视.png" group-title="地方",爱看导视
-http://cntv.lat/tv/live.php?auth=231110&id=aikanHD
-#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="地方",重庆汽摩
-http://cntv.lat/tv/live.php?auth=231110&id=cqcarSD
-#EXTINF:-1 tvg-id="重庆移动" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="地方",重庆移动
-http://cntv.lat/tv/live.php?auth=231110&id=mryyHD
-#EXTINF:-1 tvg-id="重广融媒" tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png" group-title="地方",重广融媒
-http://cntv.lat/tv/live.php?auth=231110&id=cqrongmei
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方",上海新闻综合
+https://pi.0472.org/tv/sh.php?id=xw
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方",上海都市
+https://pi.0472.org/tv/sh.php?id=ds
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
-http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳",凤凰资讯
-http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+https://pi.0472.org/tv/fhzw.php?auth=231122
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
-https://pi.0472.org/tv/fct.php?auth=231110
+https://pi.0472.org/tv/fct.php?auth=231122
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳",明珠台
-https://pi.0472.org/tv/mzt.php?auth=231110
+https://pi.0472.org/tv/mzt.php?auth=231122
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳",澳视澳门
-https://pi.0472.org/tv/asam.php?auth=231110
+https://pi.0472.org/tv/asam.php?auth=231122
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳",星空卫视
-https://pi.0472.org/tv/startv.php?auth=231110
+https://pi.0472.org/tv/startv.php?auth=231122
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="港澳",澳亚卫视
-https://pi.0472.org/tv/aoya.php?auth=231110
+https://pi.0472.org/tv/aoya.php?auth=231122
+#EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港澳",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳",莲花卫视
 https://cntv.lat/tv/lhws.php
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="港澳",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-
 
 ##################################################    Taiwan Hong Kong  #################################################################
 
