@@ -1,110 +1,180 @@
-#EXTINF:-1 ch-number="809" tvg-id="beINSportsRugby" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 beINSportsRugby
+#EXTINF:-1 tvg-id="M+ LaLiga UHD" group-title="Movistar+" ch-number="440" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH",M+ LaLiga UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://thomasandi.my.id/drmlele/astrodrm.php?id=5125
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5125/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=2e0bb7fb0aa441758a91e758bf30d829:e0b47b64161c8f96933d4e828b0e8a7e
+https://uhdlaliga-dash-movistarplus.emisiondof6.com/uhddash/uhdlaliga.isml/manifestuhd.mpd
 
-#EXTINF:-1 ch-number="809" tvg-id="ASSPPlus" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 ASSP Plus
+#EXTINF:-1 tvg-id="DAZN F1 4K" group-title="Movistar+" ch-number="442" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD",DAZN F1 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://thomasandi.my.id/drmlele/astrodrm.php?id=5108
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=1b76612737ad4d678376f6e46c8104a3:4b84e6a343843589e0ed63d4e3a8823e
+https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
 
-#EXTINF:-1 ch-number="809" tvg-id="beINSportsRugby" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 beINSportsRugby
+#EXTINF:-1 tvg-id="LIGA CAMPEONES UHD" group-title="Movistar+" ch-number="444" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/POPUHD",LIGA CAMPEONES UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5125
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5125/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=691b095fbafe429180e34b75872b32ec:b5b3348c2e53eaf3981dccb8cb6e3fc8
+https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.isml/manifestuhd.mpd
 
-#EXTINF:-1 ch-number="809" tvg-id="ASSPPlus" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 ASSP Plus
+#EXTINF:-1 tvg-id="Zona DAZN" group-title="DAZN Internacional" ch-number="1" tvg-logo="https://i.ibb.co/qB211nm/zonadazn-it.png",Zona DAZN IT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5108
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
 
-#EXTINF:-1 ch-number="814" tvg-id="AstroSupersport4" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 SuperSport 4
+#EXTINF:-1 tvg-id="Serie A 1" group-title="DAZN Internacional" ch-number="2" tvg-logo="https://i.imgur.com/uo0G4dP.png",Serie A 1 IT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://thomasandi.my.id/drmlele/astrodrm.php?id=2506
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-019/stream.mpd
 
-#EXTINF:-1 ch-number="814" tvg-id="AstroSupersport4" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 SuperSport 4
+#EXTINF:-1 tvg-id="Serie A 2" group-title="DAZN Internacional" ch-number="3" tvg-logo="https://i.imgur.com/uo0G4dP.png",Serie A 2 IT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2506
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-020/stream.mpd
 
-
-
-
-
-
-
-#EXTINF:-1,BEIN SPORTS 1 FRA
+#EXTINF:-1 tvg-id="Serie A 3" group-title="DAZN Internacional" ch-number="4" tvg-logo="https://i.imgur.com/uo0G4dP.png",Serie A 3 IT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SOaV649ySvmHav4C0qu15g","k":"hU5VmsjoRbIfkKlgTH7N7Q"},{"kty":"oct","kid":"L4/eoDJDTiCAMkFbIK77ow","k":"nYxcemnahiDvqrn+NQGjrw"},{"kty":"oct","kid":"F5NCBP6oQy6CzprZs5gM3A","k":"ksfNR6w2M5cd8C7NYhQrGw"},{"kty":"oct","kid":"8wZw7GvCRPeJK9hhVgrNmA","k":"tp/83l3UGoNQzixYe/A6jQ"}]}
-https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/beinsports1-hd/dash-fhd/beinsports1-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-021/stream.mpd
 
-#EXTINF:-1,BEIN SPORTS 2 FRA
+#EXTINF:-1 tvg-id="Inter TV" group-title="DAZN Internacional" ch-number="5" tvg-logo="https://i.imgur.com/jvUs1u4.png",Inter TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zLQLfFliQN2GMqwf320oig","k":"Yk6VvFtKvsbZXyF8mmN6xQ"},{"kty":"oct","kid":"jS53LzjbQ/igIM/79KKPPg","k":"KRqCCNvFDIZWEnk10qBSDw"},{"kty":"oct","kid":"oM5f9hyWQDuroS2hEVbT2Q","k":"fW0ba3lohu5PiU4GrJCgFQ"},{"kty":"oct","kid":"dglhcyADRZi/hrYWBbGr0Q","k":"Qpv5dOWCmWUhqGpHnIcFYQ"}]}
-https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/beinsports2-hd/dash-fhd/beinsports2-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
 
-#EXTINF:-1,BEIN SPORTS 3 FRA
+#EXTINF:-1 tvg-id="Milan TV" group-title="DAZN Internacional" ch-number="6" tvg-logo="https://i.imgur.com/gEXZuSA.png",Milan TV IT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vR4Fo97/SUqUjNAP/gSprg","k":"OGxFxii0NbtZjh/5XpGqjg"},{"kty":"oct","kid":"kKh4ZgOsTYyMd04tFkPcUg","k":"NNEB57KIPt3TxSaxx0ScVQ"},{"kty":"oct","kid":"5b4FAdL4Sz+CeGjnXOAfKw","k":"BXQi0zUstxo3BN83lJTUdw"},{"kty":"oct","kid":"WjkE+uBVSbe9rsndLd/erQ","k":"RY6thvGbEz502kpNGQnqVQ"}]}
-https://dsh-m003-live-aka-canalplus.akamaized.net/live/disk/beinsports3-hd/dash-fhd/beinsports3-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
 
-#EXTINF:-1,BEIN SPORTS MAX 4 FRA
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="DAZN Internacional" ch-number="7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP",Eurosport 1 IT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BFCCiMlKQJWWD1xvm6mURQ","k":"Dpf09FsW8mcAvDmu58eYxg"},{"kty":"oct","kid":"EfTWJFdTQbyi4a6knsgETg","k":"nErzk3GOa8C/bWcm5WdBMw"},{"kty":"oct","kid":"E/NC6TVzQSqE+0pV+vCZCA","k":"5MF3MMuP5G03FH96ir57zQ"}]}
-https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax4-hd/dash-fhddvr/beinsportsmax4-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-029/stream.mpd
 
-#EXTINF:-1,BEIN SPORTS MAX 5 FRA
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="DAZN Internacional" ch-number="8" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP2",Eurosport 2 IT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"htNR4nUmRUmUxKA+JkFeuQ","k":"anLMaC3cEhWJa4RuHNJNIg"},{"kty":"oct","kid":"ClZiCAmkQoWRRYCkh91R5w","k":"oOD6KiWlTIfk3gpSSewfFQ"},{"kty":"oct","kid":"A6b8jgJOQ8mLtkIKmg4NjQ","k":"zJGkupHBojmxFgdVMqSqiQ"}]}
-https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax5-hd/dash-fhddvr/beinsportsmax5-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-030/stream.mpd
 
-#EXTINF:-1,BEIN SPORTS MAX 6 FRA
+#EXTINF:-1 tvg-id="DAZN 1 GER" group-title="DAZN Internacional" ch-number="9" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD",DAZN 1 DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"O5BosJnPRyCeODQmeF+M9g","k":"oCCBKOnsNXVQf0pDIwaMOQ"},{"kty":"oct","kid":"IrY37V1STdi7P9eIgpkiQw","k":"8Bm98bEZtuDoyYEuZX11WA"},{"kty":"oct","kid":"uNaQqsMRStSknEb9NFLI0g","k":"UT0D9WbSsmohioeMkHBpyA"}]}
-https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax6-hd/dash-fhddvr/beinsportsmax6-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
-#EXTINF:-1,BEIN SPORTS MAX 7 FRA
+#EXTINF:-1 tvg-id="DAZN 2 GER" group-title="DAZN Internacional" ch-number="10" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD",DAZN 2 DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wCKhPW7YTuifkzPeC0jyHg","k":"1uNtfFftG0SK9o1zYA+8nA"},{"kty":"oct","kid":"pcg2NFf3RT+bkJpC8ZRzcg","k":"UrOlluBF8iqwA30qcR6hMQ"},{"kty":"oct","kid":"P7ymmQIdQt6QIwrU6i0Kzw","k":"IwVhK8zBJzSfpZkys8ERTg"}]}
-https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax7-hd/dash-fhddvr/beinsportsmax7-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 
-#EXTINF:-1,BEIN SPORTS MAX 8 FRA
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL" group-title="DAZN Internacional" ch-number="11" tvg-logo="https://i.imgur.com/nMxitqP.png",SPORTDIGITAL FUSSBALL DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m+UavaGARlWzu8Nt4PZvQg","k":"Qe9YuJJLwR1bt4V4oQwaGA"},{"kty":"oct","kid":"5hXyxtXLS8icadcmK2ZfJA","k":"Kt1vTFxRKODLZd3tv5vbYA"},{"kty":"oct","kid":"C1GHYMppQG61W5zHrtti8A","k":"wOYAmjlx6lRg6+8G06YCaA"}]}
-https://dsh-m004-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax8-hd/dash-fhddvr/beinsportsmax8-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1,BEIN SPORTS MAX 9 FRA
+#EXTINF:-1 tvg-id="LFCTV" group-title="DAZN Internacional" ch-number="12" tvg-logo="https://i.imgur.com/NmYigHy.png",LFCTV DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Qr+ip0ygQ6SEMqzeEdwxaA","k":"GfofwhINvYcaS/PMtbCEtQ"},{"kty":"oct","kid":"khAcGtZMSgGvXh5lyd1FcA","k":"DnByy/OR1TETeq7VCxJK8w"},{"kty":"oct","kid":"VwS52zNmQiyaRotQoczXdw","k":"s4zrmA4+a1LjeudxTh0kSQ"},{"kty":"oct","kid":"hPBrRv4tRQSJDhcd7oC69g","k":"2SC82TElh8xWx7AqG38vqw"}]}
-https://dsh-m008-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax9-hd/dash-fhddvr/beinsportsmax9-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
 
-#EXTINF:-1,BEIN SPORTS MAX 10 FRA
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="DAZN Internacional" ch-number="13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP",Eurosport 1 DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7oX8o4Q5SY6ZmufwMRZKlQ","k":"EPErWG1G6vDbDh4ifCufBQ"},{"kty":"oct","kid":"xQuB15uEQCShZ8M8Ln1wRA","k":"vLh00WRQzCdUamk8C4hmBw"},{"kty":"oct","kid":"bUPxC2H9SHiooSUmRI3Gcw","k":"+pr0bqb9KNNmLORb+04O1Q"},{"kty":"oct","kid":"BH/fFwPLSCifQ1cBtF6F4g","k":"yE0RJmtW91uEisXC5bDxGQ"},{"kty":"oct","kid":"Ao+sIvQvR0KuKvRewS/mdQ","k":"iQwcLtXZlLWTvSZsOMxGjw"}]}
-https://dsh-m005-live-aka-canalplus.akamaized.net/live/disk/beinsportsmax10-hd/dash-fhddvr/beinsportsmax10-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-027/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" ,Canal+ Foot
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="DAZN Internacional" ch-number="14" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP2",Eurosport 2 DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HzPFeyZtRTeQlIkwdfFrBQ","k":"HzPFeyZtRTeQlIkwdfFrBQ"},{"kty":"oct","kid":"0X5UxXSvTveG0T4PM8vaTw","k":"2xJSPIafkw3e7ggS+9JMYQ"},{"kty":"oct","kid":"gC7rohgUSty3Tw+7pJaTkA","k":"0pQAcYyjgtBMfHrUatZ48g"},{"kty":"oct","kid":"/wO/Lv/dTHCLrllSD6eYoQ","k":"ETq21zkM7YmSoQ1PgFXlUw"}]}
-https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/canalplusfoot-hd/dash-fhd/canalplusfoot-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-028/stream.mpd
 
+#EXTINF:-1 tvg-id="NBA TV" group-title="DAZN Internacional" ch-number="15" tvg-logo="https://i.imgur.com/72ozG35.png",NBA TV DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 
+#EXTINF:-1 tvg-id="NFL Network" group-title="DAZN Internacional" ch-number="16" tvg-logo="https://i.imgur.com/gtipzAn.png",NFL Network DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-023/stream.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCAg_kqdlbh1XEHOkcXtvLueFZ2pmtHtqrg&usqp=CAU",V SPORT 1
+#EXTINF:-1 tvg-id="MLB Network" group-title="DAZN Internacional" ch-number="17" tvg-logo="https://i.imgur.com/xUsULFV.png",MLB Network DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F527%2Fviasat-sport-finland-1.png",V SPORT FOOTBALL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_premium",V SPORT PREMIUM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_v_sport_extra_hd.png",V SPORT EXTRA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
-https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-026/stream.mpd
 
+#EXTINF:-1 tvg-id="Unbeaten" group-title="DAZN Internacional" ch-number="18" tvg-logo="https://i.imgur.com/iZHehrY.png",Unbeaten DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-044/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN RISE" group-title="DAZN Internacional" ch-number="19" tvg-logo="https://i.imgur.com/CwYCm5F.png",DAZN RISE DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-046/stream.mpd
+
+#EXTINF:-1 tvg-id="BEIN SPORTS" group-title="DAZN Internacional" ch-number="20" tvg-logo="https://i.imgur.com/RfqvTva.png",BEIN SPORTS UK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 2" group-title="DAZN Internacional" ch-number="21" tvg-logo="https://i.imgur.com/u6ul8l3.png",BEIN SPORTS 2 UK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 3" group-title="DAZN Internacional" ch-number="22" tvg-logo="https://i.imgur.com/cQe3d0R.png",BEIN SPORTS 3 UK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1 UK" group-title="DAZN Internacional" ch-number="23" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD",DAZN 1 UK
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-045/stream.mpd
