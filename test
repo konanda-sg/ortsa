@@ -1,207 +1,60 @@
-#EXTM3U
-#EXTINF:-1,AXN
-http://jm14.modhospital.kr:9981/stream/channelid/49?ticket=9F569BFAA0A31D5F22B72FA939E6FFF9D8182566
-#EXTINF:-1,BTN불교TV
-http://jm14.modhospital.kr:9981/stream/channelid/74?ticket=51CC4BF7616824161C08AC7150A83CF7317D34EC
-#EXTINF:-1,CBS
-http://jm14.modhospital.kr:9981/stream/channelid/73?ticket=699F20EF3B6E944005366CA924226C6BE840F144
-#EXTINF:-1,CJ온스타일
-http://jm14.modhospital.kr:9981/stream/channelid/28?ticket=EF4F4D773AE9FF4634446F6B97981535FC15063C
-#EXTINF:-1,CJ온스타일+
-http://jm14.modhospital.kr:9981/stream/channelid/82?ticket=E480A298A775C2B16C1DD3EA4FC8803A4FC0FDF8
-#EXTINF:-1,CMC TV
-http://jm14.modhospital.kr:9981/stream/channelid/86?ticket=8E97E099E6D5A64F7DDE6931342398F7413E88D4
-#EXTINF:-1,CNTV
-http://jm14.modhospital.kr:9981/stream/channelid/64?ticket=3BC9C26CF08DF84A45D0A0924B2778649E476FB5
-#EXTINF:-1,CTS
-http://jm14.modhospital.kr:9981/stream/channelid/71?ticket=B8E9B7289AE511DB021C2CE4BB9044FFCA5ABBF1
-#EXTINF:-1,EBS Digital
-http://jm14.modhospital.kr:9981/stream/channelid/17?ticket=2A1A68281615EB891CACBB13B037614671A02345
-#EXTINF:-1,EBS Digital 
-http://jm14.modhospital.kr:9981/stream/channelid/18?ticket=E7C1A66BD1E54309F5B0FE99116C774E9DD0E45F
-#EXTINF:-1,EBS플러스1
-http://jm14.modhospital.kr:9981/stream/channelid/98?ticket=8A9B3B84FE396C1BBF16E3B06C28F878C05C5F96
-#EXTINF:-1,EBS플러스2
-http://jm14.modhospital.kr:9981/stream/channelid/93?ticket=2B169F3B6E30962942EC1EFF6DD96DCEC9753348
-#EXTINF:-1,EDGE TV
-http://jm14.modhospital.kr:9981/stream/channelid/85?ticket=A2D83383ADB4728195B271206787AE1C00651EB6
-#EXTINF:-1,ETN연예
-http://jm14.modhospital.kr:9981/stream/channelid/53?ticket=2784C338D86055A3529EFA26280C55A74E58C201
-#EXTINF:-1,E채널
-http://jm14.modhospital.kr:9981/stream/channelid/95?ticket=A871657DCEDBC90A70ECF1A9A9D301ABEE6DBEB5
-#EXTINF:-1,FOX채널
-http://jm14.modhospital.kr:9981/stream/channelid/99?ticket=207601FC7420E727F7A25BE2F1E57E0BE03173D7
-#EXTINF:-1,FTV
-http://jm14.modhospital.kr:9981/stream/channelid/79?ticket=07680C9EACF01FF33B55EFB820AA03B3CC10799F
-#EXTINF:-1,FUN TV
-http://jm14.modhospital.kr:9981/stream/channelid/59?ticket=B120E6DC341323A71DF9A0F7BDB6E2D2027B5717
-#EXTINF:-1,GS Shop
-http://jm14.modhospital.kr:9981/stream/channelid/29?ticket=2A74561B97A2BDEFFA3FC15432FFB72D5A000273
-#EXTINF:-1,GS마이샵
-http://jm14.modhospital.kr:9981/stream/channelid/66?ticket=0C2B2FDB3BDEFFBE33C8673244B6A830C627F883
-#EXTINF:-1,GTV
-http://jm14.modhospital.kr:9981/stream/channelid/6?ticket=612DAE6684A0ACCA0657AE255E4E29FE43528A64
-#EXTINF:-1,JTBC2
-http://jm14.modhospital.kr:9981/stream/channelid/70?ticket=6FCDA6E1634DE97B2584046B3476020618EC47E5
-#EXTINF:-1,JTBC3
-http://jm14.modhospital.kr:9981/stream/channelid/87?ticket=2F999952A58949F3E31A9C993FC365E7615956F7
-#EXTINF:-1,JTBC4
-http://jm14.modhospital.kr:9981/stream/channelid/58?ticket=61EABB86AFC70436742E66D47B7C2FAFDE668B68
-#EXTINF:-1,K star
-http://jm14.modhospital.kr:9981/stream/channelid/50?ticket=C50E120A020A805CE017A8E2B38467807BFB9B2E
-#EXTINF:-1,KBS JOY
-http://jm14.modhospital.kr:9981/stream/channelid/77?ticket=C1141C780A79676C447FD4317207747B30FA79BD
-#EXTINF:-1,KBSN스포츠
-http://jm14.modhospital.kr:9981/stream/channelid/88?ticket=DBB0385EA0C1EF3140B1A4F73C52425671463A14
-#EXTINF:-1,KBS드라마
-http://jm14.modhospital.kr:9981/stream/channelid/2?ticket=DA1FDDC2242FEFC5D650253183B8417FF53EB6C6
-#EXTINF:-1,KOREA NEW NETWORK
-http://jm14.modhospital.kr:9981/stream/channelid/19?ticket=CD090D7215F64C77F1B5F0C380E827DFB8C91A90
-#EXTINF:-1,KTV
-http://jm14.modhospital.kr:9981/stream/channelid/34?ticket=86AC5450F89A6021AF5EC4276EA48AF9A3F3E632
-#EXTINF:-1,K쇼핑
-http://jm14.modhospital.kr:9981/stream/channelid/30?ticket=A80AC773BDC571FE418A57DFE7EE71F7781780C6
-#EXTINF:-1,M.net
-http://jm14.modhospital.kr:9981/stream/channelid/7?ticket=45394DBF530FC988D2085E9FBA9A96B6133220D9
-#EXTINF:-1,MBC DTV
-http://jm14.modhospital.kr:9981/stream/channelid/22?ticket=0003137D0236E4E456A4EDEAE2A104724B50F6BF
-#EXTINF:-1,MBC Eve
-http://jm14.modhospital.kr:9981/stream/channelid/102?ticket=FD326B5AB747B448830C55765F0B5A641EAD5297
-#EXTINF:-1,MBC ON
-http://jm14.modhospital.kr:9981/stream/channelid/84?ticket=F95684265032050E4FCFE702D6C0C66D44001B7D
-#EXTINF:-1,MBC드라마넷
-http://jm14.modhospital.kr:9981/stream/channelid/23?ticket=B751B5DF1BC007E466A823FE6DD3FE05F2476F4B
-#EXTINF:-1,MBC스포츠+
-http://jm14.modhospital.kr:9981/stream/channelid/89?ticket=9E8E3475E107180115A6812F1B4FB55F78436060
-#EXTINF:-1,MBN
-http://jm14.modhospital.kr:9981/stream/channelid/31?ticket=5679671143134F60240E7DFE1DC539639B1BC627
-#EXTINF:-1,Mplex
-http://jm14.modhospital.kr:9981/stream/channelid/57?ticket=F5CC21EC5F40C885395972B6E35B33F031F0D75B
-#EXTINF:-1,NHK프리미엄
-http://jm14.modhospital.kr:9981/stream/channelid/52?ticket=CA377F92299DC08DB0B856AA128CECC50D0E615A
-#EXTINF:-1,NS샵플러스
-http://jm14.modhospital.kr:9981/stream/channelid/72?ticket=3367D800F9242DD72A3547D42FE2B58CACBED994
-#EXTINF:-1,NS홈쇼핑
-http://jm14.modhospital.kr:9981/stream/channelid/25?ticket=3AFE7B0A3B8FA78CD7096271CFC838BE86138001
-#EXTINF:-1,OCN
-http://jm14.modhospital.kr:9981/stream/channelid/42?ticket=8A32188D327F2DFDC982F4321D3194574A73890E
-#EXTINF:-1,OCN무비즈
-http://jm14.modhospital.kr:9981/stream/channelid/10?ticket=D57092C6AF53570D05CCD1C3D973318A058F7A81
-#EXTINF:-1,OUN
-http://jm14.modhospital.kr:9981/stream/channelid/43?ticket=937EF1F611871CAF927EDF0A2BCC12CFCC6EFA72
-#EXTINF:-1,OtvN
-http://jm14.modhospital.kr:9981/stream/channelid/14?ticket=4F020C0A87F78997758A3ED0C3E68B1EB2910228
-#EXTINF:-1,SBS Biz
-http://jm14.modhospital.kr:9981/stream/channelid/16?ticket=12E55EA348FBFD891B721A5CF88197AEA2C373F2
-#EXTINF:-1,SBSfunE
-http://jm14.modhospital.kr:9981/stream/channelid/69?ticket=933FC6908C89423FCA31AB1225EA3399CAF7BDF7
-#EXTINF:-1,SBS스포츠
-http://jm14.modhospital.kr:9981/stream/channelid/67?ticket=9C42387EE9809A793AD6665F324F37CA7A6EF402
-#EXTINF:-1,SBS플러스
-http://jm14.modhospital.kr:9981/stream/channelid/36?ticket=E448A5D93EA6C9266ECD4CED8068F496C45ED83E
-#EXTINF:-1,SK스토아
-http://jm14.modhospital.kr:9981/stream/channelid/45?ticket=C26A6AE7FFDC73C6B2B8667FC62390821B5F6226
-#EXTINF:-1,SPOTV
-http://jm14.modhospital.kr:9981/stream/channelid/8?ticket=1B352D7ED7480F917C75B26E237F424A48201AA6
-#EXTINF:-1,SPOTV2
-http://jm14.modhospital.kr:9981/stream/channelid/103?ticket=A6591F73C86BFFA7FC2F885ACB6737B66F31F3D0
-#EXTINF:-1,TV아시아
-http://jm14.modhospital.kr:9981/stream/channelid/60?ticket=F59281626B96EEBD8306A866113A2D27574EA88F
-#EXTINF:-1,TV조선
-http://jm14.modhospital.kr:9981/stream/channelid/41?ticket=4DA6910E39C4117D2029CCFD2E19F4FAA72B0193
-#EXTINF:-1,W쇼핑
-http://jm14.modhospital.kr:9981/stream/channelid/15?ticket=A0C7E90B671AA7DD3FE140C9D9A868DE641CDE1F
-#EXTINF:-1,XtvN
-http://jm14.modhospital.kr:9981/stream/channelid/62?ticket=74F63201D2E512AE52B1F4E2685C34A48C477B63
-#EXTINF:-1,YTN
-http://jm14.modhospital.kr:9981/stream/channelid/47?ticket=568AFE9D59DBE109CBA97D46F6B8AD22FF0D90E7
-#EXTINF:-1,jTBC
-http://jm14.modhospital.kr:9981/stream/channelid/32?ticket=61FF3A00D39EF01530544947C0E694F4FFEAB7A5
-#EXTINF:-1,tvN
-http://jm14.modhospital.kr:9981/stream/channelid/39?ticket=B395B31EFB4FDB3D051DD3A31CD4B4CED7C7A462
-#EXTINF:-1,tvN스토리
-http://jm14.modhospital.kr:9981/stream/channelid/4?ticket=C00615C1AAE366A43BBF6324DE01C251BAF01FB8
-#EXTINF:-1,가야방송
-http://jm14.modhospital.kr:9981/stream/channelid/24?ticket=9D23A44D707897CDB9E9E6110F22A468CB22DA13
-#EXTINF:-1,공영쇼핑
-http://jm14.modhospital.kr:9981/stream/channelid/48?ticket=4F410AC5910570188F3E0580531C6942A364A689
-#EXTINF:-1,공지채널
-http://jm14.modhospital.kr:9981/stream/channelid/63?ticket=179C940AA0F9FD70A996405082D50ED9EEB36052
-#EXTINF:-1,국회TV
-http://jm14.modhospital.kr:9981/stream/channelid/44?ticket=6C732AA0324A1F0035773A4F7BCF6F3245DB230E
-#EXTINF:-1,다큐원
-http://jm14.modhospital.kr:9981/stream/channelid/97?ticket=F1FB96C21462515A3CF65A8F2FC57C3ACF73CF51
-#EXTINF:-1,더드라마
-http://jm14.modhospital.kr:9981/stream/channelid/12?ticket=5FD640F81557DAADBCC523EE4BE843C36A2F990F
-#EXTINF:-1,더라이프
-http://jm14.modhospital.kr:9981/stream/channelid/11?ticket=D3C56B8E88BA6766B7FBD7C6C408AE35064EC498
-#EXTINF:-1,드라마큐브
-http://jm14.modhospital.kr:9981/stream/channelid/101?ticket=B575FFE8F2CEC38D48BBCD3BD1EE8FD3733EF7F2
-#EXTINF:-1,드라맥스
-http://jm14.modhospital.kr:9981/stream/channelid/38?ticket=B3EF1AE450FD1445C8F89EE1A5F19F8629FD1AEA
-#EXTINF:-1,롯데ONE T
-http://jm14.modhospital.kr:9981/stream/channelid/81?ticket=578BDACE4E56718516491DEFC1D72C02808931EA
-#EXTINF:-1,롯데홈쇼핑
-http://jm14.modhospital.kr:9981/stream/channelid/26?ticket=A0C444045C2FDD01D9513631E2306A8F3FC29BC8
-#EXTINF:-1,바둑TV
-http://jm14.modhospital.kr:9981/stream/channelid/54?ticket=659FE5A310B99E4FAD2FCC331CCDA15B56880984
-#EXTINF:-1,복지TV
-http://jm14.modhospital.kr:9981/stream/channelid/92?ticket=E2D60970392E31032EBDB0298AD560896D947D33
-#EXTINF:-1,부산 KBS1
-http://jm14.modhospital.kr:9981/stream/channelid/21?ticket=557F104C9C8E35B865BB76B5E615789EF03806AF
-#EXTINF:-1,부산 KBS2
-http://jm14.modhospital.kr:9981/stream/channelid/20?ticket=AEFE9E1EA6C762DC9F737BF21129409D410B6D82
-#EXTINF:-1,뷰
-http://jm14.modhospital.kr:9981/stream/channelid/80?ticket=954B194DEF15E52A2C1DB0492C090A8E1FC02B6B
-#EXTINF:-1,상생TV
-http://jm14.modhospital.kr:9981/stream/channelid/13?ticket=90BA8AB6A947FEAE9796480921681876AC187BEF
-#EXTINF:-1,쇼핑엔T
-http://jm14.modhospital.kr:9981/stream/channelid/27?ticket=EF12D634B629F31C4D63B7901253DC37FB96B7EC
-#EXTINF:-1,스카이드라마
-http://jm14.modhospital.kr:9981/stream/channelid/91?ticket=A5149C06C664AF2D5DA330C756474A90902468C2
-#EXTINF:-1,스카이엔터
-http://jm14.modhospital.kr:9981/stream/channelid/75?ticket=07E91E29FDFD7D5F3AA4DD62B3A9069C1E70C67C
-#EXTINF:-1,스크린
-http://jm14.modhospital.kr:9981/stream/channelid/9?ticket=DEF97FEB6B5B14E6B883EDCE8FD9EBC9ADB6F458
-#EXTINF:-1,신세계쇼핑
-http://jm14.modhospital.kr:9981/stream/channelid/1?ticket=84E9CD57B3077EF2FC0F4CF667B169B077E03FAC
-#EXTINF:-1,아리랑TV
-http://jm14.modhospital.kr:9981/stream/channelid/100?ticket=43AF206D74C84226B1CBDF8BFEED13696C8F110A
-#EXTINF:-1,아이넷
-http://jm14.modhospital.kr:9981/stream/channelid/68?ticket=4BFC7CAD4CA0BEBC7A1A69C33C64EE10A9C1E9BF
-#EXTINF:-1,연합뉴스TV
-http://jm14.modhospital.kr:9981/stream/channelid/46?ticket=A301C7DC251E5356F1EF151784DED09CD9071120
-#EXTINF:-1,온스타일
-http://jm14.modhospital.kr:9981/stream/channelid/5?ticket=434A1046FAC65EDC4D7FE41675B8863798B86FF9
-#EXTINF:-1,재능방송
-http://jm14.modhospital.kr:9981/stream/channelid/61?ticket=CFA9EC6185B226E0F90654AB752DCFD5E188B903
-#EXTINF:-1,직업방송
-http://jm14.modhospital.kr:9981/stream/channelid/83?ticket=8E245002C275B2222C3D14DFA7B18220D49A920C
-#EXTINF:-1,채널 A
-http://jm14.modhospital.kr:9981/stream/channelid/40?ticket=487392219DEAE14DB56061197F99CFA37149406C
-#EXTINF:-1,채널 J
-http://jm14.modhospital.kr:9981/stream/channelid/3?ticket=745E637CA4382920EC0A2ABBFBF550BBAB8591A8
-#EXTINF:-1,채널S
-http://jm14.modhospital.kr:9981/stream/channelid/55?ticket=2A1E0D78012AC38747C43838E1E3A8469BB7B3E1
-#EXTINF:-1,채널차이나
-http://jm14.modhospital.kr:9981/stream/channelid/96?ticket=B59559ACE0FC84CE87940BBE37640F75E9860C20
-#EXTINF:-1,채널칭
-http://jm14.modhospital.kr:9981/stream/channelid/51?ticket=03588BDE306DB8047E40B2FFD8CC4759F7DEBA71
-#EXTINF:-1,챔프
-http://jm14.modhospital.kr:9981/stream/channelid/94?ticket=D8762A2C2D8A13CC6047B49CAA053BDB71AFA8FD
-#EXTINF:-1,코미디TV
-http://jm14.modhospital.kr:9981/stream/channelid/37?ticket=3B27B0CB73AFB729EE595BBAC9C9F9322D6E2418
-#EXTINF:-1,투니버스
-http://jm14.modhospital.kr:9981/stream/channelid/65?ticket=DD3626252E90B7D6C086DD6943375F5BA24DB54A
-#EXTINF:-1,평화방송
-http://jm14.modhospital.kr:9981/stream/channelid/76?ticket=67867333CE906D7D6C288566A58A2297A346A68E
-#EXTINF:-1,하이라이트TV
-http://jm14.modhospital.kr:9981/stream/channelid/56?ticket=EC423AC21B9FC00B05EF1127CD0A1FC69060284A
-#EXTINF:-1,한국경제TV
-http://jm14.modhospital.kr:9981/stream/channelid/90?ticket=1B5205712E3A9EDCC287BB0F646D9043DAD2920B
-#EXTINF:-1,현대홈쇼핑
-http://jm14.modhospital.kr:9981/stream/channelid/35?ticket=3E5484513C27DF56B57C86B58A613C3A9CDD63BF
-#EXTINF:-1,현대홈쇼핑+샵
-http://jm14.modhospital.kr:9981/stream/channelid/78?ticket=4C6698AF8E93723D99203B63BD2D72BA56B9AA08
-#EXTINF:-1,홈앤쇼핑
-http://jm14.modhospital.kr:9981/stream/channelid/33?ticket=88D54C476D8C578F8187449888FC06D97E4B4FC5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CabPBCTxDnbaSsMHt+f/BA", "kid":"JK6Gd03wQo+0bxU+gWZGYg" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/d47f44e52bf62ff435731.png" tvg-id="AstroArena",Astro Arena
+https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/4dd8b7db6182cb5f48ce5.png" tvg-id="AstroArena2",Astro Arena 2
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png" tvg-id="AstroArenaBola",Arena Bola
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/6996a6dca16f43f734049.png" tvg-id="AstroArenaBola2",Arena Bola 2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/3872d10a3e8f9ed89cfa2.png" tvg-id="AstroArenaBola2",Arena Bola 3
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/ec444fecfcb3a20cd6aa4.png" tvg-id="AstroSupersport",Astro Supersport
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/bdb04ae013c6d829c3851.png" tvg-id="AstroSupersport2",Astro Supersport 2
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/fee0eec440200aabe6685.png" tvg-id="AstroSupersport3",Astro Supersport 3
+https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/4cf5891aa6569231ea9a8.png" tvg-id="AstroSupersport4",Astro Supersport 4
+https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x56Rb533occYBeOc2jDZOw", "kid":"n5n/otJ6TPugW4O5HbhG3w" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/f3d65152120615b6eef9b.png" tvg-id="W-Sport",W-Sport
+https://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
