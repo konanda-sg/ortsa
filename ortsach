@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_key=2b1a1b7026ce4b378abd4b266aa9780f:121f270c5ea6b690bedd7e4a57f2f0c6
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 ch-number="4021" tvg-id="AstroAEC" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",4021 AEC S
+#EXTINF:-1 ch-number="4021" tvg-id="AstroAEC" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",AEC S
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
 https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
