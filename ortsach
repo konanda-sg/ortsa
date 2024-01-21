@@ -17,6 +17,9 @@ https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_key=b0e7dbe25e6c49f9b525e614fc4aa60c:02223965e33f7bf1e6c21278063bb508
 https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
 
+#EXTINF:-1 ch-number="4023",大陆寻奇「纪录」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+
 ##EXTINF:-1 ch-number="6" tvg-id="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv155_pc.png",6 民视
 ##http://seb.sason.top/ptv/ftv.php?id=ms
 
