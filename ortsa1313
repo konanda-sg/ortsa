@@ -236,7 +236,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default.mpd
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroAEC
 
 #EXTINF:-1 ch-number="306" tvg-id="AstroAEC" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",306 AEC S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVTRZakE0WkRBdFlqTmtPQzAwWXpJNUxUbGtOMkl0TUdZMk9UZGpZMkkxWmpSbCIsIndtb3BpZCI6MzIsImV4cCI6MTcwNTk2NzU1NSwiaWF0IjoxNzA1MzYzNTU1fQ.EFjwPIi-d-URiJc52er0TZMCxYfL9gNTuGUNrpgBG7s"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVTRZakE0WkRBdFlqTmtPQzAwWXpJNUxUbGtOMkl0TUdZMk9UZGpZMkkxWmpSbCIsIndtb3BpZCI6MzIsImV4cCI6MTcwNjY5NDUwNiwiaWF0IjoxNzA2MDkwNTA2fQ.8HdwdOlzaifukta-t10OYYzqzmlFajzXvj9zrtujaSA"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1a1b7026ce4b378abd4b266aa9780f:121f270c5ea6b690bedd7e4a57f2f0c6
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
@@ -251,7 +251,7 @@ https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 ch-number="308" tvg-id="AstroQJ" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",308 Astro QJ S
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVTRZakE0WkRBdFlqTmtPQzAwWXpJNUxUbGtOMkl0TUdZMk9UZGpZMkkxWmpSbCIsIndtb3BpZCI6MzIsImV4cCI6MTcwNTk2NzU1NSwiaWF0IjoxNzA1MzYzNTU1fQ.EFjwPIi-d-URiJc52er0TZMCxYfL9gNTuGUNrpgBG7s"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVTRZakE0WkRBdFlqTmtPQzAwWXpJNUxUbGtOMkl0TUdZMk9UZGpZMkkxWmpSbCIsIndtb3BpZCI6MzIsImV4cCI6MTcwNjY5NDUwNiwiaWF0IjoxNzA2MDkwNTA2fQ.8HdwdOlzaifukta-t10OYYzqzmlFajzXvj9zrtujaSA"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0e7dbe25e6c49f9b525e614fc4aa60c:02223965e33f7bf1e6c21278063bb508
 https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
