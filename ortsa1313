@@ -217,6 +217,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
 ##########################################  chinese  ##################################################
 
+#EXTINF:-1 tvg-id="100" ch-number="100" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/LongLongFunV1.png",Astro LongLongFun
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5112
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5112/default.mpd
 
 #EXTINF:-1 ch-number="300" tvg-id="iQIYI" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
