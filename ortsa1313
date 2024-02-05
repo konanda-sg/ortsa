@@ -217,9 +217,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
 ##########################################  chinese  ##################################################
 
-#EXTINF:-1 tvg-id="100" ch-number="100" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/LongLongFunV1.png",Astro LongLongFun
+#EXTINF:-1 ch-number="100" tvg-id="LongLongFun" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/LongLongFunV1.png",100 Astro LongLongFun
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5112
+#KODIPROP:inputstream.adaptive.license_key=1710fd0de6f0939d3d7fd4c67f7dc410:bc06c86c2657db6521e2d880e7790a9f
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5112/default.mpd
 
 #EXTINF:-1 ch-number="300" tvg-id="iQIYI" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI
@@ -1456,7 +1456,7 @@ https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 
 #EXTINF:-1 ch-number="809" tvg-id="beINSportsRugby" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 beINSportsRugby
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/astro.php?id=5125
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5125
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5125/default.mpd
 
 #EXTINF:-1 ch-number="809" tvg-id="beINSportsRugby" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 beINSportsRugby S
@@ -1466,7 +1466,7 @@ https://linear05-playback.sooka.my/CH3/masterCH3.mpd
 
 #EXTINF:-1 ch-number="809" tvg-id="ASSPPlus" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 ASSP Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/astro.php?id=5108
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5108
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5108/default.mpd
 
 #EXTINF:-1 ch-number="809" tvg-id="ASSPPlus" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 ASSP Plus
