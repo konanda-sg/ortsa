@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="24"
 
-#EXTINF:-1 ch-number="4021" tvg-id="AstroAEC" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",AEC
+#EXTINF:-1 ch-number="4021" tvg-id="AstroAEC" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6fKn4EJ/Y7qabQxl2vQPmg", "kid":"ekpB3aNZlA5sjC/xIj13EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default_primary.mpd
